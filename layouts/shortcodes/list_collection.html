@@ -1,0 +1,13 @@
+{{- $collection := .Get "collection" | default "publication" -}}
+{{- $pages := site.RegularPages | where "Section" "=" $collection -}}
+{{- if $pages -}}
+<ul class="list-collection">
+  {{- range $pages -}}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- with .Params.authors }} — {{ delimit . ", " }}{{ end -}}
+    {{- with .Date }} ({{ .Format "2006" }}){{ end -}}
+  </li>
+  {{- end -}}
+</ul>
+{{- end -}}
