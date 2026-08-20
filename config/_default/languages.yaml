@@ -1,22 +1,18 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
 en:
-  locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  languageName: English
+  weight: 1
+  contentDir: content/en
+  title: "SAGE : Self, Altruism, Groups, & Empathy"
+  params:
+    lab_name: "SAGE"
+    lab_full_name: "SAGE : Self, Altruism, Groups, & Empathy"
+    institution: "Université du Québec à Rimouski (UQAR)"
+fr:
+  languageName: Français
+  weight: 2
+  contentDir: content/fr
+  title: "SAGE : Soi, Altruisme, Groupes, et Empathie"
+  params:
+    lab_name: "SAGE"
+    lab_full_name: "SAGE : Soi, Altruisme, Groupes, et Empathie"
+    institution: "Université du Québec à Rimouski (UQAR)"
