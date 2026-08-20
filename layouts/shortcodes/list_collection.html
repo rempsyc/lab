@@ -1,5 +1,6 @@
 {{- $collection := .Get "collection" | default "publication" -}}
-{{- $pages := site.RegularPages | where "Section" "=" $collection -}}
+{{- $section := site.GetPage $collection -}}
+{{- $pages := cond (ne $section nil) $section.RegularPages (slice) -}}
 {{- if $pages -}}
 <ul class="list-collection">
   {{- range $pages -}}
