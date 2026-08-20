@@ -1,5 +1,6 @@
 {{- $collection := .Get "collection" | default "publication" -}}
-{{- $section := site.GetPage $collection -}}
+{{- $sectionName := cond (eq $collection "publication") "publications" $collection -}}
+{{- $section := site.GetPage $sectionName -}}
 {{- $pages := cond (ne $section nil) $section.RegularPages (slice) -}}
 {{- if $pages -}}
 <ul class="list-collection">
