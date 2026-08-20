@@ -12,9 +12,3 @@ type: page
 ## Publications
 
 Voici les publications récentes du laboratoire SAGE, avec les badges d'impact Altmetric et Dimensions.
-
-{{< list_collection collection="publication" >}}
-
-<!-- Exemple de shortcode pour les badges à côté de chaque publication -->
-{{% altmetric id="10.1234/exempledoi" %}}
-{{% dimensions id="10.1234/exempledoi" %}}

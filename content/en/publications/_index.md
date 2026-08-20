@@ -13,9 +13,3 @@ type: page
 ## Publications
 
 Below are recent publications from the SAGE research lab, with Altmetric and Dimensions impact badges.
-
-{{< list_collection collection="publication" >}}
-
-<!-- Example shortcode for badges next to each publication -->
-{{% altmetric id="10.1234/exampledoi" %}}
-{{% dimensions id="10.1234/exampledoi" %}}
