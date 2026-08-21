@@ -1,0 +1,22 @@
+main:
+  - name: Accueil
+    url: ./
+    weight: 10
+  - name: Recherche
+    url: recherche/
+    weight: 20
+  - name: Équipe
+    url: equipe/
+    weight: 30
+  - name: Publications
+    url: publications/
+    weight: 40
+  - name: Actualités
+    url: actualites/
+    weight: 50
+  - name: Nous joindre
+    url: nous-joindre/
+    weight: 60
+  - name: Contact
+    url: contact/
+    weight: 70

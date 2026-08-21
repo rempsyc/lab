@@ -1,12 +1,12 @@
 {
-  "name": "hugo-blox-academic-cv-starter",
+  "name": "sage-lab-website",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.14.0",
-  "description": "Academic CV starter template for Hugo Blox with Tailwind CSS v4",
+  "description": "Bilingual website for the SAGE Lab at UQAR",
   "scripts": {
-    "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify && pnpm run pagefind",
+    "dev": "hugo server --disableFastRender --noTimes",
+    "build": "hugo --minify --noTimes && pnpm run pagefind",
     "pagefind": "pagefind --site public"
   },
   "dependencies": {

@@ -1,23 +1,22 @@
-# rempsyc/lab
+# SAGE Lab
 
-This repository hosts the SAGE research lab site powered by HugoBlox.
+This repository contains the bilingual website of the SAGE Lab at the Université du Québec à Rimouski (UQAR).
 
-## Structure
+**SAGE:** Self, Altruism, Groups, & Empathy
 
-- `content/en/` - English content
-- `content/fr/` - French content
-- `config/_default/languages.yaml` - Language configuration
+**SAGE :** Soi, Altruisme, Groupes et Empathie
 
-## Features
+The site is built with Hugo Blox and published through GitHub Pages. English is served at `/lab/`; French is served at `/lab/fr/`.
 
-- Multilingual site in English and French
-- Publications page with Altmetric and Dimensions badges
-- Team, projects, news, join-us pages
+## Publications
 
-## Contributing
+Publication pages are stored as plain Markdown and BibTeX files in both language folders. A monthly GitHub workflow checks Rémi Thériault’s public ORCID record and opens a pull request when it discovers new works. Existing records are not overwritten, so hand-edited metadata and links remain under version control.
 
-Submit PRs for content updates or new blocks.
+## Content
 
----
+- `content/en/` — English pages
+- `content/fr/` — French pages
+- `data/authors/` — lab member profiles
+- `config/_default/` — navigation, languages, and site settings
 
-Powered by [HugoBlox](https://hugoblox.com/) & [Ownable CMS](https://ownable.dev/)
+Content corrections and additions can be proposed through pull requests.

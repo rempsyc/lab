@@ -1,5 +1,5 @@
 en:
-  languageName: English
+  label: English
   weight: 1
   contentDir: content/en
   title: "SAGE : Self, Altruism, Groups, & Empathy"
@@ -8,7 +8,7 @@ en:
     lab_full_name: "SAGE : Self, Altruism, Groups, & Empathy"
     institution: "Université du Québec à Rimouski (UQAR)"
 fr:
-  languageName: Français
+  label: Français
   weight: 2
   contentDir: content/fr
   title: "SAGE : Soi, Altruisme, Groupes, et Empathie"
