@@ -1,0 +1,12 @@
+.navbar-brand {
+  display: inline-flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.navbar-brand svg {
+  width: auto;
+  height: 2em;
+  max-height: none;
+}

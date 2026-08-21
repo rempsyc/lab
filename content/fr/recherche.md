@@ -25,4 +25,8 @@ Comment le sentiment d’appartenance, les identités partagées, les normes soc
 
 Comment comprend-on les expériences des autres et y répond-on, et comment l’empathie peut-elle contribuer à réduire les divisions sociales?
 
+## Jardin d’idées
+
+Le [Jardin d’idées](https://rempsyc.github.io/research-ideas/) rassemble des questions de recherche et des idées de projets en évolution qui orientent les travaux futurs du laboratoire et favorisent de nouvelles collaborations.
+
 Dans l’ensemble de ces thèmes, le laboratoire valorise des pratiques de recherche transparentes, reproductibles et ouvertes.

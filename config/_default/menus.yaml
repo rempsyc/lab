@@ -1,7 +1,4 @@
 main:
-  - name: Home
-    url: ./
-    weight: 10
   - name: Research
     url: research/
     weight: 20
@@ -11,9 +8,6 @@ main:
   - name: Publications
     url: publications/
     weight: 40
-  - name: News
-    url: news/
-    weight: 50
   - name: Join
     url: join/
     weight: 60

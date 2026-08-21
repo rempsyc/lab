@@ -7,12 +7,13 @@ reading_time: false
 share: false
 ---
 
-## SAGE Lab
+SAGE Lab  
+Office U-1053  
+Department of Health Sciences  
+Université du Québec à Rimouski  
+207A rue Notre-Dame Est  
+Rimouski, QC G5L 2A4
+418 723-1986, extension 1110
+**remi_theriault at uqar.ca**
 
-Université du Québec à Rimouski (UQAR)
-
-For research collaborations, student opportunities, or other inquiries, contact **Rémi Thériault**, Assistant Professor of Psychology and director of the SAGE Lab.
-
-- Email: [remi_theriault@uqar.ca](mailto:remi_theriault@uqar.ca)
-- [UQAR faculty profile](https://www.uqar.ca/professeurs/theriault-remi/)
-- [Personal website](https://remi-theriault.com/)
+[Personal website](https://remi-theriault.com/) · [UQAR faculty profile](https://www.uqar.ca/professeurs/theriault-remi/)

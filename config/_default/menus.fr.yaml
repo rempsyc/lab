@@ -1,7 +1,4 @@
 main:
-  - name: Accueil
-    url: ./
-    weight: 10
   - name: Recherche
     url: recherche/
     weight: 20
@@ -11,9 +8,6 @@ main:
   - name: Publications
     url: publications/
     weight: 40
-  - name: Actualités
-    url: actualites/
-    weight: 50
   - name: Nous joindre
     url: nous-joindre/
     weight: 60

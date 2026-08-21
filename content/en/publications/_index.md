@@ -8,8 +8,6 @@ sections:
   - block: markdown
     content:
       title: Publications
-      text: |-
-        This list is drawn from [Rémi Thériault’s ORCID record](https://orcid.org/0000-0003-4315-6788). Each publication remains an editable file in this repository, and newly discovered records arrive as review requests so their metadata can be checked before publication.
     design:
       columns: "1"
       spacing:
@@ -17,6 +15,7 @@ sections:
 
   - block: collection
     content:
+      count: 0
       filters:
         folders:
           - publications

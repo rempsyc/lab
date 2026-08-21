@@ -25,4 +25,8 @@ How do belonging, shared identities, social norms, and intergroup relations infl
 
 How do people understand and respond to others’ experiences, and how can empathy help bridge social divides?
 
+## Idea Garden
+
+The [Idea Garden](https://rempsyc.github.io/research-ideas/) is a growing collection of research questions and project ideas that helps guide the lab’s future work and invites new collaborations.
+
 Across these themes, the lab values transparent, reproducible, and open research practices.
