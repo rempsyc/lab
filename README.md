@@ -53,3 +53,5 @@ Rimouski, Québec, Canada<br>
 ## About this repository
 
 This repository contains the source of the SAGE Lab’s bilingual website, published at [labosage.com](https://labosage.com/). The site is built with [Hugo Blox](https://hugoblox.com/) and hosted on GitHub Pages. Corrections and contributions may be proposed through pull requests.
+
+To preview the site locally on Windows, open PowerShell in this folder and run `./preview.ps1`. The script uses the correct Hugo version for this project without changing any other Hugo installation.

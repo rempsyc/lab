@@ -70,3 +70,6 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Project-local Hugo downloaded by preview.ps1
+.tools/

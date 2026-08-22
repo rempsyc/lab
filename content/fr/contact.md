@@ -18,3 +18,5 @@ Rimouski, QC G5L 2A4
 **sagelab.uqar arobase gmail.com**
 
 [Site personnel](https://remi-theriault.com/fr/) · [Profil professoral à l’UQAR](https://www.uqar.ca/professeurs/theriault-remi/)
+
+{{< google_map lang="fr" >}}
