@@ -15,7 +15,7 @@ Université du Québec à Rimouski
 207A rue Notre-Dame Est  
 Rimouski, QC G5L 2A4  
 418 723-1986, extension 1110  
-**sagelab.uqar at gmail.com**
+**contact at labosage.com**
 
 [Personal website](https://remi-theriault.com/) · [UQAR faculty profile](https://www.uqar.ca/professeurs/theriault-remi/)
 

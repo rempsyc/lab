@@ -48,7 +48,7 @@ Prospective research assistants, undergraduate and graduate students, postdoctor
 SAGE Lab<br>
 Université du Québec à Rimouski<br>
 Rimouski, Québec, Canada<br>
-[sagelab.uqar@gmail.com](mailto:sagelab.uqar@gmail.com)
+[Contact the SAGE Lab](https://labosage.com/contact/)
 
 ## Use this website as a template
 
