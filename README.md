@@ -50,8 +50,16 @@ Université du Québec à Rimouski<br>
 Rimouski, Québec, Canada<br>
 [sagelab.uqar@gmail.com](mailto:sagelab.uqar@gmail.com)
 
+## Use this website as a template
+
+To create a new lab or academic website from this project, select **Use this template** at the top of the repository, or open [Create a new repository from this template](https://github.com/rempsyc/lab/generate). GitHub will create a clean, independent repository in your account without copying the SAGE Lab’s commit history.
+
+After cloning your new repository on Windows, install Git and Go, then run `./preview.ps1` in PowerShell. The script downloads the correct Hugo version and opens a live local preview. Replace the SAGE Lab content, profiles, links, branding, domain settings, and publication records before publishing your site.
+
+Please use the template workflow rather than forking this repository. This repository is maintained as the official SAGE Lab website and does not accept external pull requests or direct contributions.
+
 ## About this repository
 
-This repository contains the source of the SAGE Lab’s bilingual website, published at [labosage.com](https://labosage.com/). The site is built with [Hugo Blox](https://hugoblox.com/) and hosted on GitHub Pages. Corrections and contributions may be proposed through pull requests.
+This repository contains the source of the SAGE Lab’s bilingual website, published at [labosage.com](https://labosage.com/). The site is built with [Hugo Blox](https://hugoblox.com/) and hosted on GitHub Pages.
 
 To preview the site locally on Windows, open PowerShell in this folder and run `./preview.ps1`. The script uses the correct Hugo version for this project without changing any other Hugo installation.
