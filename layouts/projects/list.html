@@ -11,7 +11,6 @@
     <button class="project-filter border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-800" data-filter="prosociality" aria-pressed="false">{{ if $is_fr }}Prosocialité robuste{{ else }}Robust prosociality{{ end }}</button>
     <button class="project-filter border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-800" data-filter="wellbeing" aria-pressed="false">{{ if $is_fr }}Bien-être{{ else }}Well-being{{ end }}</button>
     <button class="project-filter border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-800" data-filter="open-science" aria-pressed="false">{{ if $is_fr }}Science robuste{{ else }}Robust science{{ end }}</button>
-    <button class="project-filter border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-800" data-filter="revive" aria-pressed="false">{{ if $is_fr }}À relancer{{ else }}Available to revive{{ end }}</button>
   </nav>
 
   <div class="mt-8 grid gap-7 sm:grid-cols-2 lg:grid-cols-3" id="project-grid">
@@ -59,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
         item.classList.toggle('border-slate-300', !active);
       });
       cards.forEach(function (card) {
-        card.hidden = filter !== 'all' && (filter === 'revive' ? card.dataset.status !== 'revive' : card.dataset.umbrella !== filter);
+        card.hidden = filter !== 'all' && card.dataset.umbrella !== filter;
       });
     });
   });
