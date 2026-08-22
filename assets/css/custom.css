@@ -10,3 +10,17 @@
   height: 2em;
   max-height: none;
 }
+
+.sage-heading-link {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.sage-heading-link:hover,
+.sage-heading-link:focus-visible {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #a3a3a3;
+  text-underline-offset: 0.2em;
+}

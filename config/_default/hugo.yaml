@@ -56,6 +56,11 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
   highlight:
     lineNos: false
 security:

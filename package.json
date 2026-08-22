@@ -5,7 +5,7 @@
   "packageManager": "pnpm@10.14.0",
   "description": "Bilingual website for the SAGE Lab at UQAR",
   "scripts": {
-    "dev": "hugo server --disableFastRender --noTimes",
+    "dev": "hugo server --bind 0.0.0.0 --poll 700ms --disableFastRender --noTimes",
     "build": "hugo --minify --noTimes && pnpm run pagefind",
     "pagefind": "pagefind --site public"
   },

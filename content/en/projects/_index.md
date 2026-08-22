@@ -1,0 +1,8 @@
+---
+title: Projects
+summary: Active and recoverable research pipelines at the SAGE Lab.
+type: projects
+translationKey: projects
+---
+
+Our projects turn the lab’s broad questions into concrete studies, tools, and manuscripts. Explore active pipelines in robust prosociality, well-being, and robust science—or find a paused project that could be revived through a new collaboration.

@@ -2,6 +2,9 @@ main:
   - name: Recherche
     url: recherche/
     weight: 20
+  - name: Projets
+    url: projets/
+    weight: 25
   - name: Équipe
     url: equipe/
     weight: 30

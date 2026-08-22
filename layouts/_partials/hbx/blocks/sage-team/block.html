@@ -11,7 +11,7 @@
 
   {{ range $group_index, $group := $groups }}
     <section class="{{ if gt $group_index 0 }}mt-16{{ end }}">
-      <h2 class="mb-8 border-b border-gray-200 pb-3 text-2xl font-semibold text-gray-900">{{ $group.name }}</h2>
+      <h2 class="mb-8 border-b border-gray-200 pb-3 text-center text-2xl font-semibold text-gray-900">{{ $group.name }}</h2>
       <div class="flex flex-wrap justify-center gap-x-8 gap-y-12">
         {{ range $group.members }}
           {{- $profile := partial "functions/get_author_profile" (dict "slug" .) -}}
