@@ -9,9 +9,11 @@ reading_time: false
 share: false
 ---
 
-SAGE investigates how psychological science can promote prosocial change, support individual well-being, and strengthen the evidence on which those efforts depend. Our central ambition is to develop a science of **robust prosociality**: changes in empathy, kindness, cooperation, and social cohesion that endure across time, settings, populations, and measures. Informed by contemplative traditions and theories of self and social identity, our work is organized around three interconnected research programs.
+SAGE investigates how psychological science can promote prosocial change, support individual well-being, and strengthen the evidence on which those efforts depend. Our central ambition is to develop a science of **robust prosociality**: changes in empathy, kindness, cooperation, and social cohesion that endure across time, settings, populations, and measures. Informed by contemplative traditions and theories of self and social identity, our work is organized around three interconnected research programs. [Explore our current projects](../projects/) for a concrete view of this work.
 
 ## Robust prosociality, identity, and collective life {#prosociality}
+
+{{< research_image src="media/research/prosociality.jpg" alt="A diverse group joining their hands in a circle" >}}
 
 How can we strengthen empathy, kindness, cooperation, and social cohesion in divided societies?
 
@@ -21,6 +23,8 @@ Current research uses artificial intelligence to identify promising nonfiction b
 
 ## Well-being, self, and robust personal change {#wellbeing}
 
+{{< research_image src="media/research/wellbeing.jpg" alt="Gentle ripples moving across the surface of water" >}}
+
 How can people cultivate happiness, inner peace, and a healthier relationship with themselves?
 
 This program examines the personal and social conditions that shape well-being, including psychological needs, social inclusion, self-concept, self-compassion, attention, and contemplative practice. We are especially interested in why an intervention benefits some people more than others and how sustained engagement with practices or ideas can produce meaningful change.
@@ -28,6 +32,8 @@ This program examines the personal and social conditions that shape well-being, 
 Current and future work considers interventions delivered through meditation, nonfiction books, artificial intelligence, videos, podcasts, and other formats, as well as experiences such as dreams and other states in which ordinary self-control is reduced.
 
 ## Open, reproducible, and inclusive science {#open-science}
+
+{{< research_image src="media/research/open-science.jpg" alt="A data analysis workspace with charts displayed on a laptop" >}}
 
 How can behavioural science produce knowledge that is more credible, accessible, and representative?
 
@@ -44,9 +50,3 @@ Across these programs, we combine experiments and randomized controlled trials w
 The [Idea Garden](https://rempsyc.github.io/research-ideas/) is a growing collection of specific questions and possible projects. Its five domains—attention and meditation; dreams and low-control states; polarization and prejudice; self, identity, and agency; and social change and prosociality—provide a more detailed map within and across the three broad programs above.
 
 The boundaries are intentionally permeable: many of our most promising questions connect individual well-being, relationships with others, collective life, and the methods used to study them.
-
-## Current projects {#projects}
-
-These research programs become concrete through a changing pipeline of experiments, interventions, evidence syntheses, software, and collaborative manuscripts.
-
-{{< project_preview section="projects" >}}
