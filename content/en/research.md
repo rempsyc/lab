@@ -1,6 +1,8 @@
 ---
 title: Research
-summary: The three research programs that guide the SAGE Lab.
+summary: SAGE Lab research on robust prosociality, well-being, identity, collective life, and open and reproducible science.
+seo:
+  title: "Prosociality, Well-Being, and Open Science Research | SAGE Lab"
 translationKey: research
 type: page
 layout: compact

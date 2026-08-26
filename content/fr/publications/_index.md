@@ -1,13 +1,16 @@
 ---
 title: Publications
 summary: Publications scientifiques des membres du laboratoire SAGE.
+seo:
+  title: "Publications en psychologie sociale | Labo SAGE"
 translationKey: publications
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Publications
+      text: |
+        # Publications
     design:
       columns: "1"
       spacing:

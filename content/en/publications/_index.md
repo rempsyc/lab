@@ -1,13 +1,16 @@
 ---
 title: Publications
 summary: Research publications by SAGE Lab members.
+seo:
+  title: "Social Psychology Publications | SAGE Lab"
 translationKey: publications
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Publications
+      text: |
+        # Publications
     design:
       columns: "1"
       spacing:

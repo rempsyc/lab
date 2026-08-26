@@ -1,6 +1,8 @@
 ---
 title: Recherche
-summary: Les trois programmes de recherche qui orientent les travaux du laboratoire SAGE.
+summary: Les recherches du laboratoire SAGE sur la prosocialité robuste, le bien-être, l’identité, la vie collective et la science ouverte et reproductible.
+seo:
+  title: "Prosocialité, bien-être et science ouverte | Labo SAGE"
 translationKey: research
 type: page
 layout: compact

@@ -1,6 +1,8 @@
 ---
 title: ""
-summary: "SAGE is a social psychology research lab at UQAR studying Self, Altruism, Groups, and Empathy."
+summary: "SAGE Lab is a social psychology research lab at UQAR studying Self, Altruism, Groups, and Empathy."
+seo:
+  title: "SAGE Lab | Social Psychology Research at UQAR"
 translationKey: home
 type: landing
 

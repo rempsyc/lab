@@ -1,6 +1,8 @@
 ---
 title: People
-summary: Meet the people behind the SAGE Lab.
+summary: Meet the researchers and research assistants of the SAGE Lab at the Université du Québec à Rimouski.
+seo:
+  title: "Researchers and Students | SAGE Lab at UQAR"
 translationKey: people
 type: landing
 

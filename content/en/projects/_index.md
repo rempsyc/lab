@@ -1,6 +1,8 @@
 ---
 title: Projects
-summary: Active and recoverable research pipelines at the SAGE Lab.
+summary: Active and recoverable SAGE Lab projects in prosociality, well-being, identity, polarization, and open science.
+seo:
+  title: "Social Psychology Research Projects | SAGE Lab"
 type: projects
 translationKey: projects
 ---

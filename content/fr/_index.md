@@ -1,6 +1,8 @@
 ---
 title: ""
-summary: "SAGE est un laboratoire de psychologie sociale à l’UQAR qui étudie le Soi, l’Altruisme, les Groupes et l’Empathie."
+summary: "Le Labo SAGE est un laboratoire de psychologie sociale à l’UQAR qui étudie le Soi, l’Altruisme, les Groupes et l’Empathie."
+seo:
+  title: "Labo SAGE | Recherche en psychologie sociale à l’UQAR"
 translationKey: home
 type: landing
 
