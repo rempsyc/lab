@@ -26,4 +26,4 @@ This project asks whether video-based attention training can improve social outc
 
 The analyses need to be redone before a manuscript can be developed. This may suit a student interested in attention, self-esteem, social behaviour, or reproducible reanalysis.
 
-[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSc2WOrUWlfrOx3mAY6JObaz59ea0X4mIxr6Tk82WnYTcio-lA/viewform)
+[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)

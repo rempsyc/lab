@@ -26,4 +26,4 @@ Ce projet étudie les effets placebo dans l’asthme, au croisement de la santé
 
 La prochaine étape consiste à intégrer les données disponibles, à reprendre les analyses et à transformer le travail en manuscrit. Ce projet pourrait convenir à une personne étudiante qui s’intéresse à la psychologie de la santé, aux effets placebo ou à l’analyse secondaire de données.
 
-[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSc2WOrUWlfrOx3mAY6JObaz59ea0X4mIxr6Tk82WnYTcio-lA/viewform)
+[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)

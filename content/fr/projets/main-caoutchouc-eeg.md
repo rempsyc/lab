@@ -26,4 +26,4 @@ Ce projet porte sur des données EEG recueillies pendant l’illusion de la main
 
 Le jeu de données doit faire l’objet d’une réanalyse complète avant la réécriture du manuscrit. Ce projet pourrait convenir à une personne qui s’intéresse à la psychophysiologie, à l’EEG, à l’incarnation ou à l’analyse quantitative.
 
-[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSc2WOrUWlfrOx3mAY6JObaz59ea0X4mIxr6Tk82WnYTcio-lA/viewform)
+[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)

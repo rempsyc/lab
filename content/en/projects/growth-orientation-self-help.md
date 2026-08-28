@@ -26,4 +26,4 @@ This project family connects self-help, passion, and self-determination theory. 
 
 Analysis and interpretation remain to be completed. The work could become one manuscript, several linked manuscripts, or a broader program on healthy and unhealthy forms of self-improvement.
 
-[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSc2WOrUWlfrOx3mAY6JObaz59ea0X4mIxr6Tk82WnYTcio-lA/viewform)
+[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)

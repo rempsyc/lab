@@ -41,7 +41,7 @@ We use methods including experiments, longitudinal interventions, artificial int
 
 Our [project portfolio](https://labosage.com/projects/) presents both active research pipelines and promising studies available to be revived. Students and collaborators can see what already exists, what remains to be done, and where their interests might contribute.
 
-Prospective research assistants, undergraduate and graduate students, postdoctoral researchers, and collaborators are invited to read our [collaboration information](https://labosage.com/join/) and complete the [SAGE Lab Collaboration Assessment Form](https://docs.google.com/forms/d/e/1FAIpQLSc2WOrUWlfrOx3mAY6JObaz59ea0X4mIxr6Tk82WnYTcio-lA/viewform).
+Prospective research assistants, undergraduate and graduate students, postdoctoral researchers, and collaborators are invited to read our [collaboration information](https://labosage.com/join/) and complete the [SAGE Lab Collaboration Assessment Form](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform).
 
 ## Contact
 
