@@ -15,8 +15,10 @@ Université du Québec à Rimouski
 207A rue Notre-Dame Est  
 Rimouski, QC G5L 2A4  
 418 723-1986, poste 1110  
-**contact arobase labosage.com**
+**contact@labosage.com**
 
 [Site personnel](https://remi-theriault.com/fr/) · [Profil professoral à l’UQAR](https://www.uqar.ca/professeurs/theriault-remi/)
+
+[Prendre rendez-vous](https://outlook.office.com/bookwithme/user/124aa7641a77481e893ad9421579faac@uqar.ca?anonymous&ismsaljsauthenabled&ep=plink)
 
 {{< google_map lang="fr" >}}
