@@ -26,4 +26,4 @@ This project examines EEG data collected during the rubber-hand illusion. It con
 
 The dataset requires a full reanalysis before the manuscript can be rewritten. This may suit a student with interests or experience in psychophysiology, EEG, embodiment, or quantitative analysis.
 
-[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)
+[Interested in helping revive this project? Complete the SAGE Lab Collaboration Interest Form.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)

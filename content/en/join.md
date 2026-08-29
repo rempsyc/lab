@@ -11,7 +11,7 @@ share: false
 
 SAGE welcomes students, researchers, and community partners whose interests connect with self, altruism, groups, empathy, or the broader study of wisdom. Opportunities depend on current projects, supervision capacity, and available funding.
 
-Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/). Then complete the **[SAGE Lab Collaboration Assessment Form](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)**. This is the preferred first point of contact for all prospective lab members and collaborators.
+Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/). Then complete the **[SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**. This bilingual form is the preferred first point of contact for prospective lab members and collaborators when a structured assessment is appropriate.
 
 ## Undergraduate students
 

@@ -26,4 +26,4 @@ This project examines placebo effects in asthma at the intersection of health, b
 
 The next stage is to integrate the available data, revisit the analyses, and rewrite the work as a manuscript. This may suit a student interested in health psychology, placebo effects, or secondary-data research.
 
-[Interested in helping revive this project? Complete the SAGE Lab Collaboration Assessment Form.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)
+[Interested in helping revive this project? Complete the SAGE Lab Collaboration Interest Form.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)

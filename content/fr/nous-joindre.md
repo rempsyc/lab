@@ -11,7 +11,7 @@ share: false
 
 SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
 
-Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/). Remplissez ensuite le **[formulaire d’évaluation d’une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)**. Il s’agit du point de contact privilégié pour toute personne souhaitant se joindre au laboratoire ou proposer une collaboration.
+Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/). Remplissez ensuite le **[formulaire d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**. Ce formulaire bilingue est le point de contact privilégié lorsqu’une évaluation structurée convient à la demande.
 
 ## Personnes étudiantes au premier cycle
 
