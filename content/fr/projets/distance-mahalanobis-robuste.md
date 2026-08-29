@@ -26,4 +26,4 @@ Ce projet méthodologique étudie le déterminant de covariance minimale comme v
 
 Le travail restant porte surtout sur la rédaction, l’interprétation et le positionnement. Le projet pourrait convenir à une personne étudiante qui s’intéresse aux statistiques robustes, aux études de simulation ou aux méthodes ouvertes.
 
-[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)
+[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’intérêt pour une collaboration avec le laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)

@@ -26,4 +26,4 @@ Cette famille de projets relie le développement personnel, la passion et la th�
 
 Les analyses et l’interprétation restent à compléter. Le travail pourrait mener à un manuscrit, à plusieurs articles liés ou à un programme plus vaste sur les formes saines et moins saines d’amélioration de soi.
 
-[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’évaluation des collaborations du laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSegkAI13sXRbv7qSeQEl9bExYv8tOAexNICVH06uKIZdbLEKA/viewform)
+[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’intérêt pour une collaboration avec le laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)
