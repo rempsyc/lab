@@ -11,7 +11,7 @@ main:
   - name: Publications
     url: publications/
     weight: 40
-  - name: Nous joindre
+  - name: Joindre l'équipe
     url: nous-joindre/
     weight: 60
   - name: Contact
