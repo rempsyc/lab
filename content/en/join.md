@@ -17,7 +17,7 @@ Before applying, please explore our [research themes](../research/) and [Idea Ga
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.
 
-To express your interest, complete the **[bilingual Undergraduate Research Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. You can describe the questions that interest you, the skills you would like to develop, and your availability during the academic year or summer. Completing the form does not guarantee an interview or a position in the lab.
+To express your interest, complete the **[Undergraduate Research Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. You can describe the questions that interest you, the skills you would like to develop, and your availability during the academic year or summer. Completing the form does not guarantee an interview or a position in the lab.
 
 ## PsyD and other graduate students
 
@@ -37,4 +37,4 @@ SAGE is open to collaborations with researchers, organizations, and community pa
 
 Applications and proposals are reviewed as opportunities arise. Because capacity varies throughout the year, submitting the form does not guarantee a position or an immediate response.
 
-To outline a project idea, identify shared interests, or begin a conversation about data, methods, or knowledge mobilization, complete the **[bilingual SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
+To outline a project idea, identify shared interests, or begin a conversation about data, methods, or knowledge mobilization, complete the **[SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.

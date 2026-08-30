@@ -17,7 +17,7 @@ Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherch
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
 
-Pour nous faire part de votre intérêt, remplissez le **[formulaire bilingue d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
+Pour nous faire part de votre intérêt, remplissez le **[formulaire d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
 
@@ -37,4 +37,4 @@ SAGE est ouvert aux collaborations avec des équipes de recherche, des organisme
 
 Les demandes et propositions sont examinées lorsque des possibilités se présentent. Comme la capacité d’accueil varie au cours de l’année, remplir le formulaire ne garantit ni une place ni une réponse immédiate.
 
-Pour présenter une idée de projet, relever des intérêts communs ou amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances, remplissez le **[formulaire bilingue d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
+Pour présenter une idée de projet, relever des intérêts communs ou amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances, remplissez le **[formulaire d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
