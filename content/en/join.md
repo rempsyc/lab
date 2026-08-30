@@ -11,13 +11,13 @@ share: false
 
 SAGE welcomes students, researchers, and community partners whose interests connect with self, altruism, groups, empathy, or the broader study of wisdom. Opportunities depend on current projects, supervision capacity, and available funding.
 
-Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/). Then complete the **[SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**. This bilingual form is the preferred first point of contact for prospective lab members and collaborators when a structured assessment is appropriate.
+Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/).
 
 ## Undergraduate students
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.
 
-In the form, describe the questions that interest you, the skills you would like to develop, and your availability during the academic year or summer.
+To express your interest, complete the **[bilingual Undergraduate Research Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. You can describe the questions that interest you, the skills you would like to develop, and your availability during the academic year or summer. Completing the form does not guarantee an interview or a position in the lab.
 
 ## PsyD and other graduate students
 
@@ -33,6 +33,8 @@ Early inquiries are welcome when preparing an external fellowship application.
 
 ## Research collaborators and community partners
 
-SAGE is open to collaborations with researchers, organizations, and community partners who bring complementary questions, methods, populations, or practical knowledge. The form can be used to outline a project idea, identify shared interests, or begin a conversation about data, methods, or knowledge mobilization.
+SAGE is open to collaborations with researchers, organizations, and community partners who bring complementary questions, methods, populations, or practical knowledge.
 
 Applications and proposals are reviewed as opportunities arise. Because capacity varies throughout the year, submitting the form does not guarantee a position or an immediate response.
+
+To outline a project idea, identify shared interests, or begin a conversation about data, methods, or knowledge mobilization, complete the **[bilingual SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.

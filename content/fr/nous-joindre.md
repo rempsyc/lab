@@ -11,13 +11,13 @@ share: false
 
 SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
 
-Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/). Remplissez ensuite le **[formulaire d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**. Ce formulaire bilingue est le point de contact privilégié lorsqu’une évaluation structurée convient à la demande.
+Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/).
 
 ## Personnes étudiantes au premier cycle
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
 
-Dans le formulaire, décrivez les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été.
+Pour nous faire part de votre intérêt, remplissez le **[formulaire bilingue d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
 
@@ -33,6 +33,8 @@ Les prises de contact préliminaires sont bienvenues lors de la préparation d�
 
 ## Collaborations de recherche et partenariats avec le milieu
 
-SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires. Le formulaire permet de présenter une idée de projet, de relever des intérêts communs ou d’amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances.
+SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
 
 Les demandes et propositions sont examinées lorsque des possibilités se présentent. Comme la capacité d’accueil varie au cours de l’année, remplir le formulaire ne garantit ni une place ni une réponse immédiate.
+
+Pour présenter une idée de projet, relever des intérêts communs ou amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances, remplissez le **[formulaire bilingue d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
