@@ -4,12 +4,12 @@ name:
   display: Benjamin Choi
   given: Benjamin
   family: Choi
-role: Research Assistant
+role: Lab Manager
 website: https://www.centerconflictcooperation.com/people
 affiliations:
   - name: NYU · Center for Conflict & Cooperation
     url: https://www.centerconflictcooperation.com/people
 user_groups:
-  - Research Assistants
-  - Auxiliaires de recherche
+  - Lab Management
+  - Coordination du laboratoire
 weight: 10

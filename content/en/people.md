@@ -15,9 +15,11 @@ sections:
         - name: Lab Director
           members:
             - remi-theriault
-        - name: Research Assistants
+        - name: Lab Manager
           members:
             - benjamin-choi
+        - name: Research Assistants
+          members:
             - androw-ramy
             - robin-shanholtz
     design:

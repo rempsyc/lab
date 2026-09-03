@@ -15,9 +15,11 @@ sections:
         - name: Direction du laboratoire
           members:
             - remi-theriault
-        - name: Auxiliaires de recherche
+        - name: Coordination du laboratoire
           members:
             - benjamin-choi
+        - name: Auxiliaires de recherche
+          members:
             - androw-ramy
             - robin-shanholtz
     design:
