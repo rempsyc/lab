@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-**Une communauté en préparation.** Nous préparons une rencontre hebdomadaire en personne, d’abord destinée aux personnes étudiantes de l’UQAR à Rimouski qui s’intéressent à la psychologie, à la philosophie, aux sciences et aux échanges d’idées. Le jour, l’heure, le lieu et la première rencontre restent à confirmer.
+**Une communauté en préparation.** Nous préparons des rencontres ouvertes du laboratoire, chaque semaine en personne, où toute personne intéressée par la psychologie, la philosophie, les sciences et les échanges d’idées est la bienvenue. La communauté sera principalement ancrée à l’UQAR à Rimouski, tout en accueillant d’autres personnes intéressées. Le jour, l’heure, le lieu et la première rencontre restent à confirmer.
 
 L’objectif est de réunir des personnes aux intérêts communs, d’apprendre les unes des autres et de faire circuler les idées et l’information. Les liens sociaux et l’apprentissage entre pairs ont une valeur en soi. Aucune expérience en recherche n’est nécessaire : vous pouvez venir selon vos intérêts, écouter ou contribuer sans occuper de rôle en recherche.
 
@@ -34,21 +34,13 @@ Les membres sont encouragés à prendre des initiatives et à proposer des activ
 
 Partagez seulement du matériel que vous avez le droit de diffuser. Les commentaires entre pairs sont informels et ne remplacent ni l’encadrement scientifique, ni les conseils officiels sur l’admission, ni l’autorisation de commencer un projet du laboratoire.
 
-## Un rythme préliminaire
+## Des rencontres ouvertes, proposées par les membres
 
-Nous envisageons une rencontre par semaine pendant les périodes suivantes. Il s’agit d’une proposition de fonctionnement, et non d’un calendrier confirmé.
+Ces rencontres ouvertes du laboratoire sont des moments de discussion, de rencontre et d’apprentissage entre pairs. Elles sont distinctes des réunions de travail en recherche, qui portent sur les projets en cours et peuvent comprendre du matériel confidentiel.
 
-| Période | Rythme proposé |
-|---|---|
-| Automne : septembre à la mi-décembre | Rencontres hebdomadaires, sauf les jours fériés et les fermetures du campus. |
-| Noël et Nouvel An : mi-décembre à début janvier | Pause des Fêtes; aucune rencontre régulière. |
-| Hiver : janvier à avril | Rencontres hebdomadaires après la pause, sauf les jours fériés et les fermetures du campus. |
-| Été : mai à juillet | Rencontres hebdomadaires, avec des sujets et une participation adaptés aux disponibilités estivales. |
-| Août | Pause estivale; reprise en septembre. |
+Les membres peuvent proposer des articles ou des sujets et voter pour la lecture ou la discussion de la semaine suivante. Un vote à main levée ou un court sondage suffit : la coordination peut soumettre deux ou trois suggestions, confirmer une personne volontaire pour animer la rencontre et transmettre la lecture choisie à l’avance. La lecture est encouragée, mais les nouvelles personnes peuvent participer à la conversation même sans l’avoir faite.
 
-Les dates exactes de début et de fin seront confirmées avec le groupe. Les périodes d’examens et les semaines de lecture pourraient donner lieu à une activité allégée ou à une pause annoncée à l’avance. Nous explorons la possibilité d’un espace dans le nouveau pavillon U, y compris pour travailler ensemble en journée, mais l’accès et la disponibilité des locaux restent à confirmer.
-
-Une rencontre d’une heure pourrait comprendre 10 minutes d’accueil et d’annonces, 10 minutes de présentation du sujet, 30 minutes de discussion ou de rétroaction, puis 10 minutes pour conclure et confirmer la prochaine activité.
+Les personnes responsables de la coordination peuvent aussi faire connaître les rencontres sur le campus pendant le semestre, au moyen d’affiches et d’annonces dans les réseaux étudiants et universitaires appropriés, afin que la communauté grandisse naturellement. Les annonces devraient présenter des renseignements confirmés et préciser que tout le monde est bienvenu; l’organisation et la promotion restent volontaires.
 
 Le professeur Rémi Thériault prévoit participer et pourrait proposer des conférences ou des conseils ponctuels. Les membres organiseront les rencontres pour qu’elles puissent se poursuivre en son absence. Le groupe est un lieu d’échange plutôt qu’un rendez-vous régulier d’encadrement individuel.
 

@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-**A community taking shape.** We are developing a weekly, in-person gathering, initially centered on UQAR students in Rimouski, for people who enjoy psychology, philosophy, science, and thoughtful conversation. The day, time, location, and first meeting are still to be confirmed.
+**A community taking shape.** We are developing weekly, in-person open lab meetings where everyone interested in psychology, philosophy, science, and thoughtful conversation is welcome. The community will be centered primarily on UQAR students in Rimouski, while welcoming other interested participants. The day, time, location, and first meeting are still to be confirmed.
 
 The aim is to connect like-minded people, learn from one another, and help ideas and information circulate. Social connection and peer learning are worthwhile outcomes in themselves. No research experience is required, and you can attend selectively, listen, or contribute without taking on a research role.
 
@@ -34,21 +34,13 @@ Members are encouraged to take initiative and propose activities, workshops, and
 
 Share only material you have permission to share. Peer feedback is informal and does not replace scientific supervision, official application advice, or approval to begin a lab project.
 
-## A preliminary rhythm
+## Open meetings, shaped by participants
 
-We envisage one gathering per week during the following periods. This is a planning outline, not a confirmed event calendar.
+These open lab meetings are for discussion, connection, and peer learning. They are distinct from the lab’s research working meetings, which focus on active projects and may involve confidential material.
 
-| Period | Proposed rhythm |
-|---|---|
-| Fall: September to mid-December | Weekly meetings, excluding holidays and campus closures. |
-| Christmas and New Year: mid-December to early January | Winter break; no regular meetings. |
-| Winter: January to April | Weekly meetings after the break, excluding holidays and campus closures. |
-| Summer: May to July | Weekly meetings, with topics and participation adapted to summer availability. |
-| August | Summer break; resume in September. |
+Participants can suggest articles or topics and vote on what to read or discuss the following week. A simple show of hands or short poll is enough: coordinators can offer two or three suggestions, confirm a willing host, and circulate the selected reading ahead of time. Reading is encouraged, but newcomers can still join the conversation.
 
-Exact start and end dates will be confirmed with the group. Exam periods and reading weeks may call for a lighter session or a pause, announced in advance. We are exploring space in the new U building/pavilion, including possible daytime coworking, but access and room availability are unconfirmed.
-
-A typical hour could include 10 minutes for welcomes and opportunity announcements, 10 minutes to introduce a topic, 30 minutes for discussion or peer feedback, and 10 minutes to wrap up and confirm the next session.
+Coordinators can also help the community grow organically during the semester by preparing campus posters and sharing announcements through appropriate student and campus channels. Publicity should point to confirmed meeting details and make clear that everyone is welcome; organizing and promotion are voluntary contributions.
 
 Prof. Rémi Thériault plans to participate and may offer occasional talks or advice. Participants will organize the gatherings so they can continue when he is absent. The group is a place for exchange, rather than a standing individual supervision appointment.
 

@@ -15,7 +15,7 @@ Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherch
 
 ## Communauté SAGE
 
-Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. La page présente un rythme annuel préliminaire; l’heure, le lieu et les modalités d’inscription restent à confirmer. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.
+Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. Ces rencontres ouvertes du laboratoire accueillent toute personne intéressée, principalement autour de l’UQAR à Rimouski. L’heure, le lieu et les modalités d’inscription restent à confirmer. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.
 
 Pour comprendre comment nous équilibrons recherche et formation, consultez **[notre approche de la capacité d’encadrement](../capacite-encadrement/)**.
 
