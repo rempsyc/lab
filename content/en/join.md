@@ -25,6 +25,8 @@ Undergraduate students may become involved as research assistants, volunteers, s
 
 Undergraduate students are strongly encouraged to seek independent funding through scholarships, summer research awards, or other student funding programs. Successful funding would substantially improve the chances of joining my lab by making it possible to create and support a well-scoped research role.
 
+See [skills for research at SAGE](../research-skills/) for practical areas to develop, including R, programming, scientific writing, critical AI use, and funding applications.
+
 To express your interest, complete the **[Undergraduate Research Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. You can describe the questions that interest you, the skills you would like to develop, and your availability during the academic year or summer. Completing the form does not guarantee an interview or a position in the lab.
 
 ## PsyD and other graduate students

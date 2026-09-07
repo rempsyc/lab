@@ -25,6 +25,8 @@ Les personnes étudiantes au premier cycle peuvent participer aux travaux comme 
 
 Les personnes étudiantes au premier cycle sont vivement encouragées à chercher un financement indépendant, par exemple sous la forme de bourses, de stages d’été ou d’autres programmes destinés aux personnes étudiantes. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle permettrait de créer et de soutenir un rôle de recherche bien délimité.
 
+Consultez aussi les [compétences pour la recherche à SAGE](../competences-recherche/) : R, la programmation, la rédaction scientifique, l’utilisation critique de l’IA et les demandes de financement.
+
 Pour nous faire part de votre intérêt, remplissez le **[formulaire d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
