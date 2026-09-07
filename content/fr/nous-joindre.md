@@ -23,11 +23,15 @@ Pour comprendre comment nous équilibrons recherche et formation, consultez **[n
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
 
+Les personnes étudiantes au premier cycle sont vivement encouragées à chercher un financement indépendant, par exemple sous la forme de bourses, de stages d’été ou d’autres programmes destinés aux personnes étudiantes. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle permettrait de créer et de soutenir un rôle de recherche bien délimité.
+
 Pour nous faire part de votre intérêt, remplissez le **[formulaire d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
 
 Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes de SAGE et précise le type d’encadrement ou de collaboration recherché.
+
+Les personnes aux cycles supérieurs sont vivement encouragées à chercher des bourses, des stages ou d’autres sources de financement indépendant. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle fournirait des ressources pour le soutien de la personne étudiante, les activités de recherche et l’encadrement.
 
 L’admission à un programme universitaire et la participation aux activités du laboratoire constituent deux démarches distinctes. Les personnes candidates doivent également suivre les exigences du programme et le processus d’admission pertinents de l’UQAR.
 
@@ -35,11 +39,15 @@ L’admission à un programme universitaire et la participation aux activités d
 
 Les personnes souhaitant effectuer un stage postdoctoral ou un séjour de recherche sont invitées à proposer un projet qui complète le programme du laboratoire tout en développant un axe de recherche autonome. Veuillez préciser les dates envisagées, la situation de financement ou les demandes de bourse prévues, votre expertise méthodologique et les collaborations possibles.
 
+Un financement indépendant ou une bourse externe est vivement encouragé. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle rendrait plus réalisables un projet consacré et l’encadrement nécessaire.
+
 Les prises de contact préliminaires sont bienvenues lors de la préparation d’une demande de financement externe.
 
 ## Collaborations de recherche et partenariats avec le milieu
 
 SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
+
+Les partenaires sont encouragés à apporter ou à chercher un financement indépendant, un soutien par une subvention commune ou d’autres ressources pour le travail proposé. L’obtention d’un financement améliorerait considérablement les chances d’établir une collaboration avec mon laboratoire à quelque niveau que ce soit, particulièrement lorsque le projet exige de rémunérer des personnes participantes, du personnel de recherche ou un encadrement important.
 
 Les demandes et propositions sont examinées lorsque des possibilités se présentent. Comme la capacité d’accueil varie au cours de l’année, remplir le formulaire ne garantit ni une place ni une réponse immédiate.
 
