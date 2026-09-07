@@ -13,6 +13,12 @@ SAGE welcomes students, researchers, and community partners whose interests conn
 
 Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/).
 
+## SAGE Community
+
+Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. The page includes a preliminary annual rhythm; the meeting time, location, and signup details remain to be confirmed. Community participation carries no research responsibilities and is separate from applying for a research role.
+
+To understand how we balance research and educational commitments, read **[our approach to supervision capacity](../supervision-capacity/)**.
+
 ## Undergraduate students
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.

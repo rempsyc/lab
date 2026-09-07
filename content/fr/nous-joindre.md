@@ -13,6 +13,12 @@ SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu d
 
 Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/).
 
+## Communauté SAGE
+
+Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. La page présente un rythme annuel préliminaire; l’heure, le lieu et les modalités d’inscription restent à confirmer. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.
+
+Pour comprendre comment nous équilibrons recherche et formation, consultez **[notre approche de la capacité d’encadrement](../capacite-encadrement/)**.
+
 ## Personnes étudiantes au premier cycle
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
