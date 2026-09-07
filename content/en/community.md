@@ -13,6 +13,8 @@ share: false
 
 The aim is to connect like-minded people, learn from one another, and help ideas and information circulate. Social connection and peer learning are worthwhile outcomes in themselves. No research experience is required, and you can attend selectively, listen, or contribute without taking on a research role.
 
+The community is also meant to be a mutual-help space where students and collaborators can support one another, share opportunities and skills, and create situations in which everyone benefits. This matters especially when formal lab capacity is limited: people can still build relationships, learn, contribute, and help one another move forward without waiting for a supervised research placement. I believe that simply belonging to a thoughtful, supportive group like this can be immensely helpful for personal and career development.
+
 ## What could we bring to a meeting?
 
 The program will reflect members’ interests. These are possibilities, not assignments; new topics and formats are welcome.

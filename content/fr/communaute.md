@@ -13,6 +13,8 @@ share: false
 
 L’objectif est de réunir des personnes aux intérêts communs, d’apprendre les unes des autres et de faire circuler les idées et l’information. Les liens sociaux et l’apprentissage entre pairs ont une valeur en soi. Aucune expérience en recherche n’est nécessaire : vous pouvez venir selon vos intérêts, écouter ou contribuer sans occuper de rôle en recherche.
 
+La communauté vise également à créer un espace d’entraide où les personnes étudiantes et collaboratrices peuvent se soutenir, partager des possibilités et des compétences, et créer des situations avantageuses pour tout le monde. Cela est particulièrement important lorsque la capacité d’encadrement du laboratoire est limitée : il reste possible de tisser des liens, d’apprendre, de contribuer et de s’entraider sans attendre une place dans un projet supervisé. Je crois que le simple fait d’appartenir à un groupe réfléchi et bienveillant comme celui-ci peut être extrêmement utile au développement personnel et professionnel.
+
 ## Que proposer lors d’une rencontre?
 
 La programmation reflétera les intérêts des membres. Voici des possibilités, et non des tâches à accomplir; d’autres sujets et formats sont les bienvenus.
