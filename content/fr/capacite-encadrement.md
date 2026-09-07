@@ -13,6 +13,21 @@ share: false
 
 L’intérêt envers le laboratoire est le bienvenu. Il est encourageant de rencontrer des personnes qui souhaitent comprendre la recherche, développer leurs compétences et contribuer à des questions qui leur tiennent à cœur. Je ne peux toutefois pas transformer chaque manifestation d’intérêt en une place en recherche. Je souhaite que les possibilités offertes s’accompagnent du temps et du soutien qu’elles méritent.
 
+## Pourquoi la capacité de recherche est importante
+
+Le modèle de recherche a considérablement changé au cours des dernières décennies. Les recherches comportementales pouvaient autrefois être menées avec de très petits échantillons, peu ou pas de compensation pour les personnes participantes, des vérifications limitées de la puissance statistique et des analyses flexibles qui facilitaient la confusion entre le bruit et une tendance significative. Nous comprenons maintenant mieux les limites de ce modèle et ne voulons pas le reproduire.
+
+| Avant | Aujourd’hui |
+| --- | --- |
+| Des études pouvaient s’appuyer sur des échantillons de 10 à 30 personnes tout en formulant des conclusions générales. | Nous utilisons une analyse de puissance pour planifier des études assez grandes pour détecter les effets plausibles et distinguer le signal du bruit. |
+| Le temps des personnes participantes était souvent considéré comme une ressource gratuite. | Une recherche éthique et inclusive exige de les rémunérer équitablement, ce qui fait du financement une contrainte centrale. |
+| Des analyses flexibles et la sélection des résultats pouvaient produire des résultats apparemment positifs. | Nous cherchons à préenregistrer les hypothèses et les analyses lorsque cela est pertinent, à rendre compte des résultats de façon transparente et à éviter le p-hacking. |
+| Publier dans une bonne revue pouvait être considéré comme l’aboutissement du projet. | Nous privilégions un travail soigneux et reproductible, capable de résister à l’examen critique et de contribuer à de bonnes revues sans exagérer ce que montrent les données. |
+
+C’est pourquoi un projet sérieux peut prendre plus de temps et nécessiter davantage de financement qu’auparavant. La capacité ne se résume pas au nombre de personnes pouvant se joindre au laboratoire : elle comprend aussi le temps, l’accès aux personnes participantes, l’encadrement, l’analyse et le soutien financier nécessaires pour mener une recherche responsable.
+
+Concrètement, je suis souvent le goulot d’étranglement. Les décisions les plus importantes exigent encore mon jugement : concevoir une étude, vérifier une analyse, interpréter l’incertitude et déterminer ce que les données permettent de conclure. Des standards plus élevés et de nouvelles contraintes rendent cette responsabilité plus exigeante; le nombre de personnes que je peux encadrer de façon responsable est donc limité. Il s’agit d’une contrainte sur ma capacité, et non d’un jugement sur le potentiel d’une personne.
+
 Une grande partie de nos travaux repose sur les statistiques, la programmation et un jugement scientifique rigoureux. L’IA peut aider à produire des premières versions de textes, de code et d’autres documents. Dans notre fonctionnement, obtenir un résultat plausible est souvent plus rapide qu’établir sa validité. Il faut encore vérifier les hypothèses, examiner les données probantes, tester les analyses et déterminer quelles conclusions sont justifiées. Un résultat bien présenté ne nous dispense pas de cette responsabilité.
 
 Cela influence aussi le travail nécessaire pour intégrer une personne à un projet. Une tâche qui semble courte peut demander beaucoup de préparation, de formation, de rétroaction et de vérification. Encadrer, c’est notamment aider à comprendre pourquoi une méthode convient, à reconnaître l’incertitude et à apprendre de ses erreurs. Ces dimensions de la formation sont précieuses et demandent du temps, même si une première tâche est accomplie rapidement. Accueillir davantage de personnes n’augmente donc pas automatiquement la capacité de recherche du laboratoire.
