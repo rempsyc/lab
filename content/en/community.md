@@ -48,7 +48,9 @@ Prof. Rémi Thériault plans to participate and may offer occasional talks or ad
 
 ## Stay connected
 
-An opt-in announcement list is planned for meeting topics, practical details, and relevant opportunities. Signup details will be added once the arrangements are ready. Nobody will be subscribed automatically from a course or research application, and leaving the list will be straightforward.
+To join the **Friends of SAGE Lab announcement list**, email [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=Friends%20of%20SAGE%20Lab%20%E2%80%94%20Join%20the%20mailing%20list) and ask to be added. You will receive meeting topics, practical details, activities, and relevant funding and research opportunities.
+
+Joining is voluntary. Nobody will be subscribed automatically from a course, survey, or research application. To unsubscribe, simply email the same address and ask to be removed. Your choice has no effect on a research application or course grades.
 
 ## Community and research participation
 

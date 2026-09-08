@@ -48,7 +48,9 @@ Le professeur Rémi Thériault prévoit participer et pourrait proposer des conf
 
 ## Garder le contact
 
-Une liste d’annonces sur inscription volontaire est prévue pour les sujets des rencontres, les renseignements pratiques et les possibilités pertinentes. Les modalités d’inscription seront ajoutées lorsque l’organisation sera prête. Personne ne sera inscrit automatiquement à partir d’un cours ou d’une candidature en recherche, et il sera facile de se désinscrire.
+Pour rejoindre la **liste d’annonces des Amis du laboratoire SAGE**, écrivez à [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=Amis%20du%20laboratoire%20SAGE%20%E2%80%94%20Inscription%20%C3%A0%20la%20liste) en demandant à être ajouté à la liste. Vous recevrez les sujets des rencontres, les renseignements pratiques, les activités et les possibilités de financement et de recherche pertinentes.
+
+L’inscription est volontaire. Personne ne sera inscrit automatiquement à partir d’un cours, d’un sondage ou d’une candidature en recherche. Pour vous désinscrire, écrivez simplement à la même adresse en demandant votre retrait. Votre choix n’a aucun effet sur votre candidature en recherche ou vos notes.
 
 ## Communauté et participation à la recherche
 

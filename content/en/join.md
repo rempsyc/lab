@@ -15,7 +15,7 @@ Before applying, please explore our [research themes](../research/) and [Idea Ga
 
 ## SAGE Community
 
-Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. The meeting time, location, and signup details remain to be confirmed. Community participation carries no research responsibilities and is separate from applying for a research role.
+Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. The meeting time and location remain to be confirmed. You can request mailing-list membership by email through the community page. Community participation carries no research responsibilities and is separate from applying for a research role.
 
 To understand how we balance research and educational commitments, read **[our approach to supervision capacity](../supervision-capacity/)**.
 
