@@ -50,7 +50,7 @@ Prof. Rémi Thériault plans to participate and may offer occasional talks or ad
 
 To join the **SAGE Community announcement list**, email [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=SAGE%20Community%20%E2%80%94%20Join%20the%20mailing%20list) and ask to be added. You will receive meeting topics, practical details, activities, and relevant funding and research opportunities.
 
-Joining is voluntary. Nobody will be subscribed automatically from a course, survey, or research application. To unsubscribe, simply email the same address and ask to be removed. Your choice has no effect on a research application or course grades.
+To unsubscribe, simply email the same address and ask to be removed.
 
 ## Community and research participation
 

@@ -50,7 +50,7 @@ Le professeur Rémi Thériault prévoit participer et pourrait proposer des conf
 
 Pour rejoindre la **liste d’annonces de la Communauté SAGE**, écrivez à [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=Communaut%C3%A9%20SAGE%20%E2%80%94%20Inscription%20%C3%A0%20la%20liste) en demandant à être ajouté à la liste. Vous recevrez les sujets des rencontres, les renseignements pratiques, les activités et les possibilités de financement et de recherche pertinentes.
 
-L’inscription est volontaire. Personne ne sera inscrit automatiquement à partir d’un cours, d’un sondage ou d’une candidature en recherche. Pour vous désinscrire, écrivez simplement à la même adresse en demandant votre retrait. Votre choix n’a aucun effet sur votre candidature en recherche ou vos notes.
+Pour vous désinscrire, écrivez simplement à la même adresse en demandant votre retrait.
 
 ## Communauté et participation à la recherche
 
