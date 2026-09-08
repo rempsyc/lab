@@ -17,6 +17,8 @@ Before applying, please explore our [research themes](../research/) and [Idea Ga
 
 Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. The meeting time and location remain to be confirmed. You can request mailing-list membership by email through the community page. Community participation carries no research responsibilities and is separate from applying for a research role.
 
+To join the **SAGE Community announcement list**, email [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=SAGE%20Community%20%E2%80%94%20Join%20the%20mailing%20list) and ask to be added. You will receive meeting topics, practical details, activities, and relevant funding and research opportunities. To unsubscribe, simply email the same address and ask to be removed.
+
 To understand how we balance research and educational commitments, read **[our approach to supervision capacity](../supervision-capacity/)**.
 
 ## Undergraduate students

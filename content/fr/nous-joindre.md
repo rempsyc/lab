@@ -17,6 +17,8 @@ Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherch
 
 Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. Ces rencontres ouvertes du laboratoire accueillent toute personne intéressée, principalement autour de l’UQAR à Rimouski. L’heure et le lieu restent à confirmer. Vous pouvez demander votre inscription à la liste d’annonces par courriel depuis la page de la communauté. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.
 
+Pour rejoindre la **liste d’annonces de la Communauté SAGE**, écrivez à [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=Communaut%C3%A9%20SAGE%20%E2%80%94%20Inscription%20%C3%A0%20la%20liste) en demandant à être ajouté à la liste. Vous recevrez les sujets des rencontres, les renseignements pratiques, les activités et les possibilités de financement et de recherche pertinentes. Pour vous désinscrire, écrivez simplement à la même adresse en demandant votre retrait.
+
 Pour comprendre comment nous équilibrons recherche et formation, consultez **[notre approche de la capacité d’encadrement](../capacite-encadrement/)**.
 
 ## Personnes étudiantes au premier cycle
