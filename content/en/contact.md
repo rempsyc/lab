@@ -17,8 +17,12 @@ Rimouski, QC G5L 2A4
 418 723-1986, extension 1110  
 **contact@labosage.com**
 
-[Personal website](https://remi-theriault.com/) · [UQAR faculty profile](https://www.uqar.ca/professeurs/theriault-remi/)
-
-[Book a meeting](https://outlook.office.com/bookwithme/user/124aa7641a77481e893ad9421579faac@uqar.ca?anonymous&ismsaljsauthenabled&ep=plink)
+{{< research_image src="media/lab.jpeg" alt="The building housing the SAGE Lab at the Université du Québec à Rimouski" >}}
 
 {{< google_map lang="en" >}}
+
+> **Land Acknowledgment**
+>
+> I respectfully acknowledge that the Université du Québec à Rimouski is located on Wolastokuk, the unceded ancestral territory of the Wolastoqey Nation, and more specifically of the Wolastoqiyik Wahsipekuk First Nation. I recognize and respect the Wolastoqiyik's enduring relationships with this territory, its lands, and its waters. [[Source]][def]
+
+[def]: https://wolastoqiyikwahsipekuk.ca/en/territory
