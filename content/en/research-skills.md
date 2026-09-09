@@ -13,7 +13,7 @@ There is no single profile required to join SAGE. The skills below are useful di
 
 ## Data analysis and data wrangling
 
-Learn to work carefully with real, messy data: importing and documenting data, checking quality, reshaping tables, handling missing values, visualizing patterns, and choosing analyses that match the research question. We primarily use the open-source language **R**, including the **easystats** ecosystem and related tools.
+Learn to work carefully with real, messy data: importing and documenting data, checking quality, reshaping tables, handling missing values, visualizing patterns, and choosing analyses that match the research question. We primarily use the open-source language **R**, including the **[easystats](https://easystats.github.io/easystats/)** ecosystem and related tools.
 
 ## Programming and research tools
 

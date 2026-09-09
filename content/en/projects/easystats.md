@@ -13,7 +13,7 @@ photo_credit: Photo by Jakub Żerdzicki on Unsplash
 photo_credit_url: https://unsplash.com/photos/person-using-stylus-on-tablet-with-charts-vWkwul5Bpbs
 ---
 
-easystats is a collaborative ecosystem of R packages designed to make statistical modelling, interpretation, reporting, and visualization more accessible and consistent. The project reduces fragmentation by connecting specialized tools through a coherent interface and shared principles.
+[easystats](https://easystats.github.io/easystats/) is a collaborative ecosystem of R packages designed to make statistical modelling, interpretation, reporting, and visualization more accessible and consistent. The project reduces fragmentation by connecting specialized tools through a coherent interface and shared principles.
 
 Current work focuses on maintaining the meta-package, communicating the architecture of the ecosystem, and completing a manuscript that explains its conceptual contribution to open and reproducible science.
 

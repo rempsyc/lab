@@ -13,7 +13,7 @@ photo_credit: "Photo : Markus Spiske, Unsplash"
 photo_credit_url: https://unsplash.com/photos/code-on-a-computer-AaEQmoufHLk
 ---
 
-Le package `report` fait partie de l’écosystème easystats, consacré à l’analyse statistique accessible et reproductible dans R. Il transforme les résultats des modèles en résumés structurés que les équipes peuvent examiner, communiquer et intégrer à des méthodes de travail reproductibles.
+Le package `report` fait partie de l’écosystème [easystats](https://easystats.github.io/easystats/), consacré à l’analyse statistique accessible et reproductible dans R. Il transforme les résultats des modèles en résumés structurés que les équipes peuvent examiner, communiquer et intégrer à des méthodes de travail reproductibles.
 
 Ce projet combine la maintenance continue du logiciel et la préparation d’un manuscrit. Il soutient l’engagement du laboratoire envers des outils qui facilitent l’adoption de bonnes pratiques statistiques dans la recherche quotidienne.
 
@@ -21,6 +21,6 @@ Ce projet combine la maintenance continue du logiciel et la préparation d’un 
 
 - Maintenance du package et traitement des problèmes signalés
 - Révision du manuscrit existant
-- Clarification du rôle du package dans l’écosystème easystats
+- Clarification du rôle du package dans l’écosystème [easystats](https://easystats.github.io/easystats/)
 
 [Explorer report sur GitHub](https://github.com/easystats/report)

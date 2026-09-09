@@ -13,7 +13,7 @@ Il n’existe pas de profil unique pour se joindre à SAGE. Les compétences ci-
 
 ## Analyse et préparation des données
 
-Apprenez à travailler soigneusement avec des données réelles et désordonnées : importer et documenter les données, en vérifier la qualité, restructurer les tableaux, traiter les valeurs manquantes, visualiser les tendances et choisir des analyses adaptées à la question de recherche. Nous utilisons principalement le langage libre **R**, notamment l’écosystème **easystats** et les outils connexes.
+Apprenez à travailler soigneusement avec des données réelles et désordonnées : importer et documenter les données, en vérifier la qualité, restructurer les tableaux, traiter les valeurs manquantes, visualiser les tendances et choisir des analyses adaptées à la question de recherche. Nous utilisons principalement le langage libre **R**, notamment l’écosystème **[easystats](https://easystats.github.io/easystats/)** et les outils connexes.
 
 ## Programmation et outils de recherche
 
