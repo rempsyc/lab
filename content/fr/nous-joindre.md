@@ -11,7 +11,7 @@ share: false
 
 SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
 
-Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [Jardin d’idées](https://rempsyc.github.io/research-ideas/).
+Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [philosophie du laboratoire](../philosophie-labo/).
 
 ## Communauté SAGE
 

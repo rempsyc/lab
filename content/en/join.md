@@ -11,7 +11,7 @@ share: false
 
 SAGE welcomes students, researchers, and community partners whose interests connect with self, altruism, groups, empathy, or the broader study of wisdom. Opportunities depend on current projects, supervision capacity, and available funding.
 
-Before applying, please explore our [research themes](../research/) and [Idea Garden](https://rempsyc.github.io/research-ideas/).
+Before applying, please explore our [research themes](../research/) and [lab philosophy](../lab-philosophy/).
 
 ## SAGE Community
 
