@@ -42,4 +42,4 @@ My aim is to be warm about people’s interest and precise about commitments, so
 
 — Prof. Rémi Thériault
 
-[Explore ways to join SAGE](../join/).
+[Explore ways to join the SAGE Lab](../join/).

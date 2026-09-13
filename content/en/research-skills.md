@@ -1,6 +1,6 @@
 ---
-title: Skills for Research at SAGE
-summary: Skills that help students and collaborators contribute to rigorous, open, and useful research at SAGE.
+title: Skills for Research at the SAGE Lab
+summary: Skills that help students and collaborators contribute to rigorous, open, and useful research at the SAGE Lab.
 translationKey: research-skills
 type: page
 layout: compact
@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-There is no single profile required to join SAGE. The skills below are useful directions for students and collaborators who want to contribute to rigorous, open, and practically meaningful research. They can be developed gradually through courses, independent projects, community activities, and research experience.
+There is no single profile required to join the SAGE Lab. The skills below are useful directions for students and collaborators who want to contribute to rigorous, open, and practically meaningful research. They can be developed gradually through courses, independent projects, community activities, and research experience.
 
 ## Data analysis and data wrangling
 
@@ -29,7 +29,7 @@ AI tools and autonomous agents can support quality checks, programming, analysis
 
 ## Funding and project development
 
-Research depends on resources, including participant compensation, software and infrastructure, research assistance, travel, and time. Students and collaborators should learn to identify scholarships, fellowships, grants, and other funding opportunities; develop a focused project; write a convincing proposal; and explain why the work matters. Successful independent funding can substantially improve the feasibility of joining a project at SAGE.
+Research depends on resources, including participant compensation, software and infrastructure, research assistance, travel, and time. Students and collaborators should learn to identify scholarships, fellowships, grants, and other funding opportunities; develop a focused project; write a convincing proposal; and explain why the work matters. Successful independent funding can substantially improve the feasibility of joining a project at the SAGE Lab.
 
 ## How to start
 

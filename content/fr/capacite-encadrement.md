@@ -42,4 +42,4 @@ Mon objectif est d’accueillir chaleureusement l’intérêt des personnes tout
 
 — Professeur Rémi Thériault
 
-[Découvrir les façons de se joindre à SAGE](../nous-joindre/).
+[Découvrir les façons de se joindre au laboratoire SAGE](../nous-joindre/).
