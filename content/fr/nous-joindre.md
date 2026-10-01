@@ -13,6 +13,8 @@ SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu d
 
 Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [philosophie du laboratoire](../philosophie-labo/).
 
+Vous commencez un rôle d’auxiliaire de recherche convenu ? Suivez notre [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}). Le [jardin d’idées](https://rempsyc.github.io/research-ideas/) est une archive facultative pour trouver de l’inspiration et combiner des idées apparentées.
+
 ## Communauté SAGE
 
 Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. Ces rencontres ouvertes du laboratoire accueillent toute personne intéressée, principalement autour de l’UQAR à Rimouski. L’heure et le lieu restent à confirmer. Vous pouvez demander votre inscription à la liste d’annonces par courriel depuis la page de la communauté. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.

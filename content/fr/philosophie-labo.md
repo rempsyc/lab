@@ -25,6 +25,20 @@ Cependant, le coût de la précipitation n'est pas anodin. La crise de la répli
 
 Prendre le temps de vérifier la qualité de nos travaux peut ralentir la publication, mais augmente notre confiance dans ce que nous publions. Au laboratoire SAGE, nous visons des méthodes, des statistiques et des interprétations robustes : un travail soigneusement conçu, analysé avec transparence et proportionné aux données probantes. Mesurer deux fois, couper une seule fois : le temps consacré à vérifier notre travail en fait partie intégrante.
 
+## Autocompassion et excellence
+
+Nous visons à la fois **l’autocompassion et l’excellence**, ainsi que **la chaleur humaine et la compétence** dans nos relations de travail. Nous cherchons les plus hauts standards scientifiques que nous pouvons maintenir tout en protégeant le bien-être de chaque personne. Cela implique de choisir une portée réaliste, de travailler soigneusement et d’ajuster les engagements lorsque la situation change. L’excellence concerne la qualité de notre raisonnement et de notre travail; la valeur d’une personne ne dépend pas de sa productivité, de ses notes ou de ses publications.
+
+Chacun doit pouvoir poser des questions, reconnaître ses incertitudes, signaler ses erreurs et exprimer respectueusement un désaccord. La rétroaction doit être précise et utile. Nous nous soutenons dans les révisions difficiles, prenons le repos au sérieux et discutons tôt des problèmes de charge de travail. Demander de l’aide est compatible avec l’autonomie, et protéger son bien-être fait partie d’une pratique responsable de la recherche.
+
+L’image ci-dessous illustre le cadre d’Amy Edmondson qui relie la sécurité psychologique aux exigences de performance. Nous visons la **zone d’apprentissage** : chacun peut s’exprimer ouvertement tout en travaillant à des objectifs ambitieux et clairs. La sécurité psychologique concerne la liberté de prendre des risques dans les échanges; l’autocompassion concerne aussi notre façon de nous traiter nous-mêmes. Les deux font partie de notre approche d’une excellence durable. Le schéma sert de cadre de discussion, pas de mesure de notre laboratoire.
+
+{{< psychological_safety alt="Le cadre à quatre zones d’Amy Edmondson : sécurité psychologique et exigences faibles, apathie; sécurité faible et exigences élevées, anxiété; sécurité élevée et exigences faibles, confort; sécurité et exigences élevées, apprentissage." >}}
+Illustration de Tanmay Vora, [QAspire](https://qaspire.com/), d’après le cadre d’Amy Edmondson. [Edmondson explique la sécurité psychologique et les objectifs exigeants dans cet entretien de la Harvard Business School](https://www.hbs.edu/recruiting/guides-and-stories/leading-in-tough-times) (en anglais).
+{{< /psychological_safety >}}
+
+Ces engagements concernent le directeur autant que les étudiants : des attentes claires, un encadrement approprié, une rétroaction respectueuse et une charge réaliste sont des responsabilités partagées. Ils soutiennent la persévérance nécessaire à la recherche sans faire du surmenage une condition d’appartenance au laboratoire.
+
 ## Aiguiser la scie
 
 Mener une recherche de haute qualité exige plus que de l'enthousiasme : cela demande la maîtrise d'outils et de méthodes fondamentales. Comme le soulignait Stephen Covey dans *Les 7 habitudes de ceux qui réalisent tout ce qu'ils entreprennent* (Covey, 1989), nous devons prendre le temps d'« aiguiser la scie » en développant des compétences clés qui rendent notre travail principal plus efficace et plus fiable.
@@ -83,4 +97,4 @@ Pour aborder la rédaction scientifique et le développement de carrière avec c
 
 En combinant contrôle de qualité rigoureux, développement ciblé des compétences, habitudes personnelles efficaces, concentration profonde et pratiques de rédaction durables, nous visons à créer un environnement de recherche où la science et les chercheurs s'épanouissent pleinement.
 
-[Découvrir les projets de recherche en cours](../projets/) ou consulter les [compétences en recherche au laboratoire SAGE](../competences-recherche/).
+[Découvrir les projets de recherche en cours](../projets/) ou consulter les [compétences en recherche au laboratoire SAGE](../competences-recherche/). Les nouveaux auxiliaires peuvent suivre le [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}).
