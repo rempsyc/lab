@@ -35,13 +35,14 @@ Starting an agreed research-assistant role? Follow our [onboarding reading check
 
 ## PsyD and other graduate students
 
-Considering PsyD supervision with Rémi? Read [what to know before applying with me]({{< relref "psyd-applicants.md" >}}).
 
 PsyD and graduate students may approach the lab about research practica, doctoral projects, independent studies, or collaboration on an existing project. A strong application identifies a focused question, explains how it connects with the SAGE Lab’s themes, and clarifies the kind of supervision or collaboration being sought.
 
 Graduate students are strongly encouraged to pursue independent scholarships, fellowships, or other funding. A successful funding application would substantially improve the chances of joining my lab, because it would provide resources for the student’s support, research activities, and supervision.
 
 Admission to an academic program and participation in the lab are separate processes. Prospective students should also follow the relevant UQAR program and admission requirements.
+
+Considering PsyD supervision with Rémi? Read [what to know before applying with me]({{< relref "psyd-applicants.md" >}}).
 
 ## Postdoctoral fellows and visiting researchers
 

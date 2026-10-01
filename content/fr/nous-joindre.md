@@ -35,13 +35,14 @@ Vous commencez un rôle d’auxiliaire de recherche convenu ? Suivez notre [parc
 
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
 
-Vous envisagez une direction d’essai au D.Psy. avec Rémi ? Consultez [ce qu’il faut savoir avant de candidater avec moi]({{< relref "candidatures-dpsy.md" >}}).
 
 Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes du laboratoire SAGE et précise le type d’encadrement ou de collaboration recherché.
 
 Les personnes aux cycles supérieurs sont vivement encouragées à chercher des bourses, des stages ou d’autres sources de financement indépendant. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle fournirait des ressources pour le soutien de la personne étudiante, les activités de recherche et l’encadrement.
 
 L’admission à un programme universitaire et la participation aux activités du laboratoire constituent deux démarches distinctes. Les personnes candidates doivent également suivre les exigences du programme et le processus d’admission pertinents de l’UQAR.
+
+Vous envisagez une direction d’essai au D.Psy. avec Rémi ? Consultez [ce qu’il faut savoir avant de candidater avec moi]({{< relref "candidatures-dpsy.md" >}}).
 
 ## Stages postdoctoraux et séjours de recherche
 
