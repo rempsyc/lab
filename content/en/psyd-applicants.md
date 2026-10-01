@@ -30,18 +30,18 @@ Community participation is optional and is not a selection criterion. The Idea G
 
 ## What I look for
 
-The following criteria guide assessment of compatibility with my supervision. Actual capacity is a prerequisite regardless of the score.
+The following criteria guide assessment of compatibility with my supervision. Actual supervision capacity is a prerequisite even for a strong application. These criteria are assessed together; no fixed numerical weighting is announced.
 
-| Criterion | Weight | Evidence |
-|---|---:|---|
-| Responsible autonomy | 25% | Planning, independent learning, checking work and knowing when to seek help |
-| Reliability and continuity | 20% | Following through or renegotiating commitments; documenting and handing over work |
-| Scientific rigor and judgment | 20% | Sound reasoning, acknowledged limitations, transparency and integrity |
-| Project fit and feasibility | 15% | A focused question linked to the lab, realistic scope and available expertise and resources |
-| Communication and use of feedback | 10% | Prepared questions, useful updates and thoughtful revisions |
-| Preparation and learning plan | 10% | Relevant foundations and a credible plan for missing skills |
+| Criterion | Evidence |
+|---|---|
+| Responsible autonomy | Planning, independent learning, checking work and knowing when to seek help |
+| Reliability and continuity | Following through or renegotiating commitments; documenting and handing over work |
+| Scientific rigor and judgment | Sound reasoning, acknowledged limitations, transparency and integrity |
+| Project fit and feasibility | A focused question linked to the lab, realistic scope and available expertise and resources |
+| Communication and use of feedback | Prepared questions, useful updates and thoughtful revisions |
+| Preparation and learning plan | Relevant foundations and a credible plan for missing skills |
 
-These are lab-supervision criteria, not UQAR’s admission rubric. UQAR includes scholarships and prizes within its broader “other relevant dossier/CV elements” category, worth 5% of official selection. Include these achievements in your official application. For my supervision assessment, achievements can provide evidence of a relevant skill without automatic bonus points or double counting. Prior publications, prizes or successful funding are not mandatory lab criteria. Opportunities differ; I consider your own contribution and learning.
+These are lab-supervision criteria, not UQAR’s admission rubric. UQAR includes scholarships and prizes within its broader “other relevant dossier/CV elements” category. Include these achievements in your official application. For my supervision assessment, achievements can provide evidence of a relevant skill without automatic bonus points or double counting. Prior publications, prizes or successful funding are not mandatory lab criteria. Opportunities differ; I consider your own contribution and learning.
 
 ## What responsible autonomy means
 
@@ -58,7 +58,7 @@ Prepare a CV, an existing work sample with a description of your own contributio
 3. What example shows follow-through despite difficulty? What did you personally do?
 4. What can you already do with limited assistance, and where will you need training or review?
 5. How would research fit alongside courses, placements and other commitments? How would you handle a delay?
-6. Would you like to work toward publication? What writing and revision contributions would be realistic?
+6. How would you contribute toward publication? What writing, revision and follow-up commitments—including after essay deposit—would be realistic?
 
 Do not send confidential participant or patient information. [Contact Rémi Thériault](mailto:contact@labosage.com) to discuss possibilities. An initial inquiry does not replace the official application.
 
@@ -69,6 +69,8 @@ An initial fit discussion may be followed by a structured interview using exampl
 Missing skills may lead to a learning plan or a narrower project rather than an automatic rejection. Decisions consider the support available as well as your demonstrated preparation.
 
 ## Essay, publication and funding
+
+I am looking for a research commitment that goes beyond completing the minimum degree requirements. Applicants should genuinely want to help bring a project to scientific publication and be willing to contribute to rigorous analysis, manuscript writing and revisions, including follow-up after the essay is deposited when needed. Completing the essay is an important milestone, rather than an automatic stopping point for the research contribution. Before agreeing to supervision, we discuss what this commitment involves, how it fits with clinical training, and a realistic scope and period of involvement.
 
 My preference is for essays designed from the outset with a scientific publication goal and meaningful student responsibility for writing. The essay format must be confirmed with the program; existing-data analyses or evidence syntheses are possibilities to discuss, not promises of approved formats.
 

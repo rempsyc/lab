@@ -45,18 +45,18 @@ Demander de l’aide judicieusement est une preuve d’autonomie. Cacher un prob
 
 ## Ce que je recherche dans une candidature
 
-Voici les critères et leur pondération pour évaluer la compatibilité avec mon encadrement. La capacité réelle d’accueil demeure une condition préalable, indépendamment du score.
+Voici les critères qui orientent mon évaluation de la compatibilité avec mon encadrement. Ils sont considérés ensemble, sans pondération numérique fixe annoncée. La capacité réelle d’accueil demeure une condition préalable, même pour une excellente candidature.
 
-| Critère | Poids | Preuves recherchées |
-|---|---:|---|
-| Autonomie responsable | 25 % | Planification, apprentissage, vérification, discernement dans les demandes d’aide |
-| Fiabilité et continuité | 20 % | Engagements tenus ou renégociés; documentation et transmission du travail |
-| Rigueur et jugement scientifique | 20 % | Qualité du raisonnement, limites reconnues, transparence et intégrité |
-| Compatibilité et faisabilité du projet | 15 % | Question liée à SAGE, portée réaliste, ressources et expertise accessibles |
-| Communication et utilisation de la rétroaction | 10 % | Questions préparées, mises à jour utiles et corrections réfléchies |
-| Préparation et plan d’apprentissage | 10 % | Bases pertinentes et stratégie crédible pour les compétences manquantes |
+| Critère | Preuves recherchées |
+|---|---|
+| Autonomie responsable | Planification, apprentissage, vérification, discernement dans les demandes d’aide |
+| Fiabilité et continuité | Engagements tenus ou renégociés; documentation et transmission du travail |
+| Rigueur et jugement scientifique | Qualité du raisonnement, limites reconnues, transparence et intégrité |
+| Compatibilité et faisabilité du projet | Question liée au laboratoire SAGE, portée réaliste, ressources et expertise accessibles |
+| Communication et utilisation de la rétroaction | Questions préparées, mises à jour utiles et corrections réfléchies |
+| Préparation et plan d’apprentissage | Bases pertinentes et stratégie crédible pour les compétences manquantes |
 
-Cette grille concerne le choix d’une direction au laboratoire. Elle n’est pas la grille officielle d’admission au programme. L’UQAR considère les bourses et les prix parmi les « autres éléments pertinents du dossier/CV », une catégorie qui vaut 5 % de sa sélection et comprend aussi d’autres expériences et documents. Ces distinctions méritent donc d’être présentées dans votre dossier officiel. Dans notre grille pour la direction d’essai, elles peuvent documenter une compétence sans donner de points automatiques supplémentaires. Les notes et expériences peuvent documenter la préparation, mais le prestige, une publication antérieure ou une bourse obtenue ne sont pas des conditions obligatoires du laboratoire. L’accès à ces occasions varie; nous examinons ce que la personne a réellement fait et appris.
+Cette grille concerne le choix d’une direction au laboratoire. Elle n’est pas la grille officielle d’admission au programme. L’UQAR considère les bourses et les prix parmi les « autres éléments pertinents du dossier/CV », une catégorie qui comprend aussi d’autres expériences et documents. Ces distinctions méritent donc d’être présentées dans votre dossier officiel. Dans notre grille pour la direction d’essai, elles peuvent documenter une compétence sans donner de points automatiques supplémentaires. Les notes et expériences peuvent documenter la préparation, mais le prestige, une publication antérieure ou une bourse obtenue ne sont pas des conditions obligatoires du laboratoire. L’accès à ces occasions varie; nous examinons ce que la personne a réellement fait et appris.
 
 ## Préparer une première demande
 
@@ -67,7 +67,7 @@ Pour une première prise de contact, préparez un CV, un exemple de travail déj
 3. Quel exemple montre votre capacité à mener un travail malgré une difficulté? Qu’avez-vous fait personnellement?
 4. Quelles tâches pouvez-vous déjà réaliser avec peu d’aide? Où aurez-vous besoin de formation ou de révision?
 5. Comment intégrer la recherche à vos cours, stages et autres engagements? Que feriez-vous en cas de retard?
-6. Souhaitez-vous travailler vers une publication? Quelles contributions à la rédaction et aux révisions seraient réalistes?
+6. Comment contribueriez-vous à mener le projet vers une publication? Quels engagements de rédaction, de révision et de suivi, y compris après le dépôt de l’essai, seraient réalistes?
 
 Écrivez à [Rémi Thériault](mailto:contact@labosage.com) pour discuter des possibilités. Ce premier contact ne remplace pas le dossier officiel d’admission.
 
@@ -78,6 +78,8 @@ Après une première vérification de compatibilité, une rencontre structurée 
 Une difficulté identifiée peut conduire à un plan d’apprentissage ou à une reformulation du projet. Elle ne signifie pas automatiquement que la candidature doit être refusée.
 
 ## Recherche, diplôme et publication
+
+Je recherche un engagement en recherche qui dépasse la réalisation des exigences minimales du diplôme. Les personnes candidates devraient réellement souhaiter contribuer à mener un projet jusqu’à la publication scientifique et être prêtes à participer à des analyses rigoureuses, à la rédaction du manuscrit et aux révisions, y compris à un suivi après le dépôt de l’essai lorsque nécessaire. Le dépôt constitue une étape importante, plutôt qu’un point d’arrêt automatique de la contribution au projet. Avant toute entente d’encadrement, nous discutons de ce que cet engagement implique, de sa compatibilité avec la formation clinique, ainsi que d’une portée et d’une période de participation réalistes.
 
 Le laboratoire privilégie des essais conçus dès le départ avec une possibilité de publication scientifique et une responsabilité étudiante réelle dans la rédaction. Le format de l’essai doit cependant être confirmé avec le programme. Une analyse de données existantes ou une synthèse peut être une piste à examiner, pas une promesse de format accepté.
 
