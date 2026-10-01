@@ -14,6 +14,9 @@ The SAGE Lab welcomes students, researchers, and community partners whose intere
 Before applying, please explore our [research themes](../research/), [lab philosophy](../lab-philosophy/), and [approach to supervision capacity](../supervision-capacity/).
 
 
+
+Looking for research experience or preparing for graduate school? Explore [routes to research experience]({{< relref "research-experience-access.md" >}}) and our [graduate application advice]({{< relref "preparing-graduate-applications.md" >}}).
+
 ## SAGE Community
 
 Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. The meeting time and location remain to be confirmed. You can request mailing-list membership by email through the community page. Community participation carries no research responsibilities and is separate from applying for a research role.

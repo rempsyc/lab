@@ -51,6 +51,8 @@ An archive of ideas to revisit or combine. If you have a similar idea, we can ch
 
 ## Advice for flourishing at the SAGE Lab
 
+Planning a PhD or PsyD application? Our [graduate application guide]({{< relref "preparing-graduate-applications.md" >}}) brings together advice on grades, research, helping experience, funding and publications. If you need to explore other research opportunities, see [accessing research experience]({{< relref "research-experience-access.md" >}}).
+
 ### Protect your academic record
 
 Aim for the best grades you can in every course, ideally A+, while protecting your well-being. Keep time for studying before adding research commitments. Strong academic results matter for many doctoral admissions and scholarships. For example, [UQAR’s professional doctorate in psychology](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) considers academic results alongside research experience and other criteria. Grades strengthen a dossier without guaranteeing admission.

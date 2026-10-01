@@ -14,6 +14,9 @@ Le laboratoire SAGE accueille les personnes étudiantes, chercheuses et partenai
 Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/), notre [philosophie du laboratoire](../philosophie-labo/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
 
 
+
+Vous cherchez une expérience de recherche ou préparez les cycles supérieurs ? Explorez les [pistes pour accéder à la recherche]({{< relref "acces-experience-recherche.md" >}}) et nos [conseils pour préparer une candidature]({{< relref "preparer-candidature-doctorat.md" >}}).
+
 ## Communauté SAGE
 
 Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Découvrez la **[Communauté SAGE](../communaute/)** en préparation : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. Ces rencontres ouvertes du laboratoire accueillent toute personne intéressée, principalement autour de l’UQAR à Rimouski. L’heure et le lieu restent à confirmer. Vous pouvez demander votre inscription à la liste d’annonces par courriel depuis la page de la communauté. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.

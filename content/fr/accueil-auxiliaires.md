@@ -49,7 +49,9 @@ Utilisez l’arbre de décision pour relier vos objectifs aux données, au finan
 Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
 {{< /reading_step >}}
 
-## Conseils pour s’épanouir à SAGE
+## Conseils pour s’épanouir au laboratoire SAGE
+
+Vous préparez une candidature au Ph.D. ou au D.Psy. ? Notre [guide de préparation aux cycles supérieurs]({{< relref "preparer-candidature-doctorat.md" >}}) rassemble les conseils sur les notes, la recherche, la relation d’aide, le financement et les publications. Pour explorer d’autres possibilités, consultez [Accéder à une expérience de recherche]({{< relref "acces-experience-recherche.md" >}}).
 
 ### Protéger votre dossier académique
 

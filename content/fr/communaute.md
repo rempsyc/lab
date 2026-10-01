@@ -68,3 +68,5 @@ Il s’agit de responsabilités différentes, et non de rangs ou de promotions a
 La présence et l’organisation ne garantissent ni rôle en recherche, ni qualité d’auteur, ni lettre de recommandation, ni emploi, ni admission. Il n’est pas nécessaire de participer pour postuler à une possibilité de recherche. Une candidature en cours conserve son propre statut et doit recevoir une réponse distincte. Pour les personnes inscrites aux cours du professeur Thériault, la participation ou la non-participation n’a aucun effet sur les notes.
 
 Consultez les [possibilités de recherche](../nous-joindre/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
+
+Pour poursuivre la réflexion, consultez [Accéder à une expérience de recherche]({{< relref "acces-experience-recherche.md" >}}) et [Préparer sa candidature aux cycles supérieurs en psychologie]({{< relref "preparer-candidature-doctorat.md" >}}). Ces guides aident à explorer les possibilités et à planifier vos prochaines étapes.

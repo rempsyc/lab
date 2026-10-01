@@ -68,3 +68,5 @@ These are different responsibilities, not ranks or automatic promotions. Members
 Attendance and organizing do not guarantee research roles, authorship, recommendation letters, employment, or admission. You do not need to attend to apply for an available research opportunity. An existing application retains its own status and requires a separate response. For students in Prof. Thériault’s courses, participation or nonparticipation has no effect on grades.
 
 Read about [research opportunities](../join/) and [how we approach supervision capacity](../supervision-capacity/).
+
+For further reading, see [accessing research experience]({{< relref "research-experience-access.md" >}}) and [preparing for psychology graduate applications]({{< relref "preparing-graduate-applications.md" >}}). These guides help you explore opportunities and plan your next steps.
