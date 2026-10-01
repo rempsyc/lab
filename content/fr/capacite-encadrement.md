@@ -43,3 +43,5 @@ Mon objectif est d’accueillir chaleureusement l’intérêt des personnes tout
 — Professeur Rémi Thériault
 
 [Découvrir les façons de se joindre au laboratoire SAGE](../nous-joindre/).
+
+Vous préparez une proposition de projet ? L’[arbre de décision des projets étudiants]({{< relref "choisir-projet-etudiant.md" >}}) relie les objectifs, les données et les ressources à la discussion finale sur la capacité.

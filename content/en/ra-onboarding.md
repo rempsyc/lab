@@ -33,11 +33,15 @@ Identify themes that interest you and how your contribution might fit.
 Explore existing studies, tools and manuscripts before proposing something new. Confirm a project’s current status and supervision before joining it.
 {{< /reading_step >}}
 
-{{< reading_step id="community" label="5. Connect with peers" page="community.md" title="SAGE Community" >}}
+{{< reading_step id="planning" label="5. Understand how to choose a project" page="choosing-student-project.md" title="Choosing a Student Project" >}}
+Use the decision tree to connect your goals with available data, funding and supervision. Prepare the project discussion before starting new work.
+{{< /reading_step >}}
+
+{{< reading_step id="community" label="6. Connect with peers" page="community.md" title="SAGE Community" >}}
 Peer learning and mutual help. Community participation and research roles have different responsibilities.
 {{< /reading_step >}}
 
-{{< reading_step id="skills" label="6. Choose skills to develop" page="research-skills.md" title="Skills for Research at SAGE" >}}
+{{< reading_step id="skills" label="7. Choose skills to develop" page="research-skills.md" title="Skills for Research at SAGE" >}}
 Choose a realistic first learning goal for your role. You are not expected to master every skill before starting.
 {{< /reading_step >}}
 

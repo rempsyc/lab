@@ -8,3 +8,5 @@ translationKey: projects
 ---
 
 Our projects turn the lab’s broad questions into concrete studies, tools, and manuscripts. Explore active pipelines in robust prosociality, well-being, and robust science—or find a paused project that could be revived through a new collaboration.
+
+Considering a contribution or a new student project? Read [Choosing a Student Project]({{< relref "choosing-student-project.md" >}}) for the decision tree and feasibility discussion.

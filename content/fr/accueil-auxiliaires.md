@@ -33,11 +33,15 @@ Repérez les thèmes qui vous intéressent et les liens avec votre contribution.
 Explorez les études, les outils et les manuscrits existants avant de proposer quelque chose de nouveau. Confirmez l’état actuel et l’encadrement d’un projet avant de le rejoindre.
 {{< /reading_step >}}
 
-{{< reading_step id="community" label="5. Échanger avec vos pairs" page="communaute.md" title="Communauté SAGE" >}}
+{{< reading_step id="planning" label="5. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
+Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
+{{< /reading_step >}}
+
+{{< reading_step id="community" label="6. Échanger avec vos pairs" page="communaute.md" title="Communauté SAGE" >}}
 Apprentissage entre pairs et entraide. Participer à la communauté et occuper un rôle de recherche comportent des responsabilités différentes.
 {{< /reading_step >}}
 
-{{< reading_step id="skills" label="6. Choisir les compétences à développer" page="competences-recherche.md" title="Compétences pour la recherche" >}}
+{{< reading_step id="skills" label="7. Choisir les compétences à développer" page="competences-recherche.md" title="Compétences pour la recherche" >}}
 Choisissez un premier objectif d’apprentissage réaliste pour votre rôle. Vous n’avez pas à tout maîtriser avant de commencer.
 {{< /reading_step >}}
 
