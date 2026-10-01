@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Bienvenue à SAGE ! Notre manuel de laboratoire se compose de pages ciblées sur le site. Lisez les essentiels ci-dessous, puis revenez à la page pertinente au moment où vous en avez besoin. Vous n’avez pas à mémoriser tout le site.
+Bienvenue au laboratoire SAGE ! Notre manuel de laboratoire se compose de pages ciblées sur le site. Lisez les essentiels ci-dessous, puis revenez à la page pertinente au moment où vous en avez besoin. Vous n’avez pas à mémoriser tout le site.
 
 Ce guide s’adresse aux personnes qui commencent un rôle de recherche convenu. Si vous explorez les possibilités, commencez par [Joindre l’équipe]({{< relref "nous-joindre.md" >}}).
 
@@ -25,24 +25,28 @@ Rigueur, autocompassion et excellence, développement des compétences et travai
 Pourquoi la révision scientifique prend du temps et les nouveaux projets exigent des engagements réalistes.
 {{< /reading_step >}}
 
-{{< reading_step id="research" label="3. Explorer nos questions de recherche" page="recherche.md" title="Recherche" >}}
-Repérez les thèmes qui vous intéressent et les liens avec votre contribution.
-{{< /reading_step >}}
-
-{{< reading_step id="projects" label="4. Découvrir les travaux déjà amorcés" page="projets/_index.md" title="Projets" >}}
-Explorez les études, les outils et les manuscrits existants avant de proposer quelque chose de nouveau. Confirmez l’état actuel et l’encadrement d’un projet avant de le rejoindre.
-{{< /reading_step >}}
-
-{{< reading_step id="planning" label="5. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
-Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
-{{< /reading_step >}}
-
-{{< reading_step id="community" label="6. Échanger avec vos pairs" page="communaute.md" title="Communauté SAGE" >}}
+{{< reading_step id="community" label="3. Échanger avec vos pairs" page="communaute.md" title="Communauté SAGE" >}}
 Apprentissage entre pairs et entraide. Participer à la communauté et occuper un rôle de recherche comportent des responsabilités différentes.
 {{< /reading_step >}}
 
-{{< reading_step id="skills" label="7. Choisir les compétences à développer" page="competences-recherche.md" title="Compétences pour la recherche" >}}
+{{< reading_step id="skills" label="4. Choisir les compétences à développer" page="competences-recherche.md" title="Compétences pour la recherche" >}}
 Choisissez un premier objectif d’apprentissage réaliste pour votre rôle. Vous n’avez pas à tout maîtriser avant de commencer.
+{{< /reading_step >}}
+
+{{< reading_step id="research" label="5. Explorer nos questions de recherche" page="recherche.md" title="Recherche" >}}
+Repérez les thèmes qui vous intéressent et les liens avec votre contribution.
+{{< /reading_step >}}
+
+{{< reading_step id="projects" label="6. Découvrir les travaux déjà amorcés" page="projets/_index.md" title="Projets" >}}
+Explorez les études, les outils et les manuscrits existants avant de proposer quelque chose de nouveau. Confirmez l’état actuel et l’encadrement d’un projet avant de le rejoindre.
+{{< /reading_step >}}
+
+{{< reading_step id="ideas" label="7. Explorer le jardin d’idées (facultatif)" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
+Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
+{{< /reading_step >}}
+
+{{< reading_step id="planning" label="8. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
+Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
 {{< /reading_step >}}
 
 ## Conseils pour s’épanouir à SAGE
@@ -80,11 +84,8 @@ Tenez compte des subventions existantes, des données et de l’encadrement avan
 
 Ce sont des possibilités, pas des projets approuvés. Une proposition utile précise la question, les ressources disponibles, le résultat visé et l’aide nécessaire.
 
-## Facultatif : le jardin d’idées
 
-{{< reading_step id="ideas" label="Lecture facultative pour trouver de l’inspiration" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
-Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
-{{< /reading_step >}}
+
 
 ## Avant votre première rencontre de projet
 

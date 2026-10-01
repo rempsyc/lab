@@ -15,7 +15,7 @@ A good student project fits your learning goals, the lab’s research and the ti
 
 ## Student project decision tree
 
-{{< student_project_tree open="Open the full-size diagram" pdf="Download the printable PDF" text="Read the text walkthrough" anchor="the-route-in-words" alt="Decision tree for choosing a student project. It covers publication or learning goals, existing or new data, funding and a final feasibility check. The complete route is explained in text below." caption="English version, reviewed September 30, 2026. Select the diagram to view it separately." >}}
+{{< student_project_tree open="Open the full-size diagram" pdf="Open the printable PDF (new tab)" alt="Decision tree for choosing a student project. It covers publication or learning goals, existing or new data, funding and a final feasibility check. The complete route is explained in text below." caption="English version, reviewed September 30, 2026. Select the diagram to view it separately." >}}
 
 ## The route in words
 

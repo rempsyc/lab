@@ -15,7 +15,7 @@ Un bon projet étudiant correspond à vos objectifs d’apprentissage, aux reche
 
 ## Arbre de décision pour un projet étudiant
 
-{{< student_project_tree open="Ouvrir le schéma en grand format" pdf="Télécharger le PDF imprimable" text="Lire le parcours en texte" anchor="le-parcours-en-mots" alt="Arbre de décision pour choisir un projet étudiant : objectif de publication ou d’apprentissage, données existantes ou nouvelles, financement et vérification finale de faisabilité. Le parcours complet est expliqué en texte ci-dessous." caption="Version française, révisée le 30 septembre 2026. Sélectionnez le schéma pour le consulter séparément." >}}
+{{< student_project_tree open="Ouvrir le schéma en grand format" pdf="Ouvrir le PDF imprimable (nouvel onglet)" alt="Arbre de décision pour choisir un projet étudiant : objectif de publication ou d’apprentissage, données existantes ou nouvelles, financement et vérification finale de faisabilité. Le parcours complet est expliqué en texte ci-dessous." caption="Version française, révisée le 30 septembre 2026. Sélectionnez le schéma pour le consulter séparément." >}}
 
 ## Le parcours en mots
 

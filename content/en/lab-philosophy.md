@@ -34,10 +34,20 @@ Members should be able to ask questions, acknowledge uncertainty, report mistake
 The image below illustrates Amy Edmondson’s framework connecting psychological safety with performance standards. Our aim is the **learning zone**: people can speak openly while working toward demanding, clear goals. Psychological safety concerns the freedom to take interpersonal risks; self-compassion also concerns how we treat ourselves. Both belong in our approach to sustainable excellence. The diagram is a framework for discussion, not a measurement of our lab.
 
 {{< psychological_safety alt="Amy Edmondson’s four-zone framework: low psychological safety and low standards correspond to apathy; low safety and high standards to anxiety; high safety and low standards to comfort; and high safety and high standards to learning." >}}
-Illustration by Tanmay Vora, [QAspire](https://qaspire.com/), based on Amy Edmondson’s framework. [Edmondson explains psychological safety and demanding goals in this Harvard Business School interview](https://www.hbs.edu/recruiting/guides-and-stories/leading-in-tough-times).
+Illustration by Tanmay Vora, QAspire, based on Amy Edmondson’s framework. [Edmondson explains psychological safety and demanding goals in this Harvard Business School interview](https://www.hbs.edu/recruiting/guides-and-stories/leading-in-tough-times).
 {{< /psychological_safety >}}
 
 These commitments apply to the PI as well as to students: clear expectations, appropriate guidance, respectful feedback and realistic workloads are responsibilities we share. They support the persistence that good science needs without making overwork a condition of belonging.
+
+### Supporting autonomy, competence and relatedness
+
+[Self-determination theory](https://selfdeterminationtheory.org/topics/application-basic-psychological-needs/) identifies three basic psychological needs. We use them as practical guides for our learning and research environment:
+
+- **Autonomy:** having a voice in goals and methods, understanding the reasons for requirements, and finding personal meaning in the work. Autonomy means acting with a sense of willingness; it does not require working alone or without guidance.
+- **Competence:** developing a sense of effectiveness through appropriately challenging tasks, clear expectations, useful feedback and access to training. We support progress rather than expecting everyone to arrive fully trained.
+- **Relatedness:** feeling accepted, respected and connected to others. We make room for mutual help and participation without making belonging conditional on productivity.
+
+Supporting these needs is a shared responsibility, including how the PI organizes supervision. Clear structure and demanding scientific standards can coexist with meaningful choice, learning support and warm relationships.
 
 ## Sharpen the saw
 

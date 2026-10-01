@@ -9,11 +9,10 @@ reading_time: false
 share: false
 ---
 
-SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
+Le laboratoire SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
 
-Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/) et notre [philosophie du laboratoire](../philosophie-labo/).
+Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/), notre [philosophie du laboratoire](../philosophie-labo/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
 
-Vous commencez un rôle d’auxiliaire de recherche convenu ? Suivez notre [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}). Le [jardin d’idées](https://rempsyc.github.io/research-ideas/) est une archive facultative pour trouver de l’inspiration et combiner des idées apparentées.
 
 ## Communauté SAGE
 
@@ -21,7 +20,6 @@ Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontr
 
 Pour rejoindre la **liste d’annonces de la Communauté SAGE**, écrivez à [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=Communaut%C3%A9%20SAGE%20%E2%80%94%20Inscription%20%C3%A0%20la%20liste) en demandant à être ajouté à la liste. Vous recevrez les sujets des rencontres, les renseignements pratiques, les activités et les possibilités de financement et de recherche pertinentes. Pour vous désinscrire, écrivez simplement à la même adresse en demandant votre retrait.
 
-Pour comprendre comment nous équilibrons recherche et formation, consultez **[notre approche de la capacité d’encadrement](../capacite-encadrement/)**.
 
 ## Personnes étudiantes au premier cycle
 
@@ -33,9 +31,13 @@ Consultez aussi les [compétences pour la recherche au laboratoire SAGE](../comp
 
 Pour nous faire part de votre intérêt, remplissez le **[formulaire d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
+Vous commencez un rôle d’auxiliaire de recherche convenu ? Suivez notre [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}).
+
 ## Personnes étudiantes au D.Psy. et aux cycles supérieurs
 
-Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes de SAGE et précise le type d’encadrement ou de collaboration recherché.
+Vous envisagez une direction d’essai au D.Psy. avec Rémi ? Consultez [ce qu’il faut savoir avant de candidater avec moi]({{< relref "candidatures-dpsy.md" >}}).
+
+Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes du laboratoire SAGE et précise le type d’encadrement ou de collaboration recherché.
 
 Les personnes aux cycles supérieurs sont vivement encouragées à chercher des bourses, des stages ou d’autres sources de financement indépendant. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle fournirait des ressources pour le soutien de la personne étudiante, les activités de recherche et l’encadrement.
 
@@ -51,7 +53,7 @@ Les prises de contact préliminaires sont bienvenues lors de la préparation d�
 
 ## Collaborations de recherche et partenariats avec le milieu
 
-SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
+Le laboratoire SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
 
 Les partenaires sont encouragés à apporter ou à chercher un financement indépendant, un soutien par une subvention commune ou d’autres ressources pour le travail proposé. L’obtention d’un financement améliorerait considérablement les chances d’établir une collaboration avec mon laboratoire à quelque niveau que ce soit, particulièrement lorsque le projet exige de rémunérer des personnes participantes, du personnel de recherche ou un encadrement important.
 

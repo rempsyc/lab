@@ -34,10 +34,20 @@ Chacun doit pouvoir poser des questions, reconnaître ses incertitudes, signaler
 L’image ci-dessous illustre le cadre d’Amy Edmondson qui relie la sécurité psychologique aux exigences de performance. Nous visons la **zone d’apprentissage** : chacun peut s’exprimer ouvertement tout en travaillant à des objectifs ambitieux et clairs. La sécurité psychologique concerne la liberté de prendre des risques dans les échanges; l’autocompassion concerne aussi notre façon de nous traiter nous-mêmes. Les deux font partie de notre approche d’une excellence durable. Le schéma sert de cadre de discussion, pas de mesure de notre laboratoire.
 
 {{< psychological_safety alt="Le cadre à quatre zones d’Amy Edmondson : sécurité psychologique et exigences faibles, apathie; sécurité faible et exigences élevées, anxiété; sécurité élevée et exigences faibles, confort; sécurité et exigences élevées, apprentissage." >}}
-Illustration de Tanmay Vora, [QAspire](https://qaspire.com/), d’après le cadre d’Amy Edmondson. [Edmondson explique la sécurité psychologique et les objectifs exigeants dans cet entretien de la Harvard Business School](https://www.hbs.edu/recruiting/guides-and-stories/leading-in-tough-times) (en anglais).
+Illustration de Tanmay Vora, QAspire, d’après le cadre d’Amy Edmondson. [Edmondson explique la sécurité psychologique et les objectifs exigeants dans cet entretien de la Harvard Business School](https://www.hbs.edu/recruiting/guides-and-stories/leading-in-tough-times) (en anglais).
 {{< /psychological_safety >}}
 
 Ces engagements concernent le directeur autant que les étudiants : des attentes claires, un encadrement approprié, une rétroaction respectueuse et une charge réaliste sont des responsabilités partagées. Ils soutiennent la persévérance nécessaire à la recherche sans faire du surmenage une condition d’appartenance au laboratoire.
+
+### Soutenir l’autonomie, la compétence et l’appartenance
+
+La [théorie de l’autodétermination](https://selfdeterminationtheory.org/topics/application-basic-psychological-needs/) distingue trois besoins psychologiques fondamentaux. Ils nous servent de repères concrets pour notre environnement d’apprentissage et de recherche :
+
+- **Autonomie :** pouvoir participer aux choix des objectifs et des méthodes, comprendre les raisons des exigences et trouver un sens personnel au travail. L’autonomie désigne le sentiment d’agir de son plein gré; elle n’exige pas de travailler sans aide ni encadrement.
+- **Compétence :** développer un sentiment d’efficacité grâce à des tâches suffisamment stimulantes, des attentes claires, une rétroaction utile et un accès à la formation. Nous soutenons la progression plutôt que d’attendre que chaque personne maîtrise déjà tous les outils.
+- **Appartenance :** se sentir accepté, respecté et relié aux autres. Nous favorisons l’entraide et la participation sans conditionner la place de chacun à sa productivité.
+
+Soutenir ces besoins est une responsabilité partagée, notamment dans la façon dont la direction organise l’encadrement. Une structure claire et des standards scientifiques exigeants peuvent coexister avec des choix significatifs, un soutien à l’apprentissage et des relations chaleureuses.
 
 ## Aiguiser la scie
 
