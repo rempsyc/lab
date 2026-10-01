@@ -41,12 +41,12 @@ Identify themes that interest you and how your contribution might fit.
 Explore existing studies, tools and manuscripts before proposing something new. Confirm a project’s current status and supervision before joining it.
 {{< /reading_step >}}
 
-{{< reading_step id="ideas" label="7. Explore the Idea Garden (optional)" url="https://rempsyc.github.io/research-ideas/" title="Idea Garden" >}}
-An archive of ideas to revisit or combine. If you have a similar idea, we can check what is already in the bank and build on it. An entry does not mean a project is active, funded or ready to launch. You can start your agreed role without reading the archive.
+{{< reading_step id="planning" label="7. Understand how to choose a project" page="choosing-student-project.md" title="Choosing a Student Project" >}}
+Use the decision tree to connect your goals with available data, funding and supervision. Prepare the project discussion before starting new work.
 {{< /reading_step >}}
 
-{{< reading_step id="planning" label="8. Understand how to choose a project" page="choosing-student-project.md" title="Choosing a Student Project" >}}
-Use the decision tree to connect your goals with available data, funding and supervision. Prepare the project discussion before starting new work.
+{{< reading_step id="ideas" label="8. Explore the Idea Garden (optional)" url="https://rempsyc.github.io/research-ideas/" title="Idea Garden" >}}
+An archive of ideas to revisit or combine. If you have a similar idea, we can check what is already in the bank and build on it. An entry does not mean a project is active, funded or ready to launch. You can start your agreed role without reading the archive.
 {{< /reading_step >}}
 
 ## Advice for flourishing at the SAGE Lab

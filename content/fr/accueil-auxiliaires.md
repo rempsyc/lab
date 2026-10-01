@@ -41,12 +41,12 @@ Repérez les thèmes qui vous intéressent et les liens avec votre contribution.
 Explorez les études, les outils et les manuscrits existants avant de proposer quelque chose de nouveau. Confirmez l’état actuel et l’encadrement d’un projet avant de le rejoindre.
 {{< /reading_step >}}
 
-{{< reading_step id="ideas" label="7. Explorer le jardin d’idées (facultatif)" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
-Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
+{{< reading_step id="planning" label="7. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
+Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
 {{< /reading_step >}}
 
-{{< reading_step id="planning" label="8. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
-Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
+{{< reading_step id="ideas" label="8. Explorer le jardin d’idées (facultatif)" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
+Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
 {{< /reading_step >}}
 
 ## Conseils pour s’épanouir à SAGE
