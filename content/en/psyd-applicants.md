@@ -9,7 +9,11 @@ reading_time: false
 share: false
 ---
 
-This guide is for prospective PsyD students seeking doctoral-essay supervision with Rémi Thériault at the SAGE Lab. It explains what I look for and how supervision capacity affects selection. It does not replace UQAR’s official admission requirements or constitute an offer of a place.
+This guide is for prospective PsyD students seeking doctoral-essay supervision with Prof. Thériault at SAGE. It concerns non-clinical research, not clinical placements or practice supervision. It does not replace UQAR’s admission requirements or constitute an offer of a place.
+
+## Interested in research training without the clinical pathway?
+
+UQAR’s [personalized PhD (doctorat sur mesure)](https://www.uqar.ca/programmes-domaines-detudes/doctorat-sur-mesure-ph-d/) may be worth exploring with Prof. Thériault and the University. It addresses exceptional situations where no existing program meets the training needs, subject to supervision resources and institutional approval. It is not a PsyD with placements removed: it includes a training plan, coursework, a doctoral examination and a thesis. It does not replace the clinical training required for psychologist licensure. No place or individual eligibility is promised; a supervisor must be found before applying.
 
 ## A place with genuine supervision
 
@@ -76,7 +80,11 @@ My preference is for essays designed from the outset with a scientific publicati
 
 Completing a degree and having an article accepted are separate outcomes. We agree on writing and revision roles, a realistic period of involvement and a handover plan if circumstances change. Publication cannot be guaranteed, authorship depends on contributions and applicable rules, and participation does not create an indefinite obligation after graduation.
 
-Relevant funding applications are encouraged. Funding may make activities possible but does not replace scientific supervision or project fit.
+## External funding and hosting priority
+
+Among candidates with comparable scientific fit and feasibility, **confirmed compatible external funding receives the highest priority**. It can make hosting feasible, but cannot replace supervision or fit and does not guarantee admission. Applicants without awards may be considered when capacity and resources are available; an application in preparation is not secured funding.
+
+See our [doctoral and postdoctoral funding guide](../applicant-funding/): Québec, Canada, UQAR, then international starting points. **FRQ B2 excludes professional doctorates and essays**, so it should not be presented as assured PsyD funding. Federal rules differ: confirm the exact UQAR program’s eligibility before preparing an application. A personalized PhD is a separate pathway with its own requirements.
 
 ## What you can expect from me
 

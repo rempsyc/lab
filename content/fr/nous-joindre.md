@@ -57,6 +57,8 @@ Les personnes souhaitant effectuer un stage postdoctoral ou un séjour de recher
 
 Un financement indépendant ou une bourse externe est vivement encouragé. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle rendrait plus réalisables un projet consacré et l’encadrement nécessaire.
 
+Avant de proposer un stage, consultez **[ce qu’il faut savoir avant de candidater avec moi au postdoctorat](../candidatures-postdoc/)** et notre [guide de financement](../financement-candidatures/). À adéquation scientifique et faisabilité comparables, un financement externe confirmé et compatible donne la plus haute priorité, sans garantir l’accueil.
+
 Les prises de contact préliminaires sont bienvenues lors de la préparation d’une demande de financement externe.
 
 Pour proposer un stage postdoctoral avec le Prof. Thériault, remplissez le **[formulaire d’intérêt pour un stage postdoctoral](https://docs.google.com/forms/d/e/1FAIpQLSf05nAm4QX9mmYty8KqbmIbwN7xKTq6Kkx9qTcB9KyNu1ptwQ/viewform)**. Il permet de préciser l’adéquation scientifique, le financement, les responsabilités autonomes et le soutien souhaité. L’accueil porte sur la recherche non clinique et dépend de la capacité disponible; la démarche ne garantit ni réponse individuelle, ni poste, ni financement, ni entente d’accueil.

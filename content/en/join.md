@@ -57,6 +57,8 @@ Prospective postdoctoral fellows and visiting researchers are encouraged to prop
 
 Independent fellowship or other external funding is strongly encouraged. Successful funding would substantially improve the chances of joining my lab by making a dedicated project and the required supervision more feasible.
 
+Before proposing a postdoc, read **[what to know before applying with me](../postdoc-applicants/)** and our [funding guide](../applicant-funding/). Among candidates with comparable scientific fit and feasibility, confirmed compatible external funding receives the highest priority, without guaranteeing hosting.
+
 Early inquiries are welcome when preparing an external fellowship application.
 
 To propose a postdoctoral appointment with Prof. Thériault, complete the **[postdoctoral research interest form](https://docs.google.com/forms/d/e/1FAIpQLSf05nAm4QX9mmYty8KqbmIbwN7xKTq6Kkx9qTcB9KyNu1ptwQ/viewform)**. It helps clarify scientific fit, funding, independent responsibilities, and the support you would need. Hosting focuses on non-clinical research and depends on available capacity; submitting does not guarantee an individual reply, a position, funding, or a hosting agreement.

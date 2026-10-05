@@ -10,7 +10,11 @@ share: false
 ---
 
 
-Ce guide concerne la direction de l’essai doctoral par Rémi Thériault au laboratoire SAGE. Il ne remplace pas les exigences ni la sélection officielle de l’UQAR et ne constitue pas une offre de place.
+Ce guide concerne la direction de l’essai doctoral par le Prof. Thériault au laboratoire SAGE. Il ne remplace pas les exigences ni la sélection officielle de l’UQAR et ne constitue pas une offre de place. L’encadrement proposé porte sur la recherche non clinique, non sur les stages ou la pratique clinique.
+
+## Vous souhaitez une formation en recherche sans parcours clinique?
+
+Le [doctorat sur mesure (Ph.D.) de l’UQAR](https://www.uqar.ca/programmes-domaines-detudes/doctorat-sur-mesure-ph-d/) peut être une avenue à examiner avec le Prof. Thériault et l’Université. Il vise des situations exceptionnelles où aucun programme existant ne répond aux besoins de formation, sous réserve des ressources d’encadrement et de l’approbation institutionnelle. Ce n’est pas un D.Psy. dont on retire les stages : il comporte un plan de formation, des cours, un examen doctoral et une thèse. Il ne remplace pas la formation clinique requise pour accéder à la profession de psychologue. Aucune place ni admissibilité individuelle n’est promise; une direction doit être trouvée avant la demande d’admission.
 
 ## Une place accompagnée d’un véritable encadrement
 
@@ -85,7 +89,11 @@ Le laboratoire privilégie des essais conçus dès le départ avec une possibili
 
 La réussite du diplôme et l’acceptation d’un article sont deux résultats distincts. Nous préciserons les responsabilités de rédaction, les étapes de révision, une période d’engagement réaliste et la transmission du travail si la situation change. Une publication ne peut être garantie; une contribution ne crée pas une obligation indéfinie après le diplôme. Les décisions d’autorat reposent sur les contributions et les règles applicables.
 
-Les demandes de financement pertinentes sont encouragées. Un financement peut rendre certaines activités possibles, mais ne remplace ni l’encadrement scientifique ni la compatibilité du projet.
+## Financement externe et priorité d’accueil
+
+À adéquation scientifique et faisabilité comparables, **un financement externe confirmé et compatible donne la plus haute priorité à une candidature**. Il peut rendre l’accueil réalisable, mais ne remplace ni l’encadrement ni la compatibilité du projet et ne garantit pas l’admission. Une candidature sans bourse peut être examinée lorsqu’une capacité et des ressources sont disponibles; une demande en préparation n’équivaut pas à un financement obtenu.
+
+Consultez notre [guide des financements doctoraux et postdoctoraux](../financement-candidatures/) : Québec, Canada, UQAR, puis pistes internationales. **Les bourses FRQ B2 excluent les doctorats professionnels et les essais.** Ne les présentez donc pas comme une source acquise pour le D.Psy. Les règles fédérales sont différentes : l’admissibilité exacte du programme UQAR doit être confirmée avant de préparer un dossier. Le Ph.D. sur mesure constitue un parcours distinct, avec ses propres exigences.
 
 ## Ce que vous pouvez attendre de la direction
 
