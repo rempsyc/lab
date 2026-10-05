@@ -30,6 +30,11 @@ Pour les projets liés à la santé, consulter aussi les [instructions doctorale
 
 ## Pistes internationales par pays
 
+Deux autres pistes à examiner :
+
+- **[Fondation Pierre Elliott Trudeau — concours 2027](https://www.fondationtrudeau.ca/candidatures-2027/)** : doctorat en sciences humaines et sociales, selon les critères du programme; ne pas supposer l’admissibilité du D.Psy. La page propre au concours indique une vérification d’admissibilité avant le **2 octobre 2026 (passé)**, des références avant le 30 octobre et un dossier complet avant le 6 novembre. La page générique affiche un autre calendrier : confirmer auprès de la Fondation avant toute démarche.
+- **[PBEEE 2027–2028](https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiantes-etrangeres-et-etudiants-etrangers-pbeee-2027-2028/)** : candidatures internationales avec présélection institutionnelle; doctorat en recherche (pas doctorat professionnel), postdoc ou court séjour selon le volet. Présélection UQAR à demander bien avant la nomination au FRQ du **27 octobre 2026**; dépôt final des personnes présélectionnées le **2 décembre 2026**. La [fiche UQAR postdoc](https://etudes.uqar.ca/bourse/233) invite à contacter **bde-boursescyclesup@uqar.ca**; ne pas utiliser le 2 décembre comme première échéance.
+
 Ces pistes concernent surtout un séjour de recherche ou un postdoc, pas nécessairement le financement complet d’un D.Psy. L’accueil à l’UQAR, les accords institutionnels et la portabilité doivent être confirmés avant toute candidature.
 
 | Pays / lien | Doctorat ou D.Psy. | Postdoc / séjour | Calendrier et limite importante |

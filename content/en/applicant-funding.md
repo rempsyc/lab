@@ -30,6 +30,11 @@ For health-related projects, also check [CIHR doctoral instructions](https://cih
 
 ## International starting points by country
 
+Two additional routes to consider:
+
+- **[Pierre Elliott Trudeau Foundation—2027 competition](https://www.fondationtrudeau.ca/candidatures-2027/)**: humanities/social-sciences doctorate, subject to program criteria; do not assume PsyD eligibility. The competition-specific page requires eligibility verification by **October 2, 2026 (past)**, references by October 30 and a full application by November 6. A generic page displays a different schedule: confirm with the Foundation before proceeding.
+- **[PBEEE 2027–2028](https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiantes-etrangeres-et-etudiants-etrangers-pbeee-2027-2028/)**: international applicants with institutional preselection; research doctorate (not professional doctorate), postdoc or short visit by stream. Request UQAR preselection well before the **October 27, 2026** FRQ nomination deadline; final submissions from preselected applicants are due **December 2, 2026**. The [UQAR postdoc listing](https://etudes.uqar.ca/bourse/233) directs applicants to **bde-boursescyclesup@uqar.ca**. December 2 is not the first deadline.
+
 Most routes below fund research visits or postdocs, not necessarily an entire PsyD. UQAR hosting, institutional agreements and portability must be confirmed first.
 
 | Country / connection | Doctoral or PsyD route | Postdoc / visit | Timing and limitation |
