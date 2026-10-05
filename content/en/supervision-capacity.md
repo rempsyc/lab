@@ -43,3 +43,7 @@ My aim is to be warm about people’s interest and precise about commitments, so
 — Prof. Rémi Thériault
 
 [Explore ways to join the SAGE Lab](../join/).
+
+Preparing a project proposal? Our [student project decision tree]({{< relref "choosing-student-project.md" >}}) connects project goals, data and resources with the final capacity discussion.
+
+Looking beyond one lab? Read about [accessing research experience]({{< relref "research-experience-access.md" >}}): the shared capacity challenge, remote opportunities and collective options to explore.
