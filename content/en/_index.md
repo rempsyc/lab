@@ -13,7 +13,7 @@ sections:
       title: SAGE Lab
       expansion: "Self, Altruism, Groups, & Empathy"
       affiliation: Université du Québec à Rimouski (UQAR)
-      text: "We study how people understand themselves, care for others, and navigate life in groups."
+      text: "We study robust change—in how people understand themselves, relate to others, and do science."
     design:
       spacing:
         padding: ["3rem", "0", "4rem", "0"]
