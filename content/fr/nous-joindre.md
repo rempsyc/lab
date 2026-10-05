@@ -59,6 +59,8 @@ Un financement indépendant ou une bourse externe est vivement encouragé. L’o
 
 Les prises de contact préliminaires sont bienvenues lors de la préparation d’une demande de financement externe.
 
+Pour proposer un stage postdoctoral avec le Prof. Thériault, remplissez le **[formulaire d’intérêt pour un stage postdoctoral](https://docs.google.com/forms/d/e/1FAIpQLSf05nAm4QX9mmYty8KqbmIbwN7xKTq6Kkx9qTcB9KyNu1ptwQ/viewform)**. Il permet de préciser l’adéquation scientifique, le financement, les responsabilités autonomes et le soutien souhaité. L’accueil porte sur la recherche non clinique et dépend de la capacité disponible; la démarche ne garantit ni réponse individuelle, ni poste, ni financement, ni entente d’accueil.
+
 {{< /join_section >}}
 
 {{< join_section title="Collaborations de recherche et partenariats avec le milieu" >}}

@@ -59,6 +59,8 @@ Independent fellowship or other external funding is strongly encouraged. Success
 
 Early inquiries are welcome when preparing an external fellowship application.
 
+To propose a postdoctoral appointment with Prof. Thériault, complete the **[postdoctoral research interest form](https://docs.google.com/forms/d/e/1FAIpQLSf05nAm4QX9mmYty8KqbmIbwN7xKTq6Kkx9qTcB9KyNu1ptwQ/viewform)**. It helps clarify scientific fit, funding, independent responsibilities, and the support you would need. Hosting focuses on non-clinical research and depends on available capacity; submitting does not guarantee an individual reply, a position, funding, or a hosting agreement.
+
 {{< /join_section >}}
 
 {{< join_section title="Research collaborators and community partners" >}}
