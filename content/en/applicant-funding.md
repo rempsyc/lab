@@ -1,6 +1,6 @@
 ---
 title: Funding a doctoral or postdoctoral application
-summary: Funding routes, eligibility and planning for prospective SAGE applicants.
+summary: Funding routes, eligibility and planning for prospective SAGE Lab applicants.
 translationKey: applicant-funding
 type: page
 layout: compact
@@ -11,7 +11,7 @@ share: false
 
 **Sources checked October 5, 2026.** This is a curated starting point, not an exhaustive catalogue or an eligibility decision. Official rules and institutional deadlines govern. Past deadlines help plan the next cycle; future dates must be confirmed. Countries identify a funding system or required connection, not necessarily every eligible applicant’s nationality.
 
-Among candidates with comparable scientific fit and feasibility, confirmed compatible external funding receives the highest priority at SAGE. Applied-for funding is not secured funding. A personal award may not cover research costs or mentoring. Funding never guarantees admission or hosting.
+Among candidates with comparable scientific fit and feasibility, confirmed compatible external funding receives the highest priority at the SAGE Lab. Applied-for funding is not secured funding. A personal award may not cover research costs or mentoring. Funding never guarantees admission or hosting.
 
 ## Start with Québec, Canada and UQAR
 
@@ -26,7 +26,7 @@ Among candidates with comparable scientific fit and feasibility, confirmed compa
 
 Federal rules can accommodate some clinically oriented programs with substantial autonomous research. This **does not itself establish eligibility of UQAR’s PsyD**; confirm with the program, scholarship office and agency first. [Interagency rules published by NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp).
 
-For health-related projects, also check [CIHR doctoral instructions](https://cihr-irsc.gc.ca/e/54347.html). SAGE research remains non-clinical; the label “psychology” does not automatically determine the appropriate agency.
+For health-related projects, also check [CIHR doctoral instructions](https://cihr-irsc.gc.ca/e/54347.html). SAGE Lab research remains non-clinical; the label “psychology” does not automatically determine the appropriate agency.
 
 ## International starting points by country
 
@@ -44,7 +44,7 @@ Most routes below fund research visits or postdocs, not necessarily an entire Ps
 | Germany | No full UQAR PsyD funding confirmed in this review | [DFG Walter Benjamin—fellowship abroad](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) | Rolling applications; German research-system connection and mobility rules apply. Distinct from the German-hosted position. |
 | Switzerland | No full UQAR PsyD funding confirmed in this review | [SNSF Postdoc.Mobility](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility): research abroad | February 2 and August 3, 2027, 5 p.m. Swiss time; August 2027 announced as final call. Swiss connection required; scheme in transition. |
 | Japan | No full UQAR PsyD funding confirmed in this review | [JSPS Overseas Research Fellowships](https://www.jsps.go.jp/j-ab/?vm=r): eligible researchers going abroad | Check annual Japanese call and institutional dates; next submission date not confirmed here. Not the scheme bringing foreign researchers to Japan. |
-| France | [France–Canada Research Fund](https://francecanadaculture.org/wp-content/uploads/2025/09/FFCR-2026-Directives-FR.pdf): doctoral mobility linked to a collaboration | Joint-project mobility, not guaranteed individual postdoc salary | 2026-cycle reference: November 2025, past; verify next call. Two researcher leads and eligible universities needed; **UQAR participation must be checked**, not an award automatically available to every SAGE applicant. |
+| France | [France–Canada Research Fund](https://francecanadaculture.org/wp-content/uploads/2025/09/FFCR-2026-Directives-FR.pdf): doctoral mobility linked to a collaboration | Joint-project mobility, not guaranteed individual postdoc salary | 2026-cycle reference: November 2025, past; verify next call. Two researcher leads and eligible universities needed; **UQAR participation must be checked**, not an award automatically available to every SAGE Lab applicant. |
 
 From another country? Identify a national award portable to Canada, its rules and deadline in your inquiry. An unconfirmed route is not proof that no funding exists. We add verified opportunities as inquiries arise rather than making country-by-country promises.
 

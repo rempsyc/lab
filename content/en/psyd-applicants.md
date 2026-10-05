@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-This guide is for prospective PsyD students seeking doctoral-essay supervision with Prof. Thériault at SAGE. It concerns non-clinical research, not clinical placements or practice supervision. It does not replace UQAR’s admission requirements or constitute an offer of a place.
+This guide is for prospective PsyD students seeking doctoral-essay supervision with Prof. Thériault at the SAGE Lab. It concerns non-clinical research, not clinical placements or practice supervision. It does not replace UQAR’s admission requirements or constitute an offer of a place.
 
 ## Interested in research training without the clinical pathway?
 

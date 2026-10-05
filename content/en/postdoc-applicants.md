@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-A postdoc at SAGE should advance an important question while developing your scientific independence and career. This guide describes Prof. Thériault’s expectations; it is not a job offer or a hosting agreement.
+A postdoc at the SAGE Lab should advance an important question while developing your scientific independence and career. This guide describes Prof. Thériault’s expectations; it is not a job offer or a hosting agreement.
 
 ## Scientific partnership, not simply additional hands
 
