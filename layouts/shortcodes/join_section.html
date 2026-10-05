@@ -1,0 +1,6 @@
+<details class="join-section">
+  <summary>{{ .Get "title" }}</summary>
+  <div class="join-section-content">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</details>

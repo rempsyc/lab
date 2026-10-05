@@ -13,18 +13,17 @@ The SAGE Lab welcomes students, researchers, and community partners whose intere
 
 Before applying, please explore our [research themes](../research/), [lab philosophy](../lab-philosophy/), and [approach to supervision capacity](../supervision-capacity/).
 
-
-
-Looking for research experience or preparing for graduate school? Explore [routes to research experience]({{< relref "research-experience-access.md" >}}) and our [graduate application advice]({{< relref "preparing-graduate-applications.md" >}}).
-
-## SAGE Community
+{{< join_section title="SAGE Community" >}}
 
 Looking for conversation, peer learning, and people with shared interests? Explore the proposed **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. The meeting time and location remain to be confirmed. You can request mailing-list membership by email through the community page. Community participation carries no research responsibilities and is separate from applying for a research role.
 
 To join the **SAGE Community announcement list**, email [labosage@uqar.ca](mailto:labosage@uqar.ca?subject=SAGE%20Community%20%E2%80%94%20Join%20the%20mailing%20list) and ask to be added. You will receive meeting topics, practical details, activities, and relevant funding and research opportunities. To unsubscribe, simply email the same address and ask to be removed.
 
+{{< /join_section >}}
 
-## Undergraduate students
+{{< join_section title="Undergraduate students" >}}
+
+Looking for research experience or preparing for graduate school? Explore [routes to research experience]({{< relref "research-experience-access.md" >}}) and our [graduate application advice]({{< relref "preparing-graduate-applications.md" >}}).
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.
 
@@ -36,8 +35,9 @@ To express your interest, complete the **[Undergraduate Research Interest Form](
 
 Starting an agreed research-assistant role? Follow our [onboarding reading checklist]({{< relref "ra-onboarding.md" >}}).
 
-## PsyD and other graduate students
+{{< /join_section >}}
 
+{{< join_section title="PsyD and other graduate students" >}}
 
 PsyD and graduate students may approach the lab about research practica, doctoral projects, independent studies, or collaboration on an existing project. A strong application identifies a focused question, explains how it connects with the SAGE Lab’s themes, and clarifies the kind of supervision or collaboration being sought.
 
@@ -47,7 +47,9 @@ Admission to an academic program and participation in the lab are separate proce
 
 Considering PsyD supervision with Rémi? Read [what to know before applying with me]({{< relref "psyd-applicants.md" >}}).
 
-## Postdoctoral fellows and visiting researchers
+{{< /join_section >}}
+
+{{< join_section title="Postdoctoral fellows and visiting researchers" >}}
 
 Prospective postdoctoral fellows and visiting researchers are encouraged to propose a project that complements the lab’s research program while developing an independent line of work. Please indicate the anticipated dates, funding situation or fellowship plans, methodological expertise, and potential points of collaboration.
 
@@ -55,7 +57,9 @@ Independent fellowship or other external funding is strongly encouraged. Success
 
 Early inquiries are welcome when preparing an external fellowship application.
 
-## Research collaborators and community partners
+{{< /join_section >}}
+
+{{< join_section title="Research collaborators and community partners" >}}
 
 The SAGE Lab is open to collaborations with researchers, organizations, and community partners who bring complementary questions, methods, populations, or practical knowledge.
 
@@ -64,3 +68,5 @@ Collaborators are encouraged to bring or pursue independent funding, shared gran
 Applications and proposals are reviewed as opportunities arise. Because capacity varies throughout the year, submitting the form does not guarantee a position or an immediate response.
 
 To outline a project idea, identify shared interests, or begin a conversation about data, methods, or knowledge mobilization, complete the **[SAGE Lab Collaboration Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
+
+{{< /join_section >}}
