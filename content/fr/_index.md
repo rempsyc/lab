@@ -13,7 +13,7 @@ sections:
       title: Laboratoire SAGE
       expansion: "Soi, Altruisme, Groupes et Empathie"
       affiliation: Université du Québec à Rimouski (UQAR)
-      text: "Nous étudions le changement robuste — dans la façon dont les personnes se comprennent, interagissent avec les autres et font de la science."
+      text: "Nous étudions le changement robuste — en soi, dans notre relation aux autres et dans notre manière de faire de la science."
     design:
       spacing:
         padding: ["3rem", "0", "4rem", "0"]
