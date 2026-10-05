@@ -45,7 +45,9 @@ Graduate students are strongly encouraged to pursue independent scholarships, fe
 
 Admission to an academic program and participation in the lab are separate processes. Prospective students should also follow the relevant UQAR program and admission requirements.
 
-Considering PsyD supervision with Rémi? Read [what to know before applying with me]({{< relref "psyd-applicants.md" >}}).
+Considering PsyD doctoral essay supervision with Prof. Thériault? Read [what to know before applying with me]({{< relref "psyd-applicants.md" >}}), then complete the **[PsyD Research Supervision Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)**.
+
+This pathway concerns nonclinical research, mainly online, using existing data or evidence synthesis; it does not offer clinical supervision or placements. We seek motivation to prepare, submit, and revise a manuscript, with responsibilities and limits agreed together, sometimes beyond minimum program requirements. Completing the form does not guarantee an immediate reply, admission, or a supervision agreement. Journal acceptance is not an additional condition for completing the degree.
 
 {{< /join_section >}}
 

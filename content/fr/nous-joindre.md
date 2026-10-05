@@ -45,7 +45,9 @@ Les personnes aux cycles supérieurs sont vivement encouragées à chercher des 
 
 L’admission à un programme universitaire et la participation aux activités du laboratoire constituent deux démarches distinctes. Les personnes candidates doivent également suivre les exigences du programme et le processus d’admission pertinents de l’UQAR.
 
-Vous envisagez une direction d’essai au D.Psy. avec Rémi ? Consultez [ce qu’il faut savoir avant de candidater avec moi]({{< relref "candidatures-dpsy.md" >}}).
+Vous envisagez une direction d’essai au D.Psy. avec le Prof. Thériault ? Consultez [ce qu’il faut savoir avant de candidater avec moi]({{< relref "candidatures-dpsy.md" >}}), puis remplissez le **[formulaire d’intérêt pour la direction de recherche au D.Psy.](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)**.
+
+Cette démarche concerne la recherche non clinique, principalement en ligne, sur données existantes ou par synthèse des connaissances; elle n’offre pas de supervision ni de stage clinique. Nous recherchons une motivation à préparer, soumettre et réviser un manuscrit, selon des responsabilités et des limites convenues ensemble, parfois au-delà des exigences minimales du programme. Remplir le formulaire ne garantit ni une réponse immédiate, ni une admission, ni un accord de direction. L’acceptation d’un article par une revue n’est pas une condition supplémentaire d’obtention du diplôme.
 
 {{< /join_section >}}
 
