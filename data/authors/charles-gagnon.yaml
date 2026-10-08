@@ -5,6 +5,9 @@ name:
   given: Charles
   family: Gagnon
 role: Research Assistant
+affiliations:
+  - name: Université du Québec à Rimouski (UQAR)
+    url: https://www.uqar.ca/
 user_groups:
   - Research Assistants
   - Auxiliaires de recherche

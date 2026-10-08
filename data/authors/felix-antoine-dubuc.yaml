@@ -6,6 +6,9 @@ name:
   family: Dubuc
 role: Research Assistant
 website: https://felixantoinedubuc.com/?i=1
+affiliations:
+  - name: Université du Québec à Rimouski (UQAR)
+    url: https://www.uqar.ca/
 user_groups:
   - Research Assistants
   - Auxiliaires de recherche
