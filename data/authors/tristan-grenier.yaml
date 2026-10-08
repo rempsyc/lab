@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: tristan-grenier
+name:
+  display: Tristan Grenier
+  given: Tristan
+  family: Grenier
+role: Research Assistant
+user_groups:
+  - Research Assistants
+  - Auxiliaires de recherche
+weight: 40

@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: felix-antoine-dubuc
+name:
+  display: Félix-Antoine Dubuc
+  given: Félix-Antoine
+  family: Dubuc
+role: Research Assistant
+website: https://felixantoinedubuc.com/?i=1
+user_groups:
+  - Research Assistants
+  - Auxiliaires de recherche
+weight: 60
