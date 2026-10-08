@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: charles-gagnon
+name:
+  display: Charles Gagnon
+  given: Charles
+  family: Gagnon
+role: Research Assistant
+user_groups:
+  - Research Assistants
+  - Auxiliaires de recherche
+weight: 50
