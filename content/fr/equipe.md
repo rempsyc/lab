@@ -22,9 +22,9 @@ sections:
           members:
             - androw-ramy
             - robin-shanholtz
-            - felix-antoine-dubuc
-            - charles-gagnon
             - tristan-grenier
+            - charles-gagnon
+            - felix-antoine-dubuc
     design:
       spacing:
         padding: ["3rem", "0", "4rem", "0"]
