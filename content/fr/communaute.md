@@ -9,7 +9,9 @@ reading_time: false
 share: false
 ---
 
-**Une communauté en préparation.** Nous préparons des rencontres ouvertes du laboratoire, chaque semaine en personne, où toute personne intéressée par la psychologie, la philosophie, les sciences et les échanges d’idées est la bienvenue. La communauté sera principalement ancrée à l’UQAR à Rimouski, tout en accueillant d’autres personnes intéressées. Le jour, l’heure, le lieu et la première rencontre restent à confirmer.
+**Les rencontres ouvertes du Laboratoire SAGE accueillent maintenant tout le monde!** Joignez-vous à nous **les vendredis, de 11 h 30 à 12 h 30, au local U-1170 de l’UQAR à Rimouski**. Toute personne intéressée par la psychologie, la philosophie, les sciences et les échanges d’idées est la bienvenue, y compris au-delà de la communauté étudiante de l’UQAR.
+
+Un calendrier détaillé des sujets et des activités sera bientôt partagé dans un document Google Docs. Le lien sera ajouté ici dès qu’il sera disponible.
 
 L’objectif est de réunir des personnes aux intérêts communs, d’apprendre les unes des autres et de faire circuler les idées et l’information. Les liens sociaux et l’apprentissage entre pairs ont une valeur en soi. Aucune expérience en recherche n’est nécessaire : vous pouvez venir selon vos intérêts, écouter ou contribuer sans occuper de rôle en recherche.
 

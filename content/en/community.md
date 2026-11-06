@@ -9,7 +9,9 @@ reading_time: false
 share: false
 ---
 
-**A community taking shape.** We are developing weekly, in-person open lab meetings where everyone interested in psychology, philosophy, science, and thoughtful conversation is welcome. The community will be centered primarily on UQAR students in Rimouski, while welcoming other interested participants. The day, time, location, and first meeting are still to be confirmed.
+**The SAGE Lab’s open meetings are now open to everyone!** Join us **Fridays, 11:30 a.m.–12:30 p.m., in room U-1170 at UQAR in Rimouski**. Anyone interested in psychology, philosophy, science, and thoughtful conversation is welcome, including people beyond the UQAR student community.
+
+A detailed schedule of topics and activities will be shared soon in a Google Doc. The link will be added here when it is available.
 
 The aim is to connect like-minded people, learn from one another, and help ideas and information circulate. Social connection and peer learning are worthwhile outcomes in themselves. No research experience is required, and you can attend selectively, listen, or contribute without taking on a research role.
 
@@ -63,7 +65,7 @@ Community membership can be a lasting destination in itself. It carries no resea
 | Workstream lead | Explicit responsibility for part of an approved project, based on relevant expertise, readiness, and available capacity. |
 | Graduate supervision applicant | A separate application, supervision decision, and academic admission process. |
 
-These are different responsibilities, not ranks or automatic promotions. Members may propose projects among themselves, but a conversation does not create a SAGE project or commit the lab to supervision. Lab projects need explicit ownership, expertise, capacity, and approval.
+These are different responsibilities, not ranks or automatic promotions. Members may propose projects among themselves, but a conversation does not create a SAGE Lab project or commit the lab to supervision. Lab projects need explicit ownership, expertise, capacity, and approval.
 
 Attendance and organizing do not guarantee research roles, authorship, recommendation letters, employment, or admission. You do not need to attend to apply for an available research opportunity. An existing application retains its own status and requires a separate response. For students in Prof. Thériault’s courses, participation or nonparticipation has no effect on grades.
 
