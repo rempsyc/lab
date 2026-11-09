@@ -11,7 +11,7 @@ share: false
 
 **The SAGE Lab’s open meetings are now open to everyone!** Join us **Fridays, 11:30 a.m.–12:30 p.m., in room U-1170 at UQAR in Rimouski**. Anyone interested in psychology, philosophy, science, and thoughtful conversation is welcome, including people beyond the UQAR student community.
 
-A detailed schedule of topics and activities will be shared soon in a Google Doc. The link will be added here when it is available.
+See the **[official meeting schedule](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** for upcoming topics and activities.
 
 The aim is to connect like-minded people, learn from one another, and help ideas and information circulate. Social connection and peer learning are worthwhile outcomes in themselves. No research experience is required, and you can attend selectively, listen, or contribute without taking on a research role.
 
