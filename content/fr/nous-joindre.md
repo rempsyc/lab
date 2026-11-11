@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Le laboratoire SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu dont les intérêts rejoignent le soi, l’altruisme, les groupes, l’empathie ou, plus largement, l’étude de la sagesse. Les possibilités dépendent des projets en cours, de la capacité d’encadrement et du financement disponible.
+Le labo SAGE accueille les personnes étudiantes, chercheuses et partenaires du milieu qui s’intéressent à nos recherches. Les membres apportent des idées, apprennent ensemble et développent leurs compétences dans les projets. L’encadrement comprend des conseils, de la rétroaction et des attentes convenues ensemble.
 
 Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/), notre [philosophie du laboratoire](../philosophie-labo/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
 
@@ -34,6 +34,8 @@ Pour rejoindre la **liste d’annonces de la Communauté SAGE**, écrivez à [la
 Vous cherchez une expérience de recherche ou préparez les cycles supérieurs ? Explorez les [pistes pour accéder à la recherche]({{< relref "acces-experience-recherche.md" >}}) et nos [conseils pour préparer une candidature]({{< relref "preparer-candidature-doctorat.md" >}}).
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
+
+Selon le projet et votre préparation, les tâches peuvent comprendre la recherche et la synthèse d’articles, la préparation de matériel d’étude, la vérification de données et d’analyses dans R ou la rédaction d’un rapport. Nous convenons d’un rôle réaliste ainsi que de la formation et de la rétroaction nécessaires.
 
 Les personnes étudiantes au premier cycle sont vivement encouragées à chercher un financement indépendant, par exemple sous la forme de bourses, de stages d’été ou d’autres programmes destinés aux personnes étudiantes. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle permettrait de créer et de soutenir un rôle de recherche bien délimité.
 

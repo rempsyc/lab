@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-The SAGE Lab welcomes students, researchers, and community partners whose interests connect with self, altruism, groups, empathy, or the broader study of wisdom. Opportunities depend on current projects, supervision capacity, and available funding.
+The SAGE Lab welcomes students, researchers, and community partners interested in our research. Members bring ideas, learn from one another, and develop their skills through projects. Research supervision includes guidance, feedback, and clear expectations agreed together.
 
 Before applying, please explore our [research themes](../research/), [lab philosophy](../lab-philosophy/), and [approach to supervision capacity](../supervision-capacity/).
 
@@ -34,6 +34,8 @@ To join the **SAGE Community announcement list**, email [labosage@uqar.ca](mailt
 Looking for research experience or preparing for graduate school? Explore [routes to research experience]({{< relref "research-experience-access.md" >}}) and our [graduate application advice]({{< relref "preparing-graduate-applications.md" >}}).
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.
+
+Depending on the project and your preparation, tasks may include finding and summarizing research, preparing study materials, checking data and analyses in R, or helping draft a report. We agree on a manageable role and the training and feedback it requires.
 
 Undergraduate students are strongly encouraged to seek independent funding through scholarships, summer research awards, or other student funding programs. Successful funding would substantially improve the chances of joining my lab by making it possible to create and support a well-scoped research role.
 
