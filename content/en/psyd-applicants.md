@@ -11,6 +11,14 @@ share: false
 
 This guide is for prospective PsyD students seeking doctoral-essay supervision with Prof. Thériault at the SAGE Lab. It concerns non-clinical research, not clinical placements or practice supervision. It does not replace UQAR’s admission requirements or constitute an offer of a place.
 
+## How to apply
+
+1. Check the [official UQAR PsyD requirements](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) and our [research themes](../research/).
+2. Read the expectations below and prepare the information requested in the form.
+3. Complete the **[PsyD Research Supervision Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)**.
+
+Inquiries are assessed individually as supervision capacity and resources permit. The form is the starting point; a separate introductory email is not needed. Submitting it does not guarantee an individual reply, meeting, or supervision agreement. UQAR admission remains a separate process.
+
 ## Interested in research training without the clinical pathway?
 
 UQAR’s [personalized PhD (doctorat sur mesure)](https://www.uqar.ca/programmes-domaines-detudes/doctorat-sur-mesure-ph-d/) may be worth exploring with Prof. Thériault and the University. It addresses exceptional situations where no existing program meets the training needs, subject to supervision resources and institutional approval. It is not a PsyD with placements removed: it includes a training plan, coursework, a doctoral examination and a thesis. It does not replace the clinical training required for psychologist licensure. No place or individual eligibility is promised; a supervisor must be found before applying.
@@ -64,7 +72,7 @@ Prepare a CV, an existing work sample with a description of your own contributio
 5. How would research fit alongside courses, placements and other commitments? How would you handle a delay?
 6. How would you contribute toward publication? What writing, revision and follow-up commitments—including after essay deposit—would be realistic?
 
-Do not send confidential participant or patient information. [Contact Rémi Thériault](mailto:contact@labosage.com) to discuss possibilities. An initial inquiry does not replace the official application.
+Use these questions to prepare your responses to the **[PsyD Research Supervision Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)** and follow its instructions for supporting materials. Do not submit confidential participant or patient information. This inquiry does not replace the official UQAR application.
 
 ## A concrete, proportionate assessment
 

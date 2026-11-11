@@ -12,6 +12,14 @@ share: false
 
 Ce guide concerne la direction de l’essai doctoral par le Prof. Thériault au laboratoire SAGE. Il ne remplace pas les exigences ni la sélection officielle de l’UQAR et ne constitue pas une offre de place. L’encadrement proposé porte sur la recherche non clinique, non sur les stages ou la pratique clinique.
 
+## Comment présenter une demande
+
+1. Vérifiez les [exigences officielles du D.Psy. à l’UQAR](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) et nos [thèmes de recherche](../recherche/).
+2. Lisez les attentes ci-dessous et préparez les renseignements demandés dans le formulaire.
+3. Remplissez le **[formulaire d’intérêt pour la direction de recherche au D.Psy.](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)**.
+
+Les demandes sont examinées individuellement selon la capacité d’encadrement et les ressources disponibles. Le formulaire constitue le point de départ; un courriel de présentation distinct n’est pas nécessaire. Le remplir ne garantit ni réponse individuelle, ni rencontre, ni accord de direction. L’admission à l’UQAR demeure une démarche distincte.
+
 ## Vous souhaitez une formation en recherche sans parcours clinique?
 
 Le [doctorat sur mesure (Ph.D.) de l’UQAR](https://www.uqar.ca/programmes-domaines-detudes/doctorat-sur-mesure-ph-d/) peut être une avenue à examiner avec le Prof. Thériault et l’Université. Il vise des situations exceptionnelles où aucun programme existant ne répond aux besoins de formation, sous réserve des ressources d’encadrement et de l’approbation institutionnelle. Ce n’est pas un D.Psy. dont on retire les stages : il comporte un plan de formation, des cours, un examen doctoral et une thèse. Il ne remplace pas la formation clinique requise pour accéder à la profession de psychologue. Aucune place ni admissibilité individuelle n’est promise; une direction doit être trouvée avant la demande d’admission.
@@ -73,7 +81,7 @@ Pour une première prise de contact, préparez un CV, un exemple de travail déj
 5. Comment intégrer la recherche à vos cours, stages et autres engagements? Que feriez-vous en cas de retard?
 6. Comment contribueriez-vous à mener le projet vers une publication? Quels engagements de rédaction, de révision et de suivi, y compris après le dépôt de l’essai, seraient réalistes?
 
-Écrivez à [Rémi Thériault](mailto:contact@labosage.com) pour discuter des possibilités. Ce premier contact ne remplace pas le dossier officiel d’admission.
+Utilisez ces questions pour préparer vos réponses au **[formulaire d’intérêt pour la direction de recherche au D.Psy.](https://docs.google.com/forms/d/e/1FAIpQLScnRWWB-RFMitet98zXltdPF76QPB9NO6ikLL7mcZzuw1w73A/viewform)** et suivez ses consignes pour les documents complémentaires. Cette demande ne remplace pas le dossier officiel d’admission à l’UQAR.
 
 ## Une évaluation concrète et proportionnée
 

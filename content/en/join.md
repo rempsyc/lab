@@ -13,6 +13,14 @@ The SAGE Lab welcomes students, researchers, and community partners whose intere
 
 Before applying, please explore our [research themes](../research/), [lab philosophy](../lab-philosophy/), and [approach to supervision capacity](../supervision-capacity/).
 
+**How to apply**
+
+1. Open the section that matches your situation.
+2. Read the linked guidance and check whether your interests fit the SAGE Lab.
+3. Complete that section’s interest form.
+
+Research inquiries are considered individually as supervision capacity and resources permit. Submitting a form does not reserve a place or guarantee an individual reply. Community meetings are open; research roles require a separate agreement.
+
 {{< join_section title="SAGE Community" >}}
 
 Looking for conversation, peer learning, and people with shared interests? Join the **[SAGE Community](../community/)**: weekly gatherings, book and paper discussions, workshops, peer feedback, and opportunity announcements. Members are welcome to propose and lead activities. These open lab meetings welcome everyone interested, primarily around UQAR Rimouski. **Meetings are now open: Fridays, 11:30 a.m.–12:30 p.m., in room U-1170 at UQAR in Rimouski.** See the **[official meeting schedule](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** for upcoming topics and activities. You can request mailing-list membership by email through the community page. Community participation carries no research responsibilities and is separate from applying for a research role.

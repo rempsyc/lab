@@ -13,6 +13,14 @@ Le laboratoire SAGE accueille les personnes étudiantes, chercheuses et partenai
 
 Avant de soumettre une demande, consultez nos [thèmes de recherche](../recherche/), notre [philosophie du laboratoire](../philosophie-labo/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
 
+**Comment présenter une demande**
+
+1. Ouvrez la section correspondant à votre situation.
+2. Lisez les conseils proposés et vérifiez si vos intérêts correspondent aux recherches du labo SAGE.
+3. Remplissez le formulaire d’intérêt de cette section.
+
+Les demandes de participation à la recherche sont examinées individuellement selon la capacité d’encadrement et les ressources disponibles. Un formulaire ne réserve pas de place et ne garantit pas de réponse individuelle. Les rencontres de la communauté sont ouvertes; un rôle en recherche nécessite une entente distincte.
+
 {{< join_section title="Communauté SAGE" >}}
 
 Vous cherchez un lieu d’échange, d’apprentissage entre pairs et de rencontre avec des personnes aux intérêts communs? Rejoignez la **[Communauté SAGE](../communaute/)** : rencontres hebdomadaires, discussions de livres et d’articles, ateliers, rétroaction entre pairs et annonces de possibilités. Les membres sont invités à proposer et à animer des activités. Ces rencontres ouvertes du laboratoire accueillent toute personne intéressée, principalement autour de l’UQAR à Rimouski. **Les rencontres sont maintenant ouvertes : les vendredis, de 11 h 30 à 12 h 30, au local U-1170 de l’UQAR à Rimouski.** Consultez le **[calendrier officiel des rencontres](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** pour connaître les sujets et les activités à venir. Vous pouvez demander votre inscription à la liste d’annonces par courriel depuis la page de la communauté. La participation à la communauté n’entraîne aucune responsabilité en recherche et demeure distincte d’une candidature à un rôle en recherche.
