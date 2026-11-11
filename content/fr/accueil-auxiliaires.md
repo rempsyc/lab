@@ -1,5 +1,5 @@
 ---
-title: Accueil des auxiliaires de recherche
+title: Accueil des membres du labo
 summary: Un parcours de lecture et des conseils pratiques pour bien commencer au laboratoire SAGE.
 translationKey: ra-onboarding
 type: page
@@ -12,6 +12,8 @@ share: false
 Bienvenue au laboratoire SAGE ! Notre manuel de laboratoire se compose de pages ciblées sur le site. Lisez les essentiels ci-dessous, puis revenez à la page pertinente au moment où vous en avez besoin. Vous n’avez pas à mémoriser tout le site.
 
 Ce guide s’adresse aux personnes qui commencent un rôle de recherche convenu. Si vous explorez les possibilités, commencez par [Joindre l’équipe]({{< relref "nous-joindre.md" >}}).
+
+Les lectures communes concernent les auxiliaires, les personnes aux cycles supérieurs, les postdoctorants et les autres membres en recherche. Convenez avec votre direction des lectures complémentaires utiles à votre rôle.
 
 ## Vos premières lectures
 
@@ -33,21 +35,33 @@ Apprentissage entre pairs et entraide. Participer à la communauté et occuper u
 Choisissez un premier objectif d’apprentissage réaliste pour votre rôle. Vous n’avez pas à tout maîtriser avant de commencer.
 {{< /reading_step >}}
 
-{{< reading_step id="research" label="5. Explorer nos questions de recherche" page="recherche.md" title="Recherche" >}}
+{{< reading_step id="ai-policy" label="5. Lire notre politique d’IA" page="politique-ia.md" title="Politique d’IA et ressources" >}}
+Utilisez l’IA pour approfondir votre compréhension et rehausser les exigences scientifiques. Prenez connaissance des attentes de vérification, de confidentialité et de documentation avant de l’utiliser pour les travaux du labo. Les membres actuels doivent également lire cette politique.
+{{< /reading_step >}}
+
+{{< reading_step id="research" label="6. Explorer nos questions de recherche" page="recherche.md" title="Recherche" >}}
 Repérez les thèmes qui vous intéressent et les liens avec votre contribution.
 {{< /reading_step >}}
 
-{{< reading_step id="projects" label="6. Découvrir les travaux déjà amorcés" page="projets/_index.md" title="Projets" >}}
+{{< reading_step id="projects" label="7. Découvrir les travaux déjà amorcés" page="projets/_index.md" title="Projets" >}}
 Explorez les études, les outils et les manuscrits existants avant de proposer quelque chose de nouveau. Confirmez l’état actuel et l’encadrement d’un projet avant de le rejoindre.
 {{< /reading_step >}}
 
-{{< reading_step id="planning" label="7. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
+{{< reading_step id="planning" label="8. Comprendre comment choisir un projet" page="choisir-projet-etudiant.md" title="Choisir un projet étudiant" >}}
 Utilisez l’arbre de décision pour relier vos objectifs aux données, au financement et à l’encadrement disponibles. Préparez la discussion avant de démarrer de nouveaux travaux.
 {{< /reading_step >}}
 
-{{< reading_step id="ideas" label="8. Explorer le jardin d’idées (facultatif)" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
+{{< reading_step id="ideas" label="9. Explorer le jardin d’idées (facultatif)" url="https://rempsyc.github.io/research-ideas/" title="Jardin d’idées (Idea Garden)" >}}
 Une archive d’idées à reprendre ou à combiner. Si vous avez une idée semblable, nous pouvons regarder ce qui existe déjà dans la banque et nous en inspirer. Une entrée ne signifie pas qu’un projet est actif, financé ou prêt à démarrer. Vous pouvez commencer votre rôle convenu sans lire l’archive.
 {{< /reading_step >}}
+
+## Lectures propres à votre rôle
+
+- **D.Psy. :** relisez les [attentes d’encadrement]({{< relref "candidatures-dpsy.md" >}}) et précisez leur application à votre projet convenu.
+- **Postdoctorat :** relisez le [guide postdoctoral]({{< relref "candidatures-postdoc.md" >}}) et confirmez les responsabilités de recherche et de mentorat.
+- **Préparation de demandes de financement doctoral ou postdoctoral :** consultez le [guide de financement]({{< relref "financement-candidatures.md" >}}).
+
+Consultez le [Guide du labo]({{< relref "guide-labo.md" >}}) pour retrouver les autres ressources à mesure que vos responsabilités évoluent.
 
 ## Conseils pour s’épanouir au laboratoire SAGE
 
@@ -61,11 +75,11 @@ Visez les meilleures notes possibles dans chaque cours, idéalement A+, tout en 
 
 Repérez toutes les possibilités de financement auxquelles vous êtes admissible et cherchez à déposer une demande à chaque concours pertinent. Vérifiez tôt l’admissibilité, la pertinence, les documents et les échéances afin de concilier les demandes avec vos cours et votre bien-être. Commencez par le [répertoire des bourses de l’UQAR](https://etudes.uqar.ca/bourses) et informez-vous sur les ressources du laboratoire en financement étudiant.
 
-Le financement peut vous soutenir financièrement, rendre la recherche possible et enrichir votre CV. Les bourses figurent aussi parmi les réalisations considérées dans certaines évaluations d’admission et de financement, notamment les [critères des bourses doctorales du FRQ](https://frq.gouv.qc.ca/programme/bourses-de-doctorat-en-recherche-2027-2028-b2-volet-regulier-et-volet-reintegration-a-la-recherche/). Les critères varient selon les programmes. Nous souhaitons bâtir un solide bilan de financement à SAGE en partageant nos apprentissages. Les demandes de financement font partie des forces de Rémi et des compétences que nous pouvons développer ensemble. Apportez un brouillon préparé et des questions précises pour demander de la rétroaction.
+Le financement peut vous soutenir financièrement, rendre la recherche possible et enrichir votre CV. Les bourses figurent aussi parmi les réalisations considérées dans certaines évaluations d’admission et de financement, notamment les [critères des bourses doctorales du FRQ](https://frq.gouv.qc.ca/programme/bourses-de-doctorat-en-recherche-2027-2028-b2-volet-regulier-et-volet-reintegration-a-la-recherche/). Les critères varient selon les programmes. Nous souhaitons bâtir un solide bilan de financement à SAGE en partageant nos apprentissages. Les demandes de financement font partie des forces du Prof. Thériault et des compétences que nous pouvons développer ensemble. Apportez un brouillon préparé et des questions précises pour demander de la rétroaction.
 
 ### Développer votre autonomie et demander de l’aide judicieusement
 
-Cherchez des façons d’apprendre et de faire avancer les projets en sollicitant peu le temps du directeur. Consultez la documentation, essayez une première étape délimitée et demandez une rétroaction appropriée à vos pairs. Pour demander l’aide de Rémi, résumez vos essais, ce qui demeure incertain et la décision attendue. Des contributions plus autonomes peuvent rendre possible l’accueil de davantage de personnes.
+Cherchez des façons d’apprendre et de faire avancer les projets en sollicitant peu le temps du directeur. Consultez la documentation, essayez une première étape délimitée et demandez une rétroaction appropriée à vos pairs. Pour demander l’aide du Prof. Thériault, résumez vos essais, ce qui demeure incertain et la décision attendue. Des contributions plus autonomes peuvent rendre possible l’accueil de davantage de personnes.
 
 Demandez de l’aide tôt si vous êtes réellement bloqué ou si une décision touche l’éthique, l’accès aux données ou la validité scientifique. L’autonomie comprend la capacité à reconnaître quand l’encadrement est nécessaire. Le directeur demeure responsable de l’accompagnement et de la révision convenus pour votre rôle.
 

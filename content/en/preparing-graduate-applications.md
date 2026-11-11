@@ -53,7 +53,7 @@ A book review is not an empirical study; its value in selection depends on the p
 5. **Prepare evidence and references:** keep records of your contributions and request letters early with the program’s instructions.
 6. **Write a targeted inquiry:** demonstrate fit with a supervisor and project through examples rather than promises of perfect autonomy.
 
-Considering supervision with Rémi? Read [what to know before applying with me for the PsyD]({{< relref "psyd-applicants.md" >}}). If you are already starting an agreed role, our [research-assistant onboarding guide]({{< relref "ra-onboarding.md" >}}) explains how we work. The [SAGE Community]({{< relref "community.md" >}}) can support conversation and peer feedback without guaranteeing a placement or admission.
+Considering supervision with Prof. Thériault? Read [what to know before applying with me for the PsyD]({{< relref "psyd-applicants.md" >}}). If you are already starting an agreed role, our [research-assistant onboarding guide]({{< relref "ra-onboarding.md" >}}) explains how we work. The [SAGE Community]({{< relref "community.md" >}}) can support conversation and peer feedback without guaranteeing a placement or admission.
 
 Access to experience and awards is unequal. Applications develop over time, and their outcome does not define your worth. Look for a setting where your goals, resources and available supervision fit.
 

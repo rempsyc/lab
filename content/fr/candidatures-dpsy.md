@@ -1,6 +1,6 @@
 ---
 title: Avant de candidater au D.Psy. avec moi
-summary: Attentes, critères de sélection et capacité d’encadrement de Rémi Thériault au laboratoire SAGE.
+summary: Attentes, critères de sélection et capacité d’encadrement du Prof. Thériault au laboratoire SAGE.
 translationKey: psyd-applicants
 type: page
 layout: compact

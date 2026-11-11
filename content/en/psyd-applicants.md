@@ -1,6 +1,6 @@
 ---
 title: What to know before applying with me for the PsyD
-summary: Expectations, selection criteria and supervision capacity with Rémi Thériault at the SAGE Lab.
+summary: Expectations, selection criteria and supervision capacity with Prof. Thériault at the SAGE Lab.
 translationKey: psyd-applicants
 type: page
 layout: compact

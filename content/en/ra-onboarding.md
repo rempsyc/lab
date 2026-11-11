@@ -1,5 +1,5 @@
 ---
-title: Research Assistant Onboarding
+title: Lab Member Onboarding
 summary: A reading checklist and practical advice for starting well at the SAGE Lab.
 translationKey: ra-onboarding
 type: page
@@ -12,6 +12,8 @@ share: false
 Welcome to the SAGE Lab! Our lab manual lives in focused website pages. Read the essentials below, then return to the relevant page when you need it. You do not have to memorize the whole site.
 
 This guide is for people starting an agreed research role. If you are exploring opportunities, begin with [Join the Lab]({{< relref "join.md" >}}).
+
+The core readings apply to research assistants, graduate students, postdocs, and other research members. Agree with your supervisor on any additional readings for your role.
 
 ## Your first readings
 
@@ -33,21 +35,33 @@ Peer learning and mutual help. Community participation and research roles have d
 Choose a realistic first learning goal for your role. You are not expected to master every skill before starting.
 {{< /reading_step >}}
 
-{{< reading_step id="research" label="5. Explore our research questions" page="research.md" title="Research" >}}
+{{< reading_step id="ai-policy" label="5. Read our AI policy" page="ai-policy.md" title="AI Policy and Resources" >}}
+Use AI to deepen your understanding and raise scientific standards. Learn the expectations for verification, confidentiality, and documenting AI use before using it for lab work. Current members should read this policy too.
+{{< /reading_step >}}
+
+{{< reading_step id="research" label="6. Explore our research questions" page="research.md" title="Research" >}}
 Identify themes that interest you and how your contribution might fit.
 {{< /reading_step >}}
 
-{{< reading_step id="projects" label="6. Look at work already underway" page="projects/_index.md" title="Projects" >}}
+{{< reading_step id="projects" label="7. Look at work already underway" page="projects/_index.md" title="Projects" >}}
 Explore existing studies, tools and manuscripts before proposing something new. Confirm a project’s current status and supervision before joining it.
 {{< /reading_step >}}
 
-{{< reading_step id="planning" label="7. Understand how to choose a project" page="choosing-student-project.md" title="Choosing a Student Project" >}}
+{{< reading_step id="planning" label="8. Understand how to choose a project" page="choosing-student-project.md" title="Choosing a Student Project" >}}
 Use the decision tree to connect your goals with available data, funding and supervision. Prepare the project discussion before starting new work.
 {{< /reading_step >}}
 
-{{< reading_step id="ideas" label="8. Explore the Idea Garden (optional)" url="https://rempsyc.github.io/research-ideas/" title="Idea Garden" >}}
+{{< reading_step id="ideas" label="9. Explore the Idea Garden (optional)" url="https://rempsyc.github.io/research-ideas/" title="Idea Garden" >}}
 An archive of ideas to revisit or combine. If you have a similar idea, we can check what is already in the bank and build on it. An entry does not mean a project is active, funded or ready to launch. You can start your agreed role without reading the archive.
 {{< /reading_step >}}
+
+## Readings for your role
+
+- **PsyD students:** revisit the [supervision expectations]({{< relref "psyd-applicants.md" >}}) and confirm how they apply to your agreed project.
+- **Postdocs:** revisit the [postdoctoral guide]({{< relref "postdoc-applicants.md" >}}) and confirm your mentoring and research responsibilities.
+- **Members preparing doctoral or postdoctoral funding applications:** consult the [funding guide]({{< relref "applicant-funding.md" >}}).
+
+Use the [Lab Manual]({{< relref "lab-manual.md" >}}) to find other guidance as your responsibilities develop.
 
 ## Advice for flourishing at the SAGE Lab
 
@@ -61,11 +75,11 @@ Aim for the best grades you can in every course, ideally A+, while protecting yo
 
 Look for every funding opportunity you are eligible for and aim to apply to each relevant one. Check eligibility, fit, documents and deadlines early so applications fit alongside your courses and well-being. Start with the [UQAR scholarship directory](https://etudes.uqar.ca/bourses) and ask about the lab’s student-funding resources.
 
-Funding can support you financially, make research feasible and strengthen your CV. Awards also count among the achievements considered in some admissions and funding evaluations, including the [FRQ doctoral scholarship criteria](https://frq.gouv.qc.ca/programme/bourses-de-doctorat-en-recherche-2027-2028-b2-volet-regulier-et-volet-reintegration-a-la-recherche/). Criteria vary by program. We want the SAGE Lab to build a strong funding record by sharing what we learn. Funding applications are one of Rémi’s strengths and a skill we can develop together. Bring a prepared draft and specific questions when asking for feedback.
+Funding can support you financially, make research feasible and strengthen your CV. Awards also count among the achievements considered in some admissions and funding evaluations, including the [FRQ doctoral scholarship criteria](https://frq.gouv.qc.ca/programme/bourses-de-doctorat-en-recherche-2027-2028-b2-volet-regulier-et-volet-reintegration-a-la-recherche/). Criteria vary by program. We want the SAGE Lab to build a strong funding record by sharing what we learn. Funding applications are one of Prof. Thériault’s strengths and a skill we can develop together. Bring a prepared draft and specific questions when asking for feedback.
 
 ### Develop autonomy and ask for help thoughtfully
 
-Look for ways to learn and move projects forward with limited demands on Rémi’s time. Consult documentation, try a bounded first step and seek suitable peer feedback. When asking Rémi for help, summarize what you tried, what remains unclear and which decision you need. More autonomous contributions can make it feasible to support more people.
+Look for ways to learn and move projects forward with limited demands on Prof. Thériault’s time. Consult documentation, try a bounded first step and seek suitable peer feedback. When asking Prof. Thériault for help, summarize what you tried, what remains unclear and which decision you need. More autonomous contributions can make it feasible to support more people.
 
 Ask early when you are genuinely blocked or a decision affects ethics, data access or scientific validity. Autonomy includes recognizing when supervision is necessary. The research supervisor remains responsible for the guidance and review agreed for your role.
 

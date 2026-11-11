@@ -49,6 +49,10 @@ La [théorie de l’autodétermination](https://selfdeterminationtheory.org/topi
 
 Soutenir ces besoins est une responsabilité partagée, notamment dans la façon dont la direction organise l’encadrement. Une structure claire et des standards scientifiques exigeants peuvent coexister avec des choix significatifs, un soutien à l’apprentissage et des relations chaleureuses.
 
+## IA et jugement scientifique
+
+Nous utilisons l’IA pour rehausser les exigences scientifiques, en réinvestissant le temps gagné dans la vérification, l’apprentissage et l’amélioration du travail. Notre [politique d’IA et nos ressources](../politique-ia/) précisent comment appliquer ce principe tout en protégeant la confidentialité et en assumant la responsabilité des résultats.
+
 ## Aiguiser la scie
 
 Mener une recherche de haute qualité exige plus que de l'enthousiasme : cela demande la maîtrise d'outils et de méthodes fondamentales. Comme le soulignait Stephen Covey dans *Les 7 habitudes de ceux qui réalisent tout ce qu'ils entreprennent* (Covey, 1989), nous devons prendre le temps d'« aiguiser la scie » en développant des compétences clés qui rendent notre travail principal plus efficace et plus fiable.

@@ -53,7 +53,7 @@ Un compte rendu de livre n’est pas une étude empirique; sa valeur dans la sé
 5. **Préparer les exemples et références :** conserver une trace de vos contributions et demander les lettres suffisamment tôt, avec les consignes du programme.
 6. **Rédiger une demande ciblée :** montrer la compatibilité avec une direction et un projet; fournir des exemples plutôt que de promettre une autonomie parfaite.
 
-Vous envisagez une direction d’essai avec Rémi ? Consultez [Avant de candidater au D.Psy. avec moi]({{< relref "candidatures-dpsy.md" >}}). Pour les personnes qui commencent déjà un rôle convenu, le [guide d’accueil des auxiliaires]({{< relref "accueil-auxiliaires.md" >}}) précise notre fonctionnement. La [Communauté SAGE]({{< relref "communaute.md" >}}) peut offrir un espace d’échange et de rétroaction entre pairs, sans garantie de place ni d’admission.
+Vous envisagez une direction d’essai avec le Prof. Thériault ? Consultez [Avant de candidater au D.Psy. avec moi]({{< relref "candidatures-dpsy.md" >}}). Pour les personnes qui commencent déjà un rôle convenu, le [guide d’accueil des auxiliaires]({{< relref "accueil-auxiliaires.md" >}}) précise notre fonctionnement. La [Communauté SAGE]({{< relref "communaute.md" >}}) peut offrir un espace d’échange et de rétroaction entre pairs, sans garantie de place ni d’admission.
 
 L’accès aux expériences et aux distinctions est inégal. Un dossier se développe dans le temps; votre valeur ne se résume pas à son résultat. Recherchez un environnement où vos objectifs, vos ressources et l’encadrement disponible sont compatibles.
 

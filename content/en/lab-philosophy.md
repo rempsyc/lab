@@ -49,6 +49,10 @@ These commitments apply to the PI as well as to students: clear expectations, ap
 
 Supporting these needs is a shared responsibility, including how the PI organizes supervision. Clear structure and demanding scientific standards can coexist with meaningful choice, learning support and warm relationships.
 
+## AI and scientific judgment
+
+We use AI to raise scientific standards, reinvesting time saved in verification, learning, and refinement. Our [AI policy and resources](../ai-policy/) explain how we apply this principle while protecting confidentiality and taking responsibility for the results.
+
 ## Sharpen the saw
 
 Doing high-quality science requires more than enthusiasm; it requires a mastery of fundamental tools and methods. As Stephen Covey emphasized in *The 7 Habits of Highly Effective People* (Covey, 1989), we must take time to "sharpen the saw"—developing core capabilities that make our primary work more effective and reliable.

@@ -46,7 +46,7 @@ Participants can suggest articles or topics and vote on what to read or discuss 
 
 Coordinators can also help the community grow organically during the semester by preparing campus posters and sharing announcements through appropriate student and campus channels. Publicity should point to confirmed meeting details and make clear that everyone is welcome; organizing and promotion are voluntary contributions.
 
-Prof. Rémi Thériault plans to participate and may offer occasional talks or advice. Participants will organize the gatherings so they can continue when he is absent. The group is a place for exchange, rather than a standing individual supervision appointment.
+Prof. Thériault plans to participate and may offer occasional talks or advice. Participants will organize the gatherings so they can continue when he is absent. The group is a place for exchange, rather than a standing individual supervision appointment.
 
 ## Stay connected
 

@@ -46,7 +46,7 @@ Les membres peuvent proposer des articles ou des sujets et voter pour la lecture
 
 Les personnes responsables de la coordination peuvent aussi faire connaître les rencontres sur le campus pendant le semestre, au moyen d’affiches et d’annonces dans les réseaux étudiants et universitaires appropriés, afin que la communauté grandisse naturellement. Les annonces devraient présenter des renseignements confirmés et préciser que tout le monde est bienvenu; l’organisation et la promotion restent volontaires.
 
-Le professeur Rémi Thériault prévoit participer et pourrait proposer des conférences ou des conseils ponctuels. Les membres organiseront les rencontres pour qu’elles puissent se poursuivre en son absence. Le groupe est un lieu d’échange plutôt qu’un rendez-vous régulier d’encadrement individuel.
+Le Prof. Thériault prévoit participer et pourrait proposer des conférences ou des conseils ponctuels. Les membres organiseront les rencontres pour qu’elles puissent se poursuivre en son absence. Le groupe est un lieu d’échange plutôt qu’un rendez-vous régulier d’encadrement individuel.
 
 ## Garder le contact
 
@@ -67,7 +67,7 @@ Il est tout à fait possible de rester membre de la communauté sans prendre de 
 
 Il s’agit de responsabilités différentes, et non de rangs ou de promotions automatiques. Les membres peuvent proposer des projets entre eux, mais une discussion ne crée pas un projet SAGE et n’engage pas le laboratoire à l’encadrer. Les projets du laboratoire nécessitent des responsabilités explicites, l’expertise et la capacité nécessaires, ainsi qu’une approbation.
 
-La présence et l’organisation ne garantissent ni rôle en recherche, ni qualité d’auteur, ni lettre de recommandation, ni emploi, ni admission. Il n’est pas nécessaire de participer pour postuler à une possibilité de recherche. Une candidature en cours conserve son propre statut et doit recevoir une réponse distincte. Pour les personnes inscrites aux cours du professeur Thériault, la participation ou la non-participation n’a aucun effet sur les notes.
+La présence et l’organisation ne garantissent ni rôle en recherche, ni qualité d’auteur, ni lettre de recommandation, ni emploi, ni admission. Il n’est pas nécessaire de participer pour postuler à une possibilité de recherche. Une candidature en cours conserve son propre statut et doit recevoir une réponse distincte. Pour les personnes inscrites aux cours du Prof. Thériault, la participation ou la non-participation n’a aucun effet sur les notes.
 
 Consultez les [possibilités de recherche](../nous-joindre/) et notre [approche de la capacité d’encadrement](../capacite-encadrement/).
 
