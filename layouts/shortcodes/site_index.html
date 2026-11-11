@@ -1,0 +1,88 @@
+{{- $fr := eq site.Language.Lang "fr" -}}
+{{- $groups := slice
+  (dict "key" "research" "children" (slice "projects" "publications"))
+  (dict "key" "people" "children" slice)
+  (dict "key" "join" "children" slice)
+  (dict "key" "lab-manual" "children" slice)
+  (dict "key" "contact" "children" slice)
+-}}
+{{- $seen := slice "home" "site-index" -}}
+<nav aria-label="{{ if $fr }}Plan du site{{ else }}Site index{{ end }}">
+  <ul>
+    <li><a href="{{ site.Home.RelPermalink }}">{{ if $fr }}Accueil{{ else }}Home{{ end }}</a></li>
+    {{ range $groups }}
+      {{ $group := . }}
+      {{ $seen = $seen | append $group.key }}
+      {{ range where site.Pages "TranslationKey" $group.key }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ if eq $group.key "lab-manual" }}
+            {{ partial "lab_manual_tree.html" . }}
+            {{ $seen = $seen | collections.Append (slice "lab-philosophy" "supervision-capacity" "community" "research-access" "research-skills" "graduate-preparation" "psyd-applicants" "postdoc-applicants" "applicant-funding" "ra-onboarding" "choosing-student-project") }}
+          {{ end }}
+          {{ if or $group.children (in (slice "research" "join") $group.key) }}
+            <ul>
+              {{ range $group.children }}
+                {{ $seen = $seen | append . }}
+                {{ range where site.Pages "TranslationKey" . }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+              {{ end }}
+              {{ if eq $group.key "research" }}
+                <li><a href="https://rempsyc.github.io/research-ideas/">{{ if $fr }}Jardin d’idées{{ else }}Idea Garden{{ end }}</a></li>
+              {{ end }}
+              {{ if eq $group.key "join" }}
+                {{ $join := . }}
+                {{/* Read audience labels and linked pages from the Join page itself. */}}
+                {{ range findRE `(?s)\{\{< join_section title="[^"]+" >\}\}.*?\{\{< /join_section >\}\}` .RawContent }}
+                  {{ $section := . }}
+                  {{ $title := replaceRE `(?s)^\{\{< join_section title="([^"]+)" >\}\}.*$` "$1" $section }}
+                  <li>
+                    <a href="{{ $join.RelPermalink }}#{{ $title | urlize }}">{{ $title }}</a>
+                    {{ $linked := slice }}
+                    {{ range site.RegularPages }}
+                      {{ $page := . }}
+                      {{ if and .File (ne .TranslationKey "join") }}
+                        {{ $relative := printf "../%s/" .File.ContentBaseName }}
+                        {{ if or (strings.Contains $section $relative) (strings.Contains $section (printf `"%s"` .File.LogicalName)) }}
+                          {{ $linked = $linked | append $page }}
+                          {{ $seen = $seen | append .TranslationKey }}
+                        {{ end }}
+                      {{ end }}
+                    {{ end }}
+                    {{ $forms := findRE `\[([^\]]+)\]\((https://docs\.google\.com/forms/[^\s)]+)\)` $section }}
+                    {{ if or $linked $forms }}
+                      <ul>
+                        {{ range $linked }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                        {{ range $forms }}
+                          {{ $label := replaceRE `^\[([^\]]+)\]\(.*$` "$1" . }}
+                          {{ $url := replaceRE `^\[[^\]]+\]\(([^)]+)\)$` "$1" . }}
+                          <li><a href="{{ $url }}">{{ $label }}</a> <small>({{ if $fr }}Formulaire Google{{ else }}Google Form{{ end }})</small></li>
+                        {{ end }}
+                      </ul>
+                    {{ end }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  {{/* Automatically include future standalone pages that are not grouped yet. */}}
+  {{ $other := slice }}
+  {{ range site.RegularPages }}
+    {{ if and (eq .Section "") (not (in $seen .TranslationKey)) }}
+      {{ $other = $other | append . }}
+    {{ end }}
+  {{ end }}
+  {{ with $other }}
+    <h2>{{ if $fr }}Autres ressources{{ else }}Other resources{{ end }}</h2>
+    <ul>
+      {{ range sort . "Title" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</nav>

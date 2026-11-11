@@ -6,5 +6,8 @@
     {{- else -}}
       Hosted on <a class="underline" href="https://github.com/rempsyc/lab">GitHub</a>, built by <a class="underline" href="https://remi-theriault.com/">Rémi Thériault</a>, and published with <a class="underline" href="https://hugoblox.com/templates/academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_brand">Hugo Blox Kit</a> — <a class="underline" href="https://github.com/rempsyc/lab/generate" target="_blank" rel="noopener">clone this template</a>.
     {{- end -}}
+    {{- range where site.RegularPages "TranslationKey" "site-index" }}
+      · <a class="underline" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- end }}
   </p>
 </footer>

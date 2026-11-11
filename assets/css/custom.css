@@ -1,4 +1,5 @@
 .join-section {
+  scroll-margin-top: calc(var(--navbar-height, 5rem) + 1rem);
   margin: 1rem 0;
   border-bottom: 1px solid #d4d4d4;
   padding-bottom: 1rem;

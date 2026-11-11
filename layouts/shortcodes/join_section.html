@@ -1,6 +1,29 @@
-<details class="join-section">
+<details class="join-section" id="{{ .Get "title" | urlize }}">
   <summary>{{ .Get "title" }}</summary>
   <div class="join-section-content">
     {{ .Inner | .Page.RenderString (dict "display" "block") }}
   </div>
 </details>
+{{ if not (.Page.Store.Get "join-section-navigation") }}
+  {{ .Page.Store.Set "join-section-navigation" true }}
+  <script>
+    (() => {
+      const openSection = () => {
+        let id;
+        try { id = decodeURIComponent(window.location.hash.slice(1)); }
+        catch { return; }
+        const section = document.getElementById(id);
+        if (section && section.matches('details.join-section')) {
+          section.open = true;
+          section.scrollIntoView({ block: 'start' });
+        }
+      };
+      window.addEventListener('hashchange', openSection);
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', openSection);
+      } else {
+        openSection();
+      }
+    })();
+  </script>
+{{ end }}
