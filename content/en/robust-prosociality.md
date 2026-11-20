@@ -64,3 +64,6 @@ This is a candidate test, not an established finding. Whether the account adds e
 The framework remains a proposal. We have not established a validated scale, a universal moral trait, or the novelty of the term or model.
 
 [Read the altruism primer](/concepts/altruism/) · [Browse important concepts](/concepts/)
+
+
+The [field overview](/concepts/prosocial-behavior/), [measurement guide](/concepts/measuring-prosocial-behavior/), and [intention–action primer](/concepts/intention-to-action/) provide foundations for evaluating this proposed framework.

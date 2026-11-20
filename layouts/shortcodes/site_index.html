@@ -18,7 +18,7 @@
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ if eq $group.key "lab-manual" }}
             {{ partial "lab_manual_tree.html" . }}
-            {{ $seen = $seen | collections.Append (slice "lab-philosophy" "supervision-capacity" "community" "research-access" "research-skills" "graduate-preparation" "psyd-applicants" "postdoc-applicants" "applicant-funding" "ra-onboarding" "choosing-student-project" "ai-policy" "concept-primers" "concept-altruism" "concept-robust-prosociality") }}
+            {{ $seen = $seen | collections.Append (slice "lab-philosophy" "supervision-capacity" "community" "research-access" "research-skills" "graduate-preparation" "psyd-applicants" "postdoc-applicants" "applicant-funding" "ra-onboarding" "choosing-student-project" "ai-policy" "concept-primers" "concept-prosocial-behavior" "concept-measurement" "concept-persons-situations" "concept-empathy-compassion" "concept-altruism" "concept-intention-action" "concept-robust-prosociality") }}
           {{ end }}
           {{ if or $group.children (in (slice "research" "join") $group.key) }}
             <ul>

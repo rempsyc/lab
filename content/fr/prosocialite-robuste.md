@@ -64,3 +64,6 @@ La *prosocialité robuste* adopte une perspective large sur les comportements b�
 Le cadre demeure une proposition. Nous n’avons établi ni échelle validée, ni trait moral universel, ni nouveauté du terme ou du modèle.
 
 [Lire la fiche sur l’altruisme](/fr/concepts/altruisme/) · [Consulter les concepts importants](/fr/concepts/)
+
+
+L’[aperçu du domaine](/fr/concepts/comportement-prosocial/), le [guide des mesures](/fr/concepts/mesurer-comportement-prosocial/) et la fiche sur le [passage à l’action](/fr/concepts/intention-et-action/) offrent des bases pour évaluer ce cadre proposé.
