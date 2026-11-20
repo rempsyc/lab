@@ -26,4 +26,4 @@ Ce projet examine si un entraînement vidéo de l’attention peut améliorer le
 
 Les analyses doivent être reprises avant la préparation d’un manuscrit. Ce projet pourrait convenir à une personne qui s’intéresse à l’attention, à l’estime de soi, au comportement social ou à la réanalyse reproductible.
 
-[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’intérêt pour une collaboration avec le laboratoire SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)
+[Vous souhaitez contribuer à relancer ce projet? Remplissez le formulaire d’intérêt pour une collaboration avec le labo SAGE.](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)

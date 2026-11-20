@@ -1,6 +1,6 @@
 ---
 title: Équipe
-summary: Découvrez les personnes chercheuses et auxiliaires de recherche du laboratoire SAGE à l’Université du Québec à Rimouski.
+summary: Découvrez les personnes chercheuses et auxiliaires de recherche du labo SAGE à l’Université du Québec à Rimouski.
 seo:
   title: "Équipe de recherche | Labo SAGE à l’UQAR"
 translationKey: people

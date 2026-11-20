@@ -1,6 +1,6 @@
 ---
 title: Philosophie du laboratoire
-summary: Notre approche pour une science robuste, le développement ciblé des compétences, les habitudes efficaces et la productivité académique à long terme au laboratoire SAGE.
+summary: Notre approche pour une science robuste, le développement ciblé des compétences, les habitudes efficaces et la productivité académique à long terme au labo SAGE.
 translationKey: lab-philosophy
 type: page
 layout: compact
@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Au laboratoire SAGE, nous cherchons à mener une recherche soigneuse et utile sans perdre de vue les personnes qui la réalisent. Cette page présente notre façon de concilier la rigueur et la durabilité personnelle : prendre le temps de produire un travail fiable, investir dans les compétences nécessaires, développer des habitudes efficaces, protéger des périodes de travail en profondeur et adopter une pratique d'écriture durable.
+Au labo SAGE, nous cherchons à mener une recherche soigneuse et utile sans perdre de vue les personnes qui la réalisent. Cette page présente notre façon de concilier la rigueur et la durabilité personnelle : prendre le temps de produire un travail fiable, investir dans les compétences nécessaires, développer des habitudes efficaces, protéger des périodes de travail en profondeur et adopter une pratique d'écriture durable.
 
 ## Mesurer deux fois, couper une seule fois
 
@@ -23,7 +23,7 @@ La règle de Pareto est souvent interprétée comme signifiant que les premiers 
 
 Cependant, le coût de la précipitation n'est pas anodin. La crise de la réplicabilité en psychologie et dans les sciences sociales montre que les erreurs peuvent faire plus que produire un résultat trompeur dans un article : elles peuvent orienter les travaux suivants dans une voie sans issue et gaspiller des années d'attention et de ressources.
 
-Prendre le temps de vérifier la qualité de nos travaux peut ralentir la publication, mais augmente notre confiance dans ce que nous publions. Au laboratoire SAGE, nous visons des méthodes, des statistiques et des interprétations robustes : un travail soigneusement conçu, analysé avec transparence et proportionné aux données probantes. Mesurer deux fois, couper une seule fois : le temps consacré à vérifier notre travail en fait partie intégrante.
+Prendre le temps de vérifier la qualité de nos travaux peut ralentir la publication, mais augmente notre confiance dans ce que nous publions. Au labo SAGE, nous visons des méthodes, des statistiques et des interprétations robustes : un travail soigneusement conçu, analysé avec transparence et proportionné aux données probantes. Mesurer deux fois, couper une seule fois : le temps consacré à vérifier notre travail en fait partie intégrante.
 
 ## Autocompassion et excellence
 
@@ -62,7 +62,7 @@ Mener une recherche de haute qualité exige plus que de l'enthousiasme : cela de
 
 Investir tôt dans des compétences fondamentales demande un effort, mais porte ses fruits tout au long d'une carrière de recherche. Ces compétences rendent les tâches difficiles plus faciles à gérer et laissent davantage de place à la réflexion.
 
-Nous encourageons l'ensemble des membres du laboratoire et des personnes collaboratrices à développer activement ces compétences. Consultez notre guide sur les [compétences en recherche au laboratoire SAGE](../competences-recherche/) pour découvrir les domaines techniques et méthodologiques que nous privilégions.
+Nous encourageons l'ensemble des membres du laboratoire et des personnes collaboratrices à développer activement ces compétences. Consultez notre guide sur les [compétences en recherche au labo SAGE](../competences-recherche/) pour découvrir les domaines techniques et méthodologiques que nous privilégions.
 
 Voilà notre perspective à long terme : construire une compétence durable plutôt que courir constamment après la prochaine production rapide.
 
@@ -111,4 +111,4 @@ Pour aborder la rédaction scientifique et le développement de carrière avec c
 
 En combinant contrôle de qualité rigoureux, développement ciblé des compétences, habitudes personnelles efficaces, concentration profonde et pratiques de rédaction durables, nous visons à créer un environnement de recherche où la science et les chercheurs s'épanouissent pleinement.
 
-[Découvrir les projets de recherche en cours](../projets/) ou consulter les [compétences en recherche au laboratoire SAGE](../competences-recherche/). Les nouveaux auxiliaires peuvent suivre le [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}).
+[Découvrir les projets de recherche en cours](../projets/) ou consulter les [compétences en recherche au labo SAGE](../competences-recherche/). Les nouveaux auxiliaires peuvent suivre le [parcours de lecture d’accueil]({{< relref "accueil-auxiliaires.md" >}}).

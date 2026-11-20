@@ -14,7 +14,7 @@ lastmod: 2026-11-19
 
 **La question est de savoir qui aide qui, dans quelles conditions.** Les personnes diffèrent dans leurs actions, les situations dans leurs exigences, et une même personne peut réagir différemment selon la situation. Une explication utile précise ces trois éléments.
 
-Pour le Laboratoire SAGE, cette approche relie la prédiction de l’aide au [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) : le profil change-t-il lorsque les coûts, les bénéficiaires ou les exigences varient?
+Pour le Labo SAGE, cette approche relie la prédiction de l’aide au [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) : le profil change-t-il lorsque les coûts, les bénéficiaires ou les exigences varient?
 
 ## Les dispositions rencontrent des occasions
 

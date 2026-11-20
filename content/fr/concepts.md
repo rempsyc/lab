@@ -1,6 +1,6 @@
 ---
 title: "Concepts importants"
-summary: "Des fiches pour étudier le soi, l’altruisme, les groupes et l’empathie au Laboratoire SAGE."
+summary: "Des fiches pour étudier le soi, l’altruisme, les groupes et l’empathie au Labo SAGE."
 translationKey: concept-primers
 url: /fr/concepts/
 type: page
@@ -12,7 +12,7 @@ date: 2026-11-19
 lastmod: 2026-11-19
 ---
 
-Ces fiches présentent des concepts utilisés dans les recherches du Laboratoire SAGE. Elles relient les définitions et les exemples aux influences situationnelles, aux différences individuelles, aux principales théories, aux mesures et aux questions ouvertes.
+Ces fiches présentent des concepts utilisés dans les recherches du Labo SAGE. Elles relient les définitions et les exemples aux influences situationnelles, aux différences individuelles, aux principales théories, aux mesures et aux questions ouvertes.
 
 ## Un parcours de lecture
 

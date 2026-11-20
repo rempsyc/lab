@@ -1,6 +1,6 @@
 ---
 title: Accueil des membres du labo
-summary: Un parcours de lecture et des conseils pratiques pour bien commencer au laboratoire SAGE.
+summary: Un parcours de lecture et des conseils pratiques pour bien commencer au labo SAGE.
 translationKey: ra-onboarding
 type: page
 layout: compact
@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Bienvenue au laboratoire SAGE ! Notre manuel de laboratoire se compose de pages ciblées sur le site. Lisez les essentiels ci-dessous, puis revenez à la page pertinente au moment où vous en avez besoin. Vous n’avez pas à mémoriser tout le site.
+Bienvenue au labo SAGE ! Notre manuel de laboratoire se compose de pages ciblées sur le site. Lisez les essentiels ci-dessous, puis revenez à la page pertinente au moment où vous en avez besoin. Vous n’avez pas à mémoriser tout le site.
 
 Ce guide s’adresse aux personnes qui commencent un rôle de recherche convenu. Si vous explorez les possibilités, commencez par [Joindre l’équipe]({{< relref "nous-joindre.md" >}}).
 
@@ -63,7 +63,7 @@ Une archive d’idées à reprendre ou à combiner. Si vous avez une idée sembl
 
 Consultez le [Guide du labo]({{< relref "guide-labo.md" >}}) pour retrouver les autres ressources à mesure que vos responsabilités évoluent.
 
-## Conseils pour s’épanouir au laboratoire SAGE
+## Conseils pour s’épanouir au labo SAGE
 
 Vous préparez une candidature au Ph.D. ou au D.Psy. ? Notre [guide de préparation aux cycles supérieurs]({{< relref "preparer-candidature-doctorat.md" >}}) rassemble les conseils sur les notes, la recherche, la relation d’aide, le financement et les publications. Pour explorer d’autres possibilités, consultez [Accéder à une expérience de recherche]({{< relref "acces-experience-recherche.md" >}}).
 

@@ -14,7 +14,7 @@ lastmod: 2026-11-19
 
 **Vouloir aider et accomplir une aide utile sont des résultats distincts.** L’écart entre intention et comportement concerne les raisons pour lesquelles un but endossé ne devient pas toujours une action. En prosocialité, il faut aussi demander si l’action bénéficie réellement à autrui.
 
-Cette fiche relie les [mesures](/fr/concepts/mesurer-comportement-prosocial/) au [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) du Laboratoire SAGE.
+Cette fiche relie les [mesures](/fr/concepts/mesurer-comportement-prosocial/) au [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) du Labo SAGE.
 
 ## Distinguer les cibles
 

@@ -1,6 +1,6 @@
 ---
 title: Recherche
-summary: Les recherches du laboratoire SAGE sur la prosocialité robuste, le bien-être, l’identité, la vie collective et la science ouverte et reproductible.
+summary: Les recherches du labo SAGE sur la prosocialité robuste, le bien-être, l’identité, la vie collective et la science ouverte et reproductible.
 seo:
   title: "Prosocialité, bien-être et science ouverte | Labo SAGE"
 translationKey: research

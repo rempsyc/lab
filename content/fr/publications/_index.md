@@ -1,6 +1,6 @@
 ---
 title: Publications
-summary: Publications scientifiques des membres du laboratoire SAGE.
+summary: Publications scientifiques des membres du labo SAGE.
 seo:
   title: "Publications en psychologie sociale | Labo SAGE"
 translationKey: publications

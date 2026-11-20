@@ -1,6 +1,6 @@
 ---
 title: Se joindre au laboratoire
-summary: Possibilités pour les personnes étudiantes, chercheuses et collaboratrices au laboratoire SAGE.
+summary: Possibilités pour les personnes étudiantes, chercheuses et collaboratrices au labo SAGE.
 translationKey: join
 type: page
 layout: compact
@@ -39,7 +39,7 @@ Selon le projet et votre préparation, les tâches peuvent comprendre la recherc
 
 Les personnes étudiantes au premier cycle sont vivement encouragées à chercher un financement indépendant, par exemple sous la forme de bourses, de stages d’été ou d’autres programmes destinés aux personnes étudiantes. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle permettrait de créer et de soutenir un rôle de recherche bien délimité.
 
-Consultez aussi les [compétences pour la recherche au laboratoire SAGE](../competences-recherche/) : R, la programmation, la rédaction scientifique, l’utilisation critique de l’IA et les demandes de financement.
+Consultez aussi les [compétences pour la recherche au labo SAGE](../competences-recherche/) : R, la programmation, la rédaction scientifique, l’utilisation critique de l’IA et les demandes de financement.
 
 Pour nous faire part de votre intérêt, remplissez le **[formulaire d’intérêt à la recherche au premier cycle](https://docs.google.com/forms/d/e/1FAIpQLScS4YQohTnOmPxM8qqm4MIAFX2laNUgDwCIhsMfs4Bw4KwzhQ/viewform)**. Vous pourrez y décrire les questions qui vous intéressent, les compétences que vous souhaitez développer et vos disponibilités pendant l’année universitaire ou l’été. Remplir le formulaire ne garantit ni une entrevue ni une place au laboratoire.
 
@@ -49,7 +49,7 @@ Vous commencez un rôle d’auxiliaire de recherche convenu ? Suivez notre [parc
 
 {{< join_section title="Personnes étudiantes au D.Psy. et aux cycles supérieurs" >}}
 
-Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes du laboratoire SAGE et précise le type d’encadrement ou de collaboration recherché.
+Les personnes inscrites au D.Psy. ou à un autre programme de cycles supérieurs peuvent communiquer avec le laboratoire au sujet d’un practicum de recherche, d’un projet doctoral, d’une étude dirigée ou d’une collaboration à un projet existant. Une bonne demande présente une question ciblée, montre ses liens avec les thèmes du labo SAGE et précise le type d’encadrement ou de collaboration recherché.
 
 Les personnes aux cycles supérieurs sont vivement encouragées à chercher des bourses, des stages ou d’autres sources de financement indépendant. L’obtention d’un financement améliorerait considérablement les chances de se joindre à mon laboratoire, puisqu’elle fournirait des ressources pour le soutien de la personne étudiante, les activités de recherche et l’encadrement.
 
@@ -77,12 +77,12 @@ Pour proposer un stage postdoctoral avec le Prof. Thériault, remplissez le **[f
 
 {{< join_section title="Collaborations de recherche et partenariats avec le milieu" >}}
 
-Le laboratoire SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
+Le labo SAGE est ouvert aux collaborations avec des équipes de recherche, des organismes et des partenaires du milieu qui apportent des questions, des méthodes, des populations ou des savoirs pratiques complémentaires.
 
 Les partenaires sont encouragés à apporter ou à chercher un financement indépendant, un soutien par une subvention commune ou d’autres ressources pour le travail proposé. L’obtention d’un financement améliorerait considérablement les chances d’établir une collaboration avec mon laboratoire à quelque niveau que ce soit, particulièrement lorsque le projet exige de rémunérer des personnes participantes, du personnel de recherche ou un encadrement important.
 
 Les demandes et propositions sont examinées lorsque des possibilités se présentent. Comme la capacité d’accueil varie au cours de l’année, remplir le formulaire ne garantit ni une place ni une réponse immédiate.
 
-Pour présenter une idée de projet, relever des intérêts communs ou amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances, remplissez le **[formulaire d’intérêt pour une collaboration avec le laboratoire SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
+Pour présenter une idée de projet, relever des intérêts communs ou amorcer une discussion sur les données, les méthodes ou la mobilisation des connaissances, remplissez le **[formulaire d’intérêt pour une collaboration avec le labo SAGE](https://docs.google.com/forms/d/e/1FAIpQLSecV6_1WXg2LnwJcregWp09IdeS2bxrZmvmWVPMUvBCqOL87w/viewform)**.
 
 {{< /join_section >}}

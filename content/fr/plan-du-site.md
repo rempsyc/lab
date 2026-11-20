@@ -1,6 +1,6 @@
 ---
 title: Plan du site
-summary: Retrouvez les pages et ressources du laboratoire SAGE.
+summary: Retrouvez les pages et ressources du labo SAGE.
 translationKey: site-index
 layout: compact
 toc: false

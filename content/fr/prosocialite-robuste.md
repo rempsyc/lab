@@ -1,6 +1,6 @@
 ---
 title: "Prosocialité robuste"
-summary: "Un cadre proposé par le Laboratoire SAGE pour une aide fiable, adaptative, efficace et soutenable."
+summary: "Un cadre proposé par le Labo SAGE pour une aide fiable, adaptative, efficace et soutenable."
 translationKey: concept-robust-prosociality
 url: /fr/concepts/prosocialite-robuste/
 type: page
@@ -12,7 +12,7 @@ date: 2026-11-19
 lastmod: 2026-11-19
 ---
 
-**Un cadre proposé par le Laboratoire SAGE.** Nous utilisons le terme *prosocialité robuste* pour désigner une aide bénéfique qui demeure fiable malgré des changements précisés de durée, d’exigences, de contexte, de bénéficiaires ou de coûts personnels, tout en permettant une participation soutenable. Les limites du concept et le modèle explicatif restent en développement.
+**Un cadre proposé par le Labo SAGE.** Nous utilisons le terme *prosocialité robuste* pour désigner une aide bénéfique qui demeure fiable malgré des changements précisés de durée, d’exigences, de contexte, de bénéficiaires ou de coûts personnels, tout en permettant une participation soutenable. Les limites du concept et le modèle explicatif restent en développement.
 
 La question centrale est : **comment la sollicitude pour autrui devient-elle une action fiable lorsque les circonstances sont moins favorables, ou lorsque la manière habituelle d’aider ne fonctionne plus?**
 

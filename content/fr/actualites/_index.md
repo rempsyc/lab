@@ -1,6 +1,6 @@
 ---
 title: Actualités
-summary: Nouvelles du laboratoire SAGE.
+summary: Nouvelles du labo SAGE.
 translationKey: news
 type: landing
 

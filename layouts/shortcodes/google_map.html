@@ -1,5 +1,5 @@
 {{- $lang := .Get "lang" | default site.Language.Lang -}}
-{{- $title := cond (eq $lang "fr") "Carte montrant l’emplacement du laboratoire SAGE à l’UQAR" "Map showing the SAGE Lab at UQAR" -}}
+{{- $title := cond (eq $lang "fr") "Carte montrant l’emplacement du labo SAGE à l’UQAR" "Map showing the SAGE Lab at UQAR" -}}
 {{- $linkLabel := cond (eq $lang "fr") "Ouvrir dans Google Maps" "Open in Google Maps" -}}
 <div class="not-prose mt-8">
   <div class="aspect-[16/9] w-full overflow-hidden border border-slate-200 bg-slate-100">

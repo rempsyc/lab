@@ -1,6 +1,6 @@
 ---
-title: Compétences pour la recherche au laboratoire SAGE
-summary: Compétences qui aident les personnes étudiantes et collaboratrices à contribuer à une recherche rigoureuse, ouverte et utile au laboratoire SAGE.
+title: Compétences pour la recherche au labo SAGE
+summary: Compétences qui aident les personnes étudiantes et collaboratrices à contribuer à une recherche rigoureuse, ouverte et utile au labo SAGE.
 translationKey: research-skills
 type: page
 layout: compact
@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Il n’existe pas de profil unique pour se joindre au laboratoire SAGE. Les compétences ci-dessous constituent des pistes utiles pour les personnes étudiantes et collaboratrices qui souhaitent contribuer à une recherche rigoureuse, ouverte et porteuse de retombées concrètes. Elles peuvent se développer progressivement dans les cours, les projets autonomes, les activités de la communauté et les expériences de recherche.
+Il n’existe pas de profil unique pour se joindre au labo SAGE. Les compétences ci-dessous constituent des pistes utiles pour les personnes étudiantes et collaboratrices qui souhaitent contribuer à une recherche rigoureuse, ouverte et porteuse de retombées concrètes. Elles peuvent se développer progressivement dans les cours, les projets autonomes, les activités de la communauté et les expériences de recherche.
 
 ## Analyse et préparation des données
 

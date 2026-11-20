@@ -1,6 +1,6 @@
 ---
 title: Choisir un projet étudiant
-summary: Un arbre de décision pour discuter de publication, de données, de financement et de faisabilité au laboratoire SAGE.
+summary: Un arbre de décision pour discuter de publication, de données, de financement et de faisabilité au labo SAGE.
 translationKey: choosing-student-project
 type: page
 layout: compact

@@ -14,7 +14,7 @@ lastmod: 2026-11-19
 
 **Comprendre autrui, partager ses émotions et vouloir l’aider sont des réponses psychologiques distinctes.** Le terme « empathie » peut désigner plusieurs de ces réponses; une étude doit préciser celle qu’elle mesure. Aucune ne démontre à elle seule une aide efficace.
 
-Cette distinction est centrale pour les travaux du Laboratoire SAGE sur les interventions contemplatives et prosociales.
+Cette distinction est centrale pour les travaux du Labo SAGE sur les interventions contemplatives et prosociales.
 
 ## Définir la réponse
 
@@ -60,7 +60,7 @@ La formation élargit-elle la sollicitude au-delà de certains bénéficiaires? 
 
 Éviter de conclure que l’empathie est toujours bénéfique ou toujours nuisible. La pleine conscience, la bienveillance, la compassion et la prise de perspective ne sont pas des interventions interchangeables. Préciser la pratique, le mécanisme proposé et le résultat.
 
-## Utilisation au Laboratoire SAGE
+## Utilisation au Labo SAGE
 
 Formuler une prédiction réfutable : « cette pratique modifie la sollicitude déclarée et l’aide réelle dans ces conditions ». Prévoir un comparateur approprié et distinguer les effets sur chaque résultat. Une estimation de médiation ne démontre pas, à elle seule, le mécanisme psychologique causal.
 

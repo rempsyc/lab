@@ -14,7 +14,7 @@ lastmod: 2026-11-19
 
 **Une mesure échantillonne un comportement ou une expérience dans certaines conditions.** La choisir en fonction de l’affirmation à tester. Un questionnaire sur la sollicitude, une intention de faire du bénévolat et du bénévolat accompli sont des résultats distincts.
 
-Cette fiche méthodologique du Laboratoire SAGE complète l’[aperçu du domaine](/fr/concepts/comportement-prosocial/) et la [fiche sur l’altruisme](/fr/concepts/altruisme/).
+Cette fiche méthodologique du Labo SAGE complète l’[aperçu du domaine](/fr/concepts/comportement-prosocial/) et la [fiche sur l’altruisme](/fr/concepts/altruisme/).
 
 ## Définir la cible avant l’instrument
 

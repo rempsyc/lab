@@ -9,8 +9,8 @@ type: landing
 sections:
   - block: lab-logo
     content:
-      alt: Logo du laboratoire SAGE
-      title: Laboratoire SAGE
+      alt: Logo du labo SAGE
+      title: Labo SAGE
       expansion: "Soi, Altruisme, Groupes et Empathie"
       affiliation: Université du Québec à Rimouski (UQAR)
       text: "Nous étudions le changement robuste — en soi, dans notre relation aux autres et dans notre manière de faire de la science."

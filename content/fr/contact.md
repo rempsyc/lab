@@ -1,6 +1,6 @@
 ---
 title: Contact
-summary: Communiquez avec le laboratoire SAGE à l’UQAR.
+summary: Communiquez avec le labo SAGE à l’UQAR.
 translationKey: contact
 layout: compact
 toc: false
@@ -17,7 +17,7 @@ Rimouski, QC G5L 2A4
 418 723-1986, poste 1110  
 **contact@labosage.com**
 
-{{< research_image src="media/lab.jpeg" alt="Le pavillon abritant le laboratoire SAGE à l’Université du Québec à Rimouski" >}}
+{{< research_image src="media/lab.jpeg" alt="Le pavillon abritant le labo SAGE à l’Université du Québec à Rimouski" >}}
 
 {{< google_map lang="fr" >}}
 

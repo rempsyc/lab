@@ -1,6 +1,6 @@
 ---
 title: Avant de candidater au D.Psy. avec moi
-summary: Attentes, critères de sélection et capacité d’encadrement du Prof. Thériault au laboratoire SAGE.
+summary: Attentes, critères de sélection et capacité d’encadrement du Prof. Thériault au labo SAGE.
 translationKey: psyd-applicants
 type: page
 layout: compact
@@ -10,7 +10,7 @@ share: false
 ---
 
 
-Ce guide concerne la direction de l’essai doctoral par le Prof. Thériault au laboratoire SAGE. Il ne remplace pas les exigences ni la sélection officielle de l’UQAR et ne constitue pas une offre de place. L’encadrement proposé porte sur la recherche non clinique, non sur les stages ou la pratique clinique.
+Ce guide concerne la direction de l’essai doctoral par le Prof. Thériault au labo SAGE. Il ne remplace pas les exigences ni la sélection officielle de l’UQAR et ne constitue pas une offre de place. L’encadrement proposé porte sur la recherche non clinique, non sur les stages ou la pratique clinique.
 
 ## Comment présenter une demande
 
@@ -64,7 +64,7 @@ Voici les critères qui orientent mon évaluation de la compatibilité avec mon 
 | Autonomie responsable | Planification, apprentissage, vérification, discernement dans les demandes d’aide |
 | Fiabilité et continuité | Engagements tenus ou renégociés; documentation et transmission du travail |
 | Rigueur et jugement scientifique | Qualité du raisonnement, limites reconnues, transparence et intégrité |
-| Compatibilité et faisabilité du projet | Question liée au laboratoire SAGE, portée réaliste, ressources et expertise accessibles |
+| Compatibilité et faisabilité du projet | Question liée au labo SAGE, portée réaliste, ressources et expertise accessibles |
 | Communication et utilisation de la rétroaction | Questions préparées, mises à jour utiles et corrections réfléchies |
 | Préparation et plan d’apprentissage | Bases pertinentes et stratégie crédible pour les compétences manquantes |
 
@@ -74,7 +74,7 @@ Cette grille concerne le choix d’une direction au laboratoire. Elle n’est pa
 
 Pour une première prise de contact, préparez un CV, un exemple de travail déjà réalisé avec une description de votre contribution personnelle, et une note d’environ une page répondant aux questions suivantes. Ne transmettez pas de données confidentielles ni de renseignements sur des patients ou des participants.
 
-1. Quelle question ou quel projet du laboratoire SAGE vous intéresse, et pourquoi?
+1. Quelle question ou quel projet du labo SAGE vous intéresse, et pourquoi?
 2. Quel serait un premier module réalisable? Quelles données, méthodes et ressources faudrait-il?
 3. Quel exemple montre votre capacité à mener un travail malgré une difficulté? Qu’avez-vous fait personnellement?
 4. Quelles tâches pouvez-vous déjà réaliser avec peu d’aide? Où aurez-vous besoin de formation ou de révision?

@@ -14,7 +14,7 @@ lastmod: 2026-11-19
 
 **Le problème central :** quand agit-on pour le bien d’autrui, qu’est-ce qui empêche de le faire et comment développer une action bénéfique? Le domaine étudie les actions, les motivations, les relations et les conditions sociales. Ces objets sont liés, mais exigent des preuves différentes.
 
-Pour le Laboratoire SAGE, cet aperçu relie les recherches existantes à notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/).
+Pour le Labo SAGE, cet aperçu relie les recherches existantes à notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/).
 
 ## Que cherche-t-on à expliquer
 

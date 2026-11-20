@@ -13,7 +13,7 @@ share: false
 
 On encourage les personnes qui envisagent un doctorat en psychologie à acquérir une expérience de recherche. Pourtant, les possibilités d’encadrement peuvent être insuffisantes pour accueillir toutes les personnes intéressées. Cette tension mérite une réponse collective : elle ne peut pas être résolue simplement en demandant à chaque laboratoire de prendre toujours plus de monde.
 
-Ne pas obtenir une place ne signifie pas que vous manquez de potentiel. L’accès dépend aussi du nombre de projets, du financement, de l’expertise et du temps réellement disponible. Notre page sur la [capacité d’encadrement]({{< relref "capacite-encadrement.md" >}}) explique ce que nous pouvons nous engager à offrir au laboratoire SAGE.
+Ne pas obtenir une place ne signifie pas que vous manquez de potentiel. L’accès dépend aussi du nombre de projets, du financement, de l’expertise et du temps réellement disponible. Notre page sur la [capacité d’encadrement]({{< relref "capacite-encadrement.md" >}}) explique ce que nous pouvons nous engager à offrir au labo SAGE.
 
 Un professeur nouvellement arrivé n’a pas nécessairement davantage de disponibilité. La première année peut cumuler préparation de nouveaux cours, installation du laboratoire, demandes de subvention et apprentissage des procédures universitaires. Créer les conditions d’un bon encadrement demande du temps avant de pouvoir élargir l’accueil.
 

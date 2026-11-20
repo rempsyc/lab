@@ -1,6 +1,6 @@
 ---
 title: Financer une candidature doctorale ou postdoctorale
-summary: Pistes de financement, admissibilité et calendrier pour une candidature au laboratoire SAGE.
+summary: Pistes de financement, admissibilité et calendrier pour une candidature au labo SAGE.
 translationKey: applicant-funding
 type: page
 layout: compact

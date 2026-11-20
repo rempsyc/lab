@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-Un stage postdoctoral au laboratoire SAGE devrait faire avancer une question importante tout en développant votre autonomie scientifique et votre carrière. Ce guide décrit les attentes du Prof. Thériault; il ne constitue ni une offre d’emploi ni une entente d’accueil.
+Un stage postdoctoral au labo SAGE devrait faire avancer une question importante tout en développant votre autonomie scientifique et votre carrière. Ce guide décrit les attentes du Prof. Thériault; il ne constitue ni une offre d’emploi ni une entente d’accueil.
 
 ## Une collaboration scientifique, pas seulement des mains supplémentaires
 

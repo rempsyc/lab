@@ -12,7 +12,7 @@ date: 2026-11-19
 lastmod: 2026-11-19
 ---
 
-Une fiche du Laboratoire SAGE pour comprendre le concept, comparer ses explications et concevoir des études.
+Une fiche du Labo SAGE pour comprendre le concept, comparer ses explications et concevoir des études.
 
 Mise à jour le 19 novembre 2026.
 
@@ -81,7 +81,7 @@ Ces approches couvrent différents niveaux d’explication; leur ordre ne consti
 
 **La mesure doit correspondre à l’affirmation.** Les jeux économiques évaluent des décisions particulières : don dans le jeu du dictateur, confiance, réciprocité et contribution à un bien public impliquent des incitations et des enjeux stratégiques différents. [Thielmann et al., 2020](https://doi.org/10.1037/bul0000217). Le SVO Slider mesure plutôt des préférences de répartition entre soi et autrui. [Murphy et al., 2011](https://ryanomurphy.com/resources/Murphy-Ackermann-Handgraaf-2011.pdf).
 
-Pour concevoir une étude au Laboratoire SAGE :
+Pour concevoir une étude au Labo SAGE :
 
 1. Préciser la cible : aide, bénéfice pour autrui, coopération ou motivation altruiste.
 2. Identifier le bénéficiaire et mesurer, si possible, le coût de l’aide et son bénéfice réel.

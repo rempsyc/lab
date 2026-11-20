@@ -1,6 +1,6 @@
 ---
 title: Projets
-summary: Les projets actifs et à relancer du laboratoire SAGE en prosocialité, bien-être, identité, polarisation et science ouverte.
+summary: Les projets actifs et à relancer du labo SAGE en prosocialité, bien-être, identité, polarisation et science ouverte.
 seo:
   title: "Projets de recherche en psychologie sociale | Labo SAGE"
 type: projects

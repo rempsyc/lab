@@ -9,7 +9,7 @@ reading_time: false
 share: false
 ---
 
-**Les rencontres ouvertes du Laboratoire SAGE accueillent maintenant tout le monde!** Joignez-vous à nous **les vendredis, de 11 h 30 à 12 h 30, au local U-1170 de l’UQAR à Rimouski**. Toute personne intéressée par la psychologie, la philosophie, les sciences et les échanges d’idées est la bienvenue, y compris au-delà de la communauté étudiante de l’UQAR.
+**Les rencontres ouvertes du Labo SAGE accueillent maintenant tout le monde!** Joignez-vous à nous **les vendredis, de 11 h 30 à 12 h 30, au local U-1170 de l’UQAR à Rimouski**. Toute personne intéressée par la psychologie, la philosophie, les sciences et les échanges d’idées est la bienvenue, y compris au-delà de la communauté étudiante de l’UQAR.
 
 Consultez le **[calendrier officiel des rencontres](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** pour connaître les sujets et les activités à venir.
 
