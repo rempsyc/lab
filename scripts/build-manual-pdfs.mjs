@@ -68,12 +68,12 @@ try {
     const date = new Intl.DateTimeFormat('en-CA', {timeZone:'America/Toronto', year:'numeric', month:'2-digit', day:'2-digit'}).format(new Date());
     const toc = groups.map(g => `<li><strong>${escape(g.title)}</strong><ul>${g.pages.map(e => `<li><a href="#${ids[e.path]}">${escape(e.title)}</a></li>`).join('')}</ul></li>`).join('');
     await page.setContent(`<!doctype html><html lang="${lang}"><meta charset="utf-8"><title>${title}</title><style>
-      @page { size: A4; margin: 20mm 19mm 22mm; }
-      * { box-sizing: border-box; } body { font: 10.5pt/1.55 Georgia, 'Times New Roman', serif; color: #171717; }
+      @page { size: A4; margin: 15mm 14mm 18mm; }
+      * { box-sizing: border-box; } body { font: 12pt/1.5 Georgia, 'Times New Roman', serif; color: #171717; }
       h1,h2,h3,.eyebrow,.online { font-family: Arial,sans-serif; } h1 { font-size:25pt; line-height:1.18; margin:0 0 12pt; } h2 { font-size:16pt; margin:22pt 0 8pt; } h3 { font-size:12pt; margin:15pt 0 6pt; }
       h1,h2,h3,strong { break-after:avoid; } p,li { orphans:3; widows:3; } a { color:#222; text-decoration:underline; overflow-wrap:anywhere; }
       p { margin:0 0 9pt; } ul,ol { padding-left:20pt; } li { margin-bottom:5pt; } img { max-width:100%; height:auto; max-height:175mm; object-fit:contain; } figure { margin:14pt 0; break-inside:avoid; } figcaption,.online { font-size:9pt; color:#555; }
-      table { width:100%; border-collapse:collapse; font-size:9pt; margin:12pt 0; } th,td { border:1px solid #bbb; padding:6pt; vertical-align:top; } tr { break-inside:avoid; } thead { display:table-header-group; } blockquote { border-left:2pt solid #aaa; padding-left:12pt; margin-left:0; }
+      table { width:100%; border-collapse:collapse; font-size:11pt; margin:12pt 0; } th,td { border:1px solid #bbb; padding:6pt; vertical-align:top; } tr { break-inside:avoid; } thead { display:table-header-group; } blockquote { border-left:2pt solid #aaa; padding-left:12pt; margin-left:0; }
       .cover { break-after:page; padding-top:35mm; } .cover img { width:35mm; margin-bottom:15mm; } .cover h1 { font-size:38pt; } .cover p { margin-top:14pt; } .contents { break-after:page; } .contents > ul { padding-left:0; list-style:none; } .contents > ul > li { margin:12pt 0; } .contents ul ul { margin-top:5pt; }
       .chapter { break-before:page; } .eyebrow { font-size:9pt; letter-spacing:1pt; color:#666; } pre,code { white-space:pre-wrap; overflow-wrap:anywhere; font-size:9pt; } .sage-heading-link { text-decoration:none; }
       </style><body><section class="cover"><img src="${origin}${prefix}/logo.svg" alt=""><p>SAGE Lab · UQAR</p><h1>${title}</h1><p>${fr ? 'Recherche, apprentissage et vie au labo' : 'Research, learning, and working together'}</p><p>${fr ? 'Version du' : 'Generated'} ${date}</p><p><a href="${new URL(manual, site).href}">${fr ? 'Consulter la version en ligne' : 'Visit the online manual'}</a></p></section><section class="contents"><h1>${fr ? 'Table des matières' : 'Contents'}</h1><ul>${toc}</ul></section>${chapters}</body></html>`, {waitUntil:'load'});
