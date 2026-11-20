@@ -134,6 +134,11 @@ jobs:
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+    - name: Generate bilingual manual PDFs
+      run: |
+        pnpm exec playwright install --with-deps chromium
+        pnpm run manual:pdf
+
     - name: Generate Pagefind search index (if applicable)
       run: |
         # Check if site uses Pagefind search

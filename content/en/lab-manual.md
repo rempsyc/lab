@@ -11,3 +11,5 @@ share: false
 Guidance for prospective and current members of the SAGE Lab. For opportunities and application forms, see [Join the Lab](../join/).
 
 {{< lab_manual >}}
+
+{{< manual_download >}}

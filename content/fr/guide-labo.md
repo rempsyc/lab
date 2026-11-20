@@ -11,3 +11,5 @@ share: false
 Des ressources pour les membres actuels et futurs du labo SAGE. Pour les possibilités et les formulaires de candidature, consultez [Se joindre au labo](../nous-joindre/).
 
 {{< lab_manual >}}
+
+{{< manual_download >}}

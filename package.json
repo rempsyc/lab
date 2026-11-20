@@ -6,7 +6,8 @@
   "description": "Bilingual website for the SAGE Lab at UQAR",
   "scripts": {
     "dev": "hugo server --bind 0.0.0.0 --poll 700ms --disableFastRender --noTimes",
-    "build": "hugo --minify --noTimes && pnpm run pagefind",
+    "build": "hugo --minify --noTimes && pnpm run manual:pdf && pnpm run pagefind",
+    "manual:pdf": "node scripts/build-manual-pdfs.mjs",
     "pagefind": "pagefind --site public"
   },
   "dependencies": {
@@ -15,5 +16,8 @@
     "pagefind": "^1.4.0",
     "preact": "^10.27.2",
     "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
   }
 }
