@@ -52,3 +52,8 @@ Across these programs, we combine experiments and randomized controlled trials w
 The [Idea Garden](https://rempsyc.github.io/research-ideas/) is a growing collection of specific questions and possible projects. Its five domains—attention and meditation; dreams and low-control states; polarization and prejudice; self, identity, and agency; and social change and prosociality—provide a more detailed map within and across the three broad programs above.
 
 The boundaries are intentionally permeable: many of our most promising questions connect individual well-being, relationships with others, collective life, and the methods used to study them.
+
+
+## Important concepts
+
+Our [concept primers](/concepts/) introduce the definitions, determinants, theories, and measures behind our research, beginning with [altruism](/concepts/altruism/).

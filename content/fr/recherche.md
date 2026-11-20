@@ -52,3 +52,8 @@ Dans l’ensemble de ces programmes, nous combinons les expériences et les essa
 Le [Jardin d’idées](https://rempsyc.github.io/research-ideas/) rassemble des questions précises et des projets possibles. Ses cinq domaines — attention et méditation; rêves et états de faible contrôle; polarisation et préjugés; soi, identité et agentivité; changement social et prosocialité — offrent une cartographie plus détaillée à l’intérieur et à l’intersection des trois grands programmes présentés ci-dessus.
 
 Les frontières entre ces programmes sont volontairement perméables : plusieurs de nos questions les plus prometteuses relient le bien-être individuel, les relations avec autrui, la vie collective et les méthodes employées pour les étudier.
+
+
+## Concepts importants
+
+Nos [fiches conceptuelles](/fr/concepts/) présentent les définitions, les déterminants, les théories et les mesures qui éclairent nos recherches, en commençant par [l’altruisme](/fr/concepts/altruisme/).
