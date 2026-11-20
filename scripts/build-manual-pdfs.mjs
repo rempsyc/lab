@@ -65,7 +65,7 @@ try {
       }, {origin, site:site.href, ids, chapter:ids[entry.path]});
       chapters += `<section class="chapter" id="${ids[entry.path]}"><p class="eyebrow">${i+1} / ${entries.length}</p><h1>${escape(entry.title)}</h1><p class="online"><a href="${new URL(entry.path, site).href}">${fr ? 'Lire en ligne' : 'Read online'}</a></p>${body}</section>`;
     }
-    const date = new Date().toISOString().slice(0,10);
+    const date = new Intl.DateTimeFormat('en-CA', {timeZone:'America/Toronto', year:'numeric', month:'2-digit', day:'2-digit'}).format(new Date());
     const toc = groups.map(g => `<li><strong>${escape(g.title)}</strong><ul>${g.pages.map(e => `<li><a href="#${ids[e.path]}">${escape(e.title)}</a></li>`).join('')}</ul></li>`).join('');
     await page.setContent(`<!doctype html><html lang="${lang}"><meta charset="utf-8"><title>${title}</title><style>
       @page { size: A4; margin: 20mm 19mm 22mm; }
