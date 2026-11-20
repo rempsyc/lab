@@ -22,7 +22,7 @@ Ces fiches présentent des concepts utilisés dans les recherches du Laboratoire
 
 Notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) examine comment la sollicitude devient une aide fiable et efficace malgré les variations de durée, de difficultés, de contexte, de bénéficiaires et de coûts. Il distingue l’adhésion personnelle à la sollicitude des façons apprises de la mettre en action, dont la capacité de réviser l’aide lorsque les besoins changent.
 
-Le cadre et ses sept dimensions proposées sont en développement. La **prosocialité robuste** est un terme de travail; l’**altruisme robuste** demeure une autre possibilité, dont le sens motivationnel plus précis exigerait des preuves distinctes.
+Le cadre et ses sept dimensions proposées sont en développement. La **prosocialité robuste** adopte une perspective large sur les comportements bénéfiques, y compris les motivations altruistes, intéressées et mixtes.
 
 La collection s’enrichira au fil de la préparation de nouvelles fiches.
 

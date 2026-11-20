@@ -12,7 +12,7 @@ date: 2026-11-19
 lastmod: 2026-11-19
 ---
 
-**A proposed SAGE Lab framework.** We use *robust prosociality* as a working name for beneficial helping that remains dependable across specified changes in time, demands, settings, recipients, or personal costs, while allowing sustainable participation. The name, boundaries, and explanatory model remain under development.
+**A proposed SAGE Lab framework.** We use *robust prosociality* to describe beneficial helping that remains dependable across specified changes in time, demands, settings, recipients, or personal costs, while allowing sustainable participation. The boundaries and explanatory model remain under development.
 
 The central question is: **how can concern for others become dependable action when circumstances become less supportive—or when the familiar way of helping no longer works?**
 
@@ -57,10 +57,10 @@ The proposal predicts that learning an adaptive procedure should support more ap
 
 This is a candidate test, not an established finding. Whether the account adds explanatory value beyond existing motivation, habit, and expertise theories remains an open question.
 
-## Robust prosociality or robust altruism
+## Scope of the concept
 
-The naming decision remains open. *Robust prosociality* accommodates beneficial behaviour with altruistic, self-interested, or mixed motives. *Robust altruism* would make the narrower motivational claim that another person’s welfare is the ultimate goal; dependable behaviour alone would not establish that claim.
+*Robust prosociality* takes a broad view of beneficial behaviour, which can involve altruistic, self-interested, or mixed motives. The framework asks when helping remains dependable and effective; claims about its underlying motivation require separate evidence.
 
-For now, robust prosociality is the working label. We have not established a validated scale, a universal moral trait, or the novelty of the term or model.
+The framework remains a proposal. We have not established a validated scale, a universal moral trait, or the novelty of the term or model.
 
 [Read the altruism primer](/concepts/altruism/) · [Browse important concepts](/concepts/)

@@ -22,7 +22,7 @@ These primers introduce concepts used in SAGE Lab research. Each connects defini
 
 Our [proposed framework for robust prosociality](/concepts/robust-prosociality/) asks how concern becomes dependable, effective helping across time, challenges, settings, recipients, and costs. It distinguishes personally endorsed concern from learned ways of acting, including the ability to revise help when needs change.
 
-The framework and its seven proposed dimensions are under development. **Robust prosociality** is a working name; **robust altruism** remains an alternative whose narrower motivational meaning would need separate evidence.
+The framework and its seven proposed dimensions are under development. **Robust prosociality** takes a broad view of beneficial behaviour, including altruistic, self-interested, and mixed motives.
 
 The collection will grow as further primers are developed.
 

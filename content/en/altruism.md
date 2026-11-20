@@ -118,4 +118,4 @@ Start with the first three for motivation, individual differences, and situation
 
 ## Our proposed robust prosociality framework
 
-The [robust prosociality introduction](/concepts/robust-prosociality/) extends the question from why people help to when beneficial helping remains dependable and adapts to changing needs. The framework and name remain provisional; dependable behaviour alone does not establish altruistic motivation.
+The [robust prosociality introduction](/concepts/robust-prosociality/) extends the question from why people help to when beneficial helping remains dependable and adapts to changing needs. The framework remains provisional; dependable behaviour alone does not establish altruistic motivation.

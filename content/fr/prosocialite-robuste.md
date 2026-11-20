@@ -12,7 +12,7 @@ date: 2026-11-19
 lastmod: 2026-11-19
 ---
 
-**Un cadre proposé par le Laboratoire SAGE.** Nous utilisons provisoirement le terme *prosocialité robuste* pour désigner une aide bénéfique qui demeure fiable malgré des changements précisés de durée, d’exigences, de contexte, de bénéficiaires ou de coûts personnels, tout en permettant une participation soutenable. Le nom, les limites du concept et le modèle explicatif restent en développement.
+**Un cadre proposé par le Laboratoire SAGE.** Nous utilisons le terme *prosocialité robuste* pour désigner une aide bénéfique qui demeure fiable malgré des changements précisés de durée, d’exigences, de contexte, de bénéficiaires ou de coûts personnels, tout en permettant une participation soutenable. Les limites du concept et le modèle explicatif restent en développement.
 
 La question centrale est : **comment la sollicitude pour autrui devient-elle une action fiable lorsque les circonstances sont moins favorables, ou lorsque la manière habituelle d’aider ne fonctionne plus?**
 
@@ -57,10 +57,10 @@ La proposition prédit que l’apprentissage d’une procédure adaptative devra
 
 Il s’agit d’un test proposé, pas d’un résultat établi. La valeur explicative ajoutée par rapport aux théories de la motivation, des habitudes et de l’expertise reste à déterminer.
 
-## Prosocialité robuste ou altruisme robuste
+## Portée du concept
 
-Le choix du nom reste ouvert. La *prosocialité robuste* peut englober des comportements bénéfiques aux motivations altruistes, intéressées ou mixtes. L’*altruisme robuste* impliquerait l’affirmation motivationnelle plus précise que le bien-être d’autrui est le but ultime; la fiabilité du comportement ne suffirait pas à l’établir.
+La *prosocialité robuste* adopte une perspective large sur les comportements bénéfiques, dont les motivations peuvent être altruistes, intéressées ou mixtes. Le cadre examine les conditions dans lesquelles l’aide demeure fiable et efficace; les affirmations concernant ses motivations exigent des preuves distinctes.
 
-Pour l’instant, prosocialité robuste demeure le terme de travail. Nous n’avons établi ni échelle validée, ni trait moral universel, ni nouveauté du terme ou du modèle.
+Le cadre demeure une proposition. Nous n’avons établi ni échelle validée, ni trait moral universel, ni nouveauté du terme ou du modèle.
 
 [Lire la fiche sur l’altruisme](/fr/concepts/altruisme/) · [Consulter les concepts importants](/fr/concepts/)
