@@ -5,7 +5,7 @@ translationKey: concept-primers
 url: /fr/concepts/
 type: page
 layout: compact
-toc: true
+toc: false
 reading_time: false
 share: false
 date: 2026-11-19
@@ -25,17 +25,5 @@ Ces fiches présentent des concepts utilisés dans les recherches du Laboratoire
 7. [Prosocialité robuste](/fr/concepts/prosocialite-robuste/) présente le cadre proposé du laboratoire pour une aide fiable et adaptative.
 
 Suivre l’ordre pour un aperçu du domaine, ou commencer par la question pertinente à une étude. Les fiches méthodologiques et théoriques sont reliées entre elles.
-
-## Altruisme
-
-[Lire la fiche sur l’altruisme](/fr/concepts/altruisme/) pour distinguer le comportement d’aide de la motivation altruiste, comparer les explications et choisir des mesures adaptées à la question de recherche.
-
-## Prosocialité robuste
-
-Notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) examine comment la sollicitude devient une aide fiable et efficace malgré les variations de durée, de difficultés, de contexte, de bénéficiaires et de coûts. Il distingue l’adhésion personnelle à la sollicitude des façons apprises de la mettre en action, dont la capacité de réviser l’aide lorsque les besoins changent.
-
-Le cadre et ses sept dimensions proposées sont en développement. La **prosocialité robuste** adopte une perspective large sur les comportements bénéfiques, y compris les motivations altruistes, intéressées et mixtes.
-
-Consulter le [guide des mesures](/fr/concepts/mesurer-comportement-prosocial/) pour choisir les résultats et la fiche [Personnes et situations](/fr/concepts/personnes-et-situations/) pour préciser les conditions et les prédicteurs.
 
 [Découvrir nos recherches](/fr/recherche/) · [Guide du labo](/fr/guide-labo/)
