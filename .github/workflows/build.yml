@@ -28,7 +28,8 @@ concurrency:
 jobs:
   build:
     if: github.repository_owner != 'HugoBlox'
-    runs-on: ubuntu-latest
+    # Keep the OS compatible with the pinned Playwright browser dependencies.
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     outputs:
       artifact-id: ${{ steps.upload.outputs.artifact-id }}
