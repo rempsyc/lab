@@ -56,4 +56,4 @@ Les frontières entre ces programmes sont volontairement perméables : plusieurs
 
 ## Concepts importants
 
-Nos [fiches conceptuelles](/fr/concepts/) présentent les définitions, les déterminants, les théories et les mesures qui éclairent nos recherches, en commençant par [l’altruisme](/fr/concepts/altruisme/).
+Nos [fiches conceptuelles](/fr/concepts/) présentent les définitions, les déterminants, les théories et les mesures qui éclairent nos recherches, notamment [l’altruisme](/fr/concepts/altruisme/). Nous présentons également notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/), dont le nom et le modèle explicatif restent en développement.

@@ -56,4 +56,4 @@ The boundaries are intentionally permeable: many of our most promising questions
 
 ## Important concepts
 
-Our [concept primers](/concepts/) introduce the definitions, determinants, theories, and measures behind our research, beginning with [altruism](/concepts/altruism/).
+Our [concept primers](/concepts/) introduce the definitions, determinants, theories, and measures behind our research, including [altruism](/concepts/altruism/). We also introduce our [proposed robust prosociality framework](/concepts/robust-prosociality/), whose name and explanatory model remain under development.

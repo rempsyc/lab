@@ -18,6 +18,12 @@ Ces fiches présentent des concepts utilisés dans les recherches du Laboratoire
 
 [Lire la fiche sur l’altruisme](/fr/concepts/altruisme/) pour distinguer le comportement d’aide de la motivation altruiste, comparer les explications et choisir des mesures adaptées à la question de recherche.
 
-La collection commence par l’altruisme et s’enrichira au fil de la préparation de nouvelles fiches.
+## Prosocialité robuste
+
+Notre [cadre proposé de prosocialité robuste](/fr/concepts/prosocialite-robuste/) examine comment la sollicitude devient une aide fiable et efficace malgré les variations de durée, de difficultés, de contexte, de bénéficiaires et de coûts. Il distingue l’adhésion personnelle à la sollicitude des façons apprises de la mettre en action, dont la capacité de réviser l’aide lorsque les besoins changent.
+
+Le cadre et ses sept dimensions proposées sont en développement. La **prosocialité robuste** est un terme de travail; l’**altruisme robuste** demeure une autre possibilité, dont le sens motivationnel plus précis exigerait des preuves distinctes.
+
+La collection s’enrichira au fil de la préparation de nouvelles fiches.
 
 [Découvrir nos recherches](/fr/recherche/) · [Guide du labo](/fr/guide-labo/)

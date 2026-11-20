@@ -114,3 +114,8 @@ Start with the first three for motivation, individual differences, and situation
 8. **Nowak, M. A. (2006).** [Five rules for the evolution of cooperation.](https://doi.org/10.1126/science.1133755) *Science, 314*, 1560–1563. Evolutionary mechanisms.
 9. **Murphy, R. O., Ackermann, K. A., and Handgraaf, M. J. J. (2011).** [Measuring social value orientation.](https://ryanomurphy.com/resources/Murphy-Ackermann-Handgraaf-2011.pdf) *Judgment and Decision Making, 6*, 771–781. Allocation-preference measurement.
 
+
+
+## Our proposed robust prosociality framework
+
+The [robust prosociality introduction](/concepts/robust-prosociality/) extends the question from why people help to when beneficial helping remains dependable and adapts to changing needs. The framework and name remain provisional; dependable behaviour alone does not establish altruistic motivation.

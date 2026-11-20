@@ -117,3 +117,8 @@ Commencer par les trois premières pour les motivations, les différences indivi
 
 
 [Consulter les autres fiches](/fr/concepts/)
+
+
+## Notre cadre proposé de prosocialité robuste
+
+L’[introduction à la prosocialité robuste](/fr/concepts/prosocialite-robuste/) élargit la question des motifs de l’aide aux conditions dans lesquelles une aide bénéfique reste fiable et s’adapte aux besoins changeants. Le cadre et le nom demeurent provisoires; un comportement fiable ne suffit pas à établir une motivation altruiste.
