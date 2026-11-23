@@ -37,9 +37,19 @@ In Québec, a common route to university is a pre-university DEC at a CEGEP. A b
 
 Moving from high school to CEGEP already calls for more independence. Moving to university can mean another adjustment. In a bachelor’s program, you may have more assigned readings, several concepts to connect in the same week, and fewer individual reminders. You are responsible for checking the course outline and announcements on the designated platform (often Moodle), keeping track of deadlines, and planning your work between classes.
 
-At UQAR, **one credit represents about 45 hours of total work, including assessments**. A three-credit course represents about **135 hours over the term**. As a planning example, that is about nine hours per week over 15 weeks. For a course that meets three hours a week, it leaves about six hours for readings, assignments, and assessment preparation. The workload varies by course and week.
+At UQAR, **one credit represents about 45 hours of total work, including assessments**. That gives about **135 hours over the term** for a three-credit course. If the course meets for three hours a week over 15 weeks, the arithmetic leaves **about six hours a week outside class**, averaged over the term. This is a planning estimate derived from the credit definition. The actual time varies with the course, the week, what you already know, and how you study.
 
-[UQAR Regulation 5 — credit definition and section 12 on course outlines](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [From high school to CEGEP (in French)](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [From CEGEP to university (in French)](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
+[UQAR Regulation 5 — credit definition and sections 12–13 on course outlines and grading](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [From high school to CEGEP (in French)](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [From CEGEP to university (in French)](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
+
+### Does studying six hours a week mean I should get an A?
+
+**Your grade reflects what you demonstrate on assessments**, based on the course criteria and weighting. Spending six hours outside class gives you a starting point for your schedule. How much time you need depends on how well you can meet the course objectives.
+
+Study time varies widely. In the 2023 National Survey of Student Engagement, about 18% of first-year Waterloo respondents reported 10 hours or less per week preparing for **all their classes**, and 21% reported more than 30 hours. The survey’s estimated average was 20.3 hours per week (standard deviation about 9.5 hours). These are self-reported estimates across courses at Waterloo. They illustrate the spread in reported study time. To see how much preparation you need for a particular UQAR course, check what you can do with the material.
+
+Try explaining a concept without your notes, applying it to a new example, or answering a practice question. Space those checks across the week and use feedback from your first assessments to adjust both your schedule and your study methods.
+
+[NSSE 2023, University of Waterloo, pp. 16 and 44](https://uwaterloo.ca/institutional-analysis-planning/sites/default/files/uploads/documents/nsse23-frequencies-and-statistical-comparisons-uwaterloo.pdf) · [Research review on practice testing and spaced study](https://doi.org/10.1177/1529100612453266)
 
 ### Can an exam cover a chapter that wasn’t discussed in class?
 

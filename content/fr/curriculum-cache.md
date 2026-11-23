@@ -37,9 +37,19 @@ Au Québec, le parcours préuniversitaire passe souvent par un DEC au cégep. Le
 
 Le passage du secondaire au cégep demande déjà de gagner en autonomie. Le passage à l’université peut demander un nouvel ajustement. Au bac, vous pourriez avoir davantage de lectures, plusieurs concepts à relier dans une même semaine et moins de rappels individuels. Vous êtes responsable de consulter le plan de cours et les annonces sur la plateforme indiquée (souvent Moodle), de noter les échéances et de prévoir du temps pour travailler entre les séances.
 
-À l’UQAR, **un crédit correspond à environ 45 heures de travail au total, évaluations comprises**. Un cours de trois crédits représente donc environ **135 heures sur le trimestre**. À titre de repère, cela donne environ neuf heures par semaine sur 15 semaines. Pour un cours qui se réunit trois heures par semaine, il reste environ six heures pour les lectures, les travaux et la préparation aux évaluations. La charge varie selon le cours et la semaine.
+À l’UQAR, **un crédit correspond à environ 45 heures de travail au total, évaluations comprises**. Cela donne environ **135 heures sur le trimestre** pour un cours de trois crédits. Si le cours se réunit trois heures par semaine pendant 15 semaines, le calcul laisse **environ six heures par semaine en dehors des séances**, en moyenne sur le trimestre. C’est un repère de planification dérivé de la définition d’un crédit. Le temps réellement nécessaire dépend du cours, de la semaine, de vos acquis et de votre façon d’étudier.
 
-[Règlement 5 de l’UQAR — définition d’un crédit et article 12 sur le plan de cours](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [Du secondaire au cégep](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [Du cégep à l’université](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
+[Règlement 5 de l’UQAR — définition d’un crédit et articles 12 et 13 sur le plan de cours et la notation](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [Du secondaire au cégep](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [Du cégep à l’université](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
+
+### Si j’étudie six heures par semaine, est-ce que je devrais obtenir un A?
+
+**Votre note reflète ce que vous démontrez dans les évaluations**, selon les critères et la pondération du cours. Les six heures de travail en dehors des séances vous donnent un point de départ pour organiser votre semaine. Le temps dont vous avez besoin dépend de votre capacité à atteindre les objectifs du cours.
+
+Le temps d’étude varie beaucoup. Dans l’enquête NSSE de 2023, environ 18 % des personnes de première année ayant répondu à l’Université de Waterloo déclaraient consacrer au plus 10 heures par semaine à la préparation de **l’ensemble de leurs cours**, et 21 % déclaraient y consacrer plus de 30 heures. La moyenne estimée était de 20,3 heures par semaine (écart-type d’environ 9,5 heures). Ces estimations reposent sur les réponses des personnes étudiantes de Waterloo pour l’ensemble de leurs cours. Elles illustrent l’ampleur des écarts. Pour estimer le temps dont vous avez besoin dans un cours de l’UQAR, vérifiez ce que vous arrivez à faire avec la matière.
+
+Essayez d’expliquer une notion sans vos notes, de l’appliquer à un nouvel exemple ou de répondre à une question d’entraînement. Répartissez ces exercices dans la semaine et servez-vous de la rétroaction des premières évaluations pour ajuster votre horaire et vos méthodes d’étude.
+
+[Enquête NSSE 2023, Université de Waterloo, p. 16 et 44](https://uwaterloo.ca/institutional-analysis-planning/sites/default/files/uploads/documents/nsse23-frequencies-and-statistical-comparisons-uwaterloo.pdf) · [Synthèse sur les tests de pratique et la répartition des séances d’étude](https://doi.org/10.1177/1529100612453266)
 
 ### Est-ce qu’un examen peut porter sur un chapitre qui n’a pas été présenté en classe?
 
