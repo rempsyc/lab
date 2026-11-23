@@ -33,6 +33,14 @@ Une lecture en vue d’une discussion et une lecture pour apprendre à utiliser 
 
 [Méthode de calcul et vitesses de lecture estimées par l’Université Rice, en anglais](https://cte.rice.edu/resources/workload-estimator)
 
+## Étudier plus longtemps améliore-t-il les notes?
+
+Consacrer plus de temps à l’étude peut aider. Pour en estimer l’effet, une étude au Berea College s’est appuyée sur l’attribution aléatoire des colocataires. Dans ce contexte, étudier davantage a amélioré la moyenne du premier trimestre. Dans l’ensemble des études, le temps d’étude présente toutefois un lien faible avec la moyenne générale. Dans une autre étude qui a mis en relation les journaux d’étude et les notes de cours, les personnes qui ont obtenu un A ou un B n’ont pas nécessairement étudié plus longtemps au total que celles qui ont obtenu un C ou un D. Vers la fin du trimestre, elles avaient tendance à faire des séances plus courtes et plus fréquentes.
+
+Comment expliquer ces résultats? Les acquis et les méthodes d’étude varient d’une personne à l’autre. On peut aussi passer plus de temps sur une matière parce qu’on la trouve difficile. Le nombre d’heures, à lui seul, prédit donc mal la note d’une personne. Servez-vous du repère horaire pour prévoir du temps d’étude, puis vérifiez si vous êtes sur la bonne voie en répondant à des questions qui correspondent aux objectifs du cours et en consultant la rétroaction sur vos premières évaluations.
+
+[Stinebrickner et Stinebrickner sur le temps d’étude et les notes au premier trimestre](https://doi.org/10.2202/1935-1682.1868) · [Recherche sur le temps d’étude et la réussite universitaire](https://doi.org/10.1111/bjep.12725) · [Landrum et ses collègues sur les journaux d’étude et les notes de cours](https://doi.org/10.2466/pr0.98.3.675-682)
+
 ## Ajuster son plan après la première semaine
 
 1. **Comparez votre estimation au temps réellement consacré.** Si le chapitre a pris près de trois heures, commencez la prochaine lecture plus tôt ou divisez-la en deux séances. Vérifiez les échéances de vos autres cours avant de déplacer une tâche.

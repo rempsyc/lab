@@ -33,6 +33,14 @@ Reading for a class discussion and preparing to apply a concept can take differe
 
 [Rice University’s estimator methodology and reading rates](https://cte.rice.edu/resources/workload-estimator)
 
+## Does studying longer lead to better grades?
+
+Extra study time can help. A study that used randomly assigned roommates at Berea College to estimate the effect of studying found that additional study time improved first-semester grades in that setting. Across studies, though, hours studied were only weakly related to overall GPA. In a separate study that linked students’ logs to grades in individual courses, students earning As and Bs did not clearly spend more total time than those earning Cs and Ds. Toward the end of the term, they tended to take shorter, more frequent study sessions.
+
+Why can both findings be true? Students start with different levels of preparation, use different strategies, and may spend longer on material they find difficult. That makes hours alone a poor way to predict what grade a particular student will earn. Use the time estimate to make room to study, then use practice questions that match the course objectives and feedback on your first assessments to judge whether your preparation is working.
+
+[Stinebrickner and Stinebrickner on study time and first-semester grades](https://doi.org/10.2202/1935-1682.1868) · [Research on study time and academic achievement](https://doi.org/10.1111/bjep.12725) · [Landrum and colleagues on study logs and course grades](https://doi.org/10.2466/pr0.98.3.675-682)
+
 ## Adjust after your first week
 
 1. **Compare your estimate with what happened.** If the chapter took closer to three hours, start the next reading earlier or split it across two sessions. Check your other courses for deadlines before shifting work.
