@@ -66,6 +66,8 @@ En psychologie, selon les objectifs du cours, on peut vous demander d’applique
 
 [Centre d’aide à la réussite de l’UQAR — stratégies d’étude et gestion du temps](https://www.uqar.ca/services/services-a-la-communaute-universitaire/centre-apprentissage-reussite-et-pedagogie-universitaire-carpu/car/outils-et-ressources/)
 
+Pour transformer votre plan de cours en horaire d’étude, consultez [Planifier sa charge de travail à l’université]({{< relref "planifier-charge-travail.md" >}}) et son exemple tiré d’un cours de psychologie sociale.
+
 ## Parler aux profs
 
 ### Comment écrire à une personne enseignante pour la première fois?

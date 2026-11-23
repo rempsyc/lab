@@ -66,6 +66,8 @@ In psychology, depending on the course objectives, you may be asked to apply a c
 
 [UQAR’s learning support centre (CAR) — study strategies and time management](https://www.uqar.ca/services/services-a-la-communaute-universitaire/centre-apprentissage-reussite-et-pedagogie-universitaire-carpu/car/outils-et-ressources/)
 
+Want to turn your course outline into a weekly plan? See [Planning your university workload]({{< relref "planning-university-workload.md" >}}) for a worked example from social psychology.
+
 ## Talking to instructors
 
 ### How do I email an instructor for the first time?
