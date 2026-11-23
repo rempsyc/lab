@@ -10,6 +10,8 @@ share: false
 
 Guidance for prospective and current members of the SAGE Lab. For opportunities and application forms, see [Join the Lab](../join/).
 
+Already joined? Start with [Lab Member Onboarding]({{< relref "ra-onboarding.md" >}}) for your first readings and project meeting.
+
 {{< lab_manual >}}
 
 {{< manual_download >}}

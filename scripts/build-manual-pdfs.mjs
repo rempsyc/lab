@@ -38,7 +38,7 @@ try {
     await page.goto(origin + manual);
     const groups = await page.locator('main .prose').evaluate(el => Array.from(el.querySelectorAll(':scope > ul > li')).map(li => ({
       title: li.querySelector('strong')?.textContent,
-      pages: Array.from(li.querySelectorAll('a')).map(a => ({title:a.textContent, path:new URL(a.href).pathname}))
+      pages: Array.from(li.querySelectorAll('a[data-manual-chapter]')).map(a => ({title:a.textContent, path:new URL(a.href).pathname}))
     })));
     if (!groups.length || groups.some(g => !g.title || !g.pages.length)) throw new Error(`Manual hierarchy missing: ${lang}`);
     const entries = groups.flatMap(g => g.pages);

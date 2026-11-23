@@ -1,10 +1,9 @@
 {{ $fr := eq site.Language.Lang "fr" }}
 {{ $groups := slice
-  (dict "en" "Understand the lab" "fr" "Comprendre le labo" "keys" (slice "lab-philosophy" "supervision-capacity" "community"))
-  (dict "en" "Gain research experience" "fr" "Acquérir de l’expérience en recherche" "keys" (slice "research-access" "research-skills"))
-  (dict "en" "Prepare an application" "fr" "Préparer une candidature" "keys" (slice "graduate-preparation" "psyd-applicants" "postdoc-applicants" "applicant-funding"))
-  (dict "en" "Understand important concepts" "fr" "Comprendre les concepts importants" "keys" (slice "concept-primers" "concept-prosocial-behavior" "concept-measurement" "concept-persons-situations" "concept-empathy-compassion" "concept-altruism" "concept-intention-action" "concept-robust-prosociality"))
-  (dict "en" "Start and plan your research" "fr" "Commencer et planifier ses recherches" "keys" (slice "ra-onboarding" "choosing-student-project" "ai-policy"))
+  (dict "en" "For everyone" "fr" "Pour tout le monde" "keys" (slice "ra-onboarding" "lab-philosophy" "community" "supervision-capacity" "research-skills" "ai-policy" "concept-primers" "concept-prosocial-behavior" "concept-measurement" "concept-persons-situations" "concept-empathy-compassion" "concept-altruism" "concept-intention-action" "concept-robust-prosociality"))
+  (dict "en" "Undergraduate students" "fr" "Étudiantes et étudiants au baccalauréat" "keys" (slice "research-access" "choosing-student-project" "graduate-preparation"))
+  (dict "en" "PsyD and other graduate students" "fr" "D.Psy. et autres études aux cycles supérieurs" "keys" (slice "psyd-applicants" "applicant-funding") "related" (slice "graduate-preparation"))
+  (dict "en" "Postdocs and visiting researchers" "fr" "Stages postdoctoraux et séjours de recherche" "keys" (slice "postdoc-applicants") "related" (slice "applicant-funding"))
 }}
 <ul>
   {{ range $groups }}
@@ -13,7 +12,12 @@
       <ul>
         {{ range .keys }}
           {{ range where site.RegularPages "TranslationKey" . }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <li><a data-manual-chapter href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
+        {{ range .related }}
+          {{ range where site.RegularPages "TranslationKey" . }}
+            <li>{{ if $fr }}Voir aussi{{ else }}See also{{ end }} · <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
         {{ end }}
       </ul>
