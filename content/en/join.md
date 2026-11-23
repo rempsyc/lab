@@ -31,6 +31,8 @@ To join the **SAGE Community announcement list**, email [labosage@uqar.ca](mailt
 
 {{< join_section title="Undergraduate students" >}}
 
+Starting a psychology degree at UQAR? See our [hidden curriculum FAQ]({{< relref "hidden-curriculum.md" >}}) for what to expect at university, how to prepare for exams, and how to get started in research.
+
 Looking for research experience or preparing for graduate school? Explore [routes to research experience]({{< relref "research-experience-access.md" >}}) and our [graduate application advice]({{< relref "preparing-graduate-applications.md" >}}).
 
 Undergraduate students may become involved as research assistants, volunteers, summer students, or through supervised research and course-credit opportunities when available. Previous research experience is helpful but not always necessary; curiosity, reliability, attention to detail, and a sustained time commitment matter most.

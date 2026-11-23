@@ -1,0 +1,129 @@
+---
+title: The hidden curriculum of an undergraduate psychology degree
+summary: A practical guide to the transition from CEGEP, academic expectations, finding research experience, and exploring graduate study in psychology.
+translationKey: hidden-curriculum
+type: page
+layout: compact
+toc: true
+reading_time: false
+share: false
+---
+
+A SAGE Lab FAQ for students at UQAR and anyone considering its psychology degree. The “hidden curriculum” is the information you often pick up by chance, such as what office hours are for, how to get your first research experience, and when to look up doctoral admissions requirements. You can ask these questions in your first term, even if you are still figuring out what you want to do.
+
+## Finding your way at UQAR
+
+### What do CEGEP, baccalauréat, maîtrise, and doctorat mean?
+
+In Québec, a common route to university is a pre-university DEC at a CEGEP. A baccalauréat is an undergraduate bachelor’s degree, a maîtrise is a master’s degree, and a doctorat is a doctorate. Similar names can refer to different levels of study in other countries. If you studied in another system, ask UQAR how it will assess your previous studies and what documents to provide. Detailed course outlines may help with a course equivalency assessment.
+
+[Québec education system](https://www.quebec.ca/education/etudier-quebec/systeme-education) · [UQAR recognition of prior learning](https://www.uqar.ca/programmes-formations-et-admission/reconnaissance-dacquis/)
+
+### What does the Module de la psychologie do, and who should I ask?
+
+| If your question is about… | Start with… |
+| --- | --- |
+| An assignment, instructions, or feedback | The course outline, then the instructor or the teaching assistant listed there |
+| Course selection, prerequisites, or degree planning | The undergraduate psychology program office (Module de la psychologie), listed on the program page |
+| Registration, course changes, or withdrawal deadlines | The academic calendar, then the program office or the listed service if you need to check your situation |
+| Study strategies, mentoring, finances, or career guidance | UQAR’s student services directory |
+| Accommodations, psychosocial support, or settling in from another country | The relevant specialist service in UQAR’s directory |
+
+[UQAR psychology bachelor’s degree](https://www.uqar.ca/programmes-domaines-detudes/baccalaureat-en-psychologie/) · [Academic calendar](https://www.uqar.ca/programmes-formations-et-admission/calendrier-universitaire/) · [UQAR services directory](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+
+## From CEGEP to university
+
+### What changes about how I’m expected to work?
+
+Moving from high school to CEGEP already calls for more independence. Moving to university can mean another adjustment. In a bachelor’s program, you may have more assigned readings, several concepts to connect in the same week, and fewer individual reminders. You are responsible for checking the course outline and announcements on the designated platform (often Moodle), keeping track of deadlines, and planning your work between classes.
+
+At UQAR, **one credit represents about 45 hours of total work, including assessments**. A three-credit course represents about **135 hours over the term**. As a planning example, that is about nine hours per week over 15 weeks. For a course that meets three hours a week, it leaves about six hours for readings, assignments, and assessment preparation. The workload varies by course and week.
+
+[UQAR Regulation 5 — credit definition and section 12 on course outlines](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [From high school to CEGEP (in French)](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [From CEGEP to university (in French)](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
+
+### Can an exam cover a chapter that wasn’t discussed in class?
+
+**Yes, if that chapter is part of the material designated for the assessment.** If chapters 1–3 are listed for the exam, a concept from chapter 3 can be tested even if it never appears on a slide. Check what is required, what is suggested, and what can be tested. If the scope is unclear, ask early in the term: “Which readings can be tested? Could you give an example of the kind of question we might see?”
+
+In psychology, depending on the course objectives, you may be asked to apply a concept to a new situation. To practise, explain it in your own words, distinguish it from a similar concept, and come up with an example you haven’t seen in class.
+
+### What should I do in my first week?
+
+1. Open each course outline and find where announcements and instructions will be posted.
+2. Enter assessment dates and weights in your calendar. Block out study time each week.
+3. Find the required readings, assigned pages, and when to read them. Check what the first assessment covers as soon as it’s announced.
+4. If an expectation is unclear, ask in class or during office hours. For help organizing your time or adjusting how you study, contact UQAR’s learning support centre early in the term.
+
+[UQAR’s learning support centre (CAR) — study strategies and time management](https://www.uqar.ca/services/services-a-la-communaute-universitaire/centre-apprentissage-reussite-et-pedagogie-universitaire-carpu/car/outils-et-ressources/)
+
+## Talking to instructors
+
+### How do I email an instructor for the first time?
+
+In English, “Hello Professor [Last Name]” is a reasonable opening. In French, “Bonjour,” and using vous are good defaults. Name your course or program and ask one specific question. Follow the instructor’s preference if they invite you to use their first name. If a week or so passes without a reply, a brief, polite follow-up is reasonable. If there is a deadline coming up, give the date and check the contact instructions in the course outline.
+
+> **Subject — PSY [course code]: question about the assignment**
+>
+> Hello Professor [Last Name],
+>
+> I’m in your [course name] class. I’ve read the rubric and have a question about what you’re looking for in the methods section. Could I stop by during office hours to ask about it?
+>
+> Thank you,
+>
+> [First and last name]
+
+### What are office hours for? Can I go if I’m doing fine in the course?
+
+Yes. You can use them to talk through a concept, get advice on improving your work, or explore a topic that interests you. Check whether the instructor offers drop-in hours or asks you to make an appointment. One concrete question is enough. For example, “I’d like to understand what would make my argument stronger. Could we look at this paragraph?”
+
+## Getting your first experience
+
+### How do I approach a research lab if I’m just getting started?
+
+Look up research groups and check university and lab websites for openings. In your email, mention a project or topic that interests you, say what you would like to learn, and give your availability. Ask which tasks are open to beginners. Before committing, ask about pay or course credit, hours, responsibilities, and supervision.
+
+> **Subject — First research experience in psychology**
+>
+> Hello Professor [Last Name],
+>
+> I’m in year [number] of the psychology bachelor’s program at UQAR. I’m interested in your work on [topic], especially [specific detail]. I’d like to learn [skill or method]. Do you have any positions or projects open to beginners? I’m available for around [number] hours per week starting in [month].
+>
+> Thank you,
+>
+> [First and last name]
+
+### What if I can’t volunteer or the labs are full?
+
+Ask about paid roles, for-credit options, and when teams recruit. A methods course, a supervised project, or an undergraduate thesis can help you build and demonstrate research skills. Ask the program office about prerequisites and arrangements for the undergraduate thesis before planning your course choices. Keep a short record of your contributions and the methods you learned. Getting hands-on experience can also help you decide whether you enjoy the work.
+
+[Accessing research experience]({{< relref "research-experience-access.md" >}}) · [UQAR psychology degree and course sequence](https://www.uqar.ca/programmes-domaines-detudes/baccalaureat-en-psychologie/)
+
+## Planning what comes next
+
+### Can I apply for a doctorate after my bachelor’s? What is the difference between a PsyD and a PhD?
+
+Some Québec clinical doctorates, including UQAR’s PsyD in Rimouski, accept applications from students coming from a bachelor’s degree. A PsyD is a professional doctorate. In Québec, some PhD programs combine research and clinical training and also lead to eligibility for psychologist licensure. Other PhDs focus on research and may require a master’s. Pathways vary across Canada. If you want to practise, confirm the specific degree with the regulator in the province where you intend to work.
+
+[UQAR psychology doctorate](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [Degrees leading to licensure in Québec](https://www.ordrepsy.qc.ca/fr/permis-psychologue-diplome-quebecois) · [Becoming a psychologist in Canada](https://cpa.ca/students/career/becomingapsychologist/)
+
+### What makes me eligible? What makes my application competitive?
+
+Eligibility means meeting the published minimum requirements. Selection compares eligible applications against the program’s criteria and available places. For each program, check required courses, minimum GPA, how to secure a research supervisor, what experiences count, reference requirements, and deadlines. UQAR’s PsyD requires, among other things, 42 credits of foundational psychology and acceptance by a research supervisor. UQAR also publishes whether the program is open to international applicants. If you studied outside Québec or are studying in Canada with international student status, ask the program how its rules apply to you. Course equivalency and eligibility based on applicant status are separate questions.
+
+[Official UQAR PsyD requirements](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [Guide to requesting PsyD supervision with Professor Thériault]({{< relref "psyd-applicants.md" >}})
+
+### How do I get references, and when should I start?
+
+- **Early in your degree**, find out who can answer your questions. Explore methods, areas of practice, and topics you find interesting.
+- **Midway through your degree**, check prerequisites for programs you are considering. Look for opportunities that fit your schedule and resources, including research or helping experience where relevant to the program.
+- **Before your application year**, note deadlines, when to contact potential supervisors, and what documents you need. Give people who know your work several weeks to write a strong letter. Send them your CV, the instructions, and the deadline. Compare costs and funding as well.
+
+Research, clinical practice, and related careers are all paths you can explore during a psychology degree. UQAR’s career guidance service can help you compare options that fit your interests.
+
+[Preparing for psychology graduate applications]({{< relref "preparing-graduate-applications.md" >}}) · [UQAR services directory](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+
+## About this FAQ
+
+Studies by [Collier and Morgan](https://eric.ed.gov/?id=EJ787423) and [Jack](https://doi.org/10.1177/0038040715614913) describe how students’ backgrounds shape their understanding of faculty expectations and how they approach instructors. [Bangera and Brownell](https://doi.org/10.1187/cbe.14-06-0099) explain how the way research opportunities are offered can affect access. This FAQ applies those ideas to the undergraduate psychology program at UQAR. For admissions or degree planning decisions, use the official page for your program.
+
+Institutional references checked November 23, 2026.

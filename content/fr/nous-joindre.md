@@ -31,6 +31,8 @@ Pour rejoindre la **liste d’annonces de la Communauté SAGE**, écrivez à [la
 
 {{< join_section title="Personnes étudiantes au premier cycle" >}}
 
+Vous commencez le bac en psychologie à l’UQAR? Consultez notre [FAQ sur le curriculum caché]({{< relref "curriculum-cache.md" >}}) pour comprendre les attentes universitaires, les lectures évaluées et les premières démarches en recherche.
+
 Vous cherchez une expérience de recherche ou préparez les cycles supérieurs ? Explorez les [pistes pour accéder à la recherche]({{< relref "acces-experience-recherche.md" >}}) et nos [conseils pour préparer une candidature]({{< relref "preparer-candidature-doctorat.md" >}}).
 
 Les personnes étudiantes au premier cycle peuvent participer aux travaux comme auxiliaires de recherche, bénévoles ou stagiaires d’été, ou encore dans le cadre d’une activité de recherche supervisée ou créditée, lorsque de telles possibilités sont offertes. Une expérience préalable en recherche est utile, mais pas toujours nécessaire; la curiosité, la fiabilité, le souci du détail et un engagement soutenu comptent avant tout.
