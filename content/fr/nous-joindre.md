@@ -63,6 +63,12 @@ Cette démarche concerne la recherche non clinique, principalement en ligne, sur
 
 {{< /join_section >}}
 
+{{< join_section title="Stages étudiants en recherche" >}}
+
+Vous cherchez un stage de recherche encadré dans le cadre de vos études? Consultez le [guide des stages de recherche]({{< relref "stages-de-recherche.md" >}}) pour préparer votre prise de contact et trouver les démarches officielles de l’UQAR.
+
+{{< /join_section >}}
+
 {{< join_section title="Stages postdoctoraux et séjours de recherche" >}}
 
 Les personnes souhaitant effectuer un stage postdoctoral ou un séjour de recherche sont invitées à proposer un projet qui complète le programme du laboratoire tout en développant un axe de recherche autonome. Veuillez préciser les dates envisagées, la situation de financement ou les demandes de bourse prévues, votre expertise méthodologique et les collaborations possibles.

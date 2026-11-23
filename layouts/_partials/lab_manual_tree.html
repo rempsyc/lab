@@ -1,21 +1,30 @@
 {{ $fr := eq site.Language.Lang "fr" }}
 {{ $groups := slice
-  (dict "en" "For everyone" "fr" "Pour tout le monde" "keys" (slice "ra-onboarding" "lab-philosophy" "community" "supervision-capacity" "research-skills" "ai-policy" "concept-primers" "concept-prosocial-behavior" "concept-measurement" "concept-persons-situations" "concept-empathy-compassion" "concept-altruism" "concept-intention-action" "concept-robust-prosociality"))
-  (dict "en" "Undergraduate students" "fr" "Étudiantes et étudiants au baccalauréat" "keys" (slice "research-access" "choosing-student-project" "graduate-preparation"))
+  (dict "en" "Understand the lab" "fr" "Comprendre le labo" "keys" (slice "lab-philosophy" "supervision-capacity" "community"))
+  (dict "en" "Understand important concepts" "fr" "Comprendre les concepts importants" "overview" "concept-primers" "keys" (slice "concept-prosocial-behavior" "concept-measurement" "concept-persons-situations" "concept-empathy-compassion" "concept-altruism" "concept-intention-action" "concept-robust-prosociality"))
+  (dict "en" "For lab members" "fr" "Pour les membres du labo" "keys" (slice "ra-onboarding" "research-skills" "ai-policy"))
+  (dict "en" "Undergraduate students" "fr" "Étudiantes et étudiants au baccalauréat" "keys" (slice "hidden-curriculum" "planning-university-workload" "research-access" "choosing-student-project" "graduate-preparation"))
   (dict "en" "PsyD and other graduate students" "fr" "D.Psy. et autres études aux cycles supérieurs" "keys" (slice "psyd-applicants" "applicant-funding") "related" (slice "graduate-preparation"))
+  (dict "en" "Research interns" "fr" "Stagiaires en recherche" "keys" (slice "research-internships"))
   (dict "en" "Postdocs and visiting researchers" "fr" "Stages postdoctoraux et séjours de recherche" "keys" (slice "postdoc-applicants") "related" (slice "applicant-funding"))
 }}
 <ul>
   {{ range $groups }}
+    {{ $group := . }}
     <li>
       <strong>{{ if $fr }}{{ .fr }}{{ else }}{{ .en }}{{ end }}</strong>
+      {{ with .overview }}
+        {{ range where site.RegularPages "TranslationKey" . }}
+          · <a href="{{ .RelPermalink }}">{{ if $fr }}Index des fiches{{ else }}Primer index{{ end }}</a>
+        {{ end }}
+      {{ end }}
       <ul>
-        {{ range .keys }}
+        {{ range $group.keys }}
           {{ range where site.RegularPages "TranslationKey" . }}
             <li><a data-manual-chapter href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
         {{ end }}
-        {{ range .related }}
+        {{ range $group.related }}
           {{ range where site.RegularPages "TranslationKey" . }}
             <li>{{ if $fr }}Voir aussi{{ else }}See also{{ end }} · <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}

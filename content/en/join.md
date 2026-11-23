@@ -63,6 +63,12 @@ This pathway concerns nonclinical research, mainly online, using existing data o
 
 {{< /join_section >}}
 
+{{< join_section title="Student research internships" >}}
+
+Looking for a supervised research internship as part of your studies? Read our [research internship guide]({{< relref "research-internships.md" >}}) for what to include in your inquiry and the official UQAR procedures.
+
+{{< /join_section >}}
+
 {{< join_section title="Postdoctoral fellows and visiting researchers" >}}
 
 Prospective postdoctoral fellows and visiting researchers are encouraged to propose a project that complements the lab’s research program while developing an independent line of work. Please indicate the anticipated dates, funding situation or fellowship plans, methodological expertise, and potential points of collaboration.
