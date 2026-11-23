@@ -39,6 +39,8 @@ Le passage du secondaire au cégep demande déjà de gagner en autonomie. Le pas
 
 À l’UQAR, **un crédit correspond à environ 45 heures de travail au total, évaluations comprises**. Cela donne environ **135 heures sur le trimestre** pour un cours de trois crédits. Si le cours se réunit trois heures par semaine pendant 15 semaines, le calcul laisse **environ six heures par semaine en dehors des séances**, en moyenne sur le trimestre. C’est un repère de planification dérivé de la définition d’un crédit. Le temps réellement nécessaire dépend du cours, de la semaine, de vos acquis et de votre façon d’étudier.
 
+Pour voir comment répartir ce temps entre les lectures, les quiz et les travaux, consultez [Planifier sa charge de travail à l’université]({{< relref "planifier-charge-travail.md" >}}).
+
 [Règlement 5 de l’UQAR — définition d’un crédit et articles 12 et 13 sur le plan de cours et la notation](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [Du secondaire au cégep](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [Du cégep à l’université](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
 
 ### Si j’étudie six heures par semaine, est-ce que je devrais obtenir un A?
@@ -112,6 +114,12 @@ Demandez quels postes sont rémunérés, quelles activités sont créditées et 
 
 ## Préparer la suite
 
+### Si j’envisage un doctorat en psychologie, quand devrais-je commencer à m’y préparer?
+
+Vous pouvez commencer dès la première année, même si vous hésitez encore entre la pratique, la recherche et d’autres débouchés. En début de bac, explorez les parcours qui vous intéressent et repérez leurs conditions d’admission. En cours de bac, vérifiez quels cours et quelles expériences sont pertinents, puis notez les échéances d’admission et de bourses. Le service d’orientation de l’UQAR peut vous aider à comparer les parcours.
+
+[Préparer sa candidature aux cycles supérieurs en psychologie]({{< relref "preparer-candidature-doctorat.md" >}}) · [Services à la communauté universitaire](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+
 ### Puis-je passer du bac au doctorat? Quelle est la différence entre un D.Psy. et un Ph.D.?
 
 Certains doctorats cliniques québécois, dont le D.Psy. de l’UQAR à Rimouski, permettent de déposer une candidature après le bac. Un D.Psy. est un doctorat professionnel. Au Québec, certains Ph.D. combinent recherche et intervention et donnent aussi accès au permis de psychologue. D’autres Ph.D. sont axés sur la recherche et peuvent demander une maîtrise. Les parcours varient au Canada. Si vous visez la pratique, vérifiez le diplôme précis auprès de l’organisme de réglementation de la province où vous souhaitez exercer.
@@ -124,15 +132,17 @@ L’admissibilité répond aux conditions minimales publiées. La sélection com
 
 [Conditions officielles du D.Psy. de l’UQAR](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [Guide pour une demande de direction au D.Psy. auprès du professeur Thériault]({{< relref "candidatures-dpsy.md" >}})
 
-### Comment trouver des références et savoir quand commencer?
+### À qui demander des lettres de recommandation, et quand?
 
-- **En début de bac**, repérez les personnes et les services à qui poser vos questions. Explorez les méthodes, les domaines de pratique et les sujets qui vous intéressent.
-- **En milieu de bac**, vérifiez les préalables des programmes qui vous attirent. Cherchez des occasions compatibles avec votre horaire et vos ressources, en recherche ou en relation d’aide selon les critères du parcours.
-- **Avant l’année de candidature**, relevez les dates d’admission, l’ordre des démarches avec les directions de recherche et les pièces demandées. Demandez plusieurs semaines à l’avance si une personne qui connaît votre travail peut rédiger une lettre solide. Transmettez votre CV, les consignes et l’échéance. Comparez aussi les coûts et le financement.
+Le nombre de lettres et le type de répondantes ou répondants varient selon le programme ou la bourse. Par exemple, McGill demande trois lettres pour son doctorat en psychologie. Le D.Psy. de l’UQAR demande deux lettres, transmises directement par les personnes qui les rédigent à l’aide du formulaire officiel. La preuve d’acceptation d’encadrement est une pièce distincte. Les lettres doivent venir de personnes autres que la direction ou la codirection d’essai pressentie.
 
-La recherche, la pratique et les métiers connexes sont des voies que vous pouvez explorer pendant le bac. Le service d’orientation peut vous aider à comparer celles qui correspondent à vos intérêts.
+[Documents exigés pour le D.Psy. de l’UQAR](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [Admission au doctorat en psychologie à McGill](https://www.mcgill.ca/psychology/graduate/prospective-students/admission-requirements-procedures)
 
-[Préparer sa candidature aux cycles supérieurs]({{< relref "preparer-candidature-doctorat.md" >}}) · [Services à la communauté universitaire](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+- **Dès la première année**, créez des occasions pour que des personnes voient votre travail. Discutez d’un travail pendant les heures de disponibilité, demandez de la rétroaction ou participez à un projet encadré. Un cours, un emploi pertinent ou une expérience communautaire peuvent aussi faire connaître vos compétences, selon les critères de la candidature.
+- **Pendant le bac**, repérez trois ou quatre personnes qui pourraient parler de votre travail à partir d’exemples précis, puis vérifiez lesquelles répondent aux critères. Gardez une trace de vos travaux et de vos contributions pour pouvoir leur rafraîchir la mémoire.
+- **Avant chaque échéance**, demandez à la personne si elle se sent en mesure de rédiger une lettre solide. Si possible, prévoyez quatre à six semaines de délai. Envoyez votre CV, le programme ou la bourse visée, la date limite, le formulaire ou le lien de dépôt et un bref rappel du travail que vous avez fait ensemble. Vérifiez aussi les échéances des bourses, qui peuvent précéder celles des admissions.
+
+> Bonjour, j’ai suivi votre cours de [nom] et réalisé [travail ou projet]. Je prépare une candidature pour [programme ou bourse], dont l’échéance est le [date]. Vous sentiriez-vous en mesure de rédiger une lettre de recommandation solide à l’appui de ma candidature? Je peux vous transmettre mon CV, les consignes et un bref rappel de mon travail.
 
 ## À propos de cette FAQ
 

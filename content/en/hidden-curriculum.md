@@ -39,6 +39,8 @@ Moving from high school to CEGEP already calls for more independence. Moving to 
 
 At UQAR, **one credit represents about 45 hours of total work, including assessments**. That gives about **135 hours over the term** for a three-credit course. If the course meets for three hours a week over 15 weeks, the arithmetic leaves **about six hours a week outside class**, averaged over the term. This is a planning estimate derived from the credit definition. The actual time varies with the course, the week, what you already know, and how you study.
 
+For a worked example of how to budget that time for readings, quizzes, and assignments, see [Planning your university workload]({{< relref "planning-university-workload.md" >}}).
+
 [UQAR Regulation 5 — credit definition and sections 12–13 on course outlines and grading](https://www.uqar.ca/app/uploads/2024/04/reglement5.pdf) · [From high school to CEGEP (in French)](https://www.csfoy.ca/parents/le-cegep-comment-ca-marche/differences-entre-le-secondaire-et-le-cegep) · [From CEGEP to university (in French)](https://www.uqac.ca/carrefour/la-pedagogie-de-la-premiere-annee/)
 
 ### Does studying six hours a week mean I should get an A?
@@ -112,6 +114,12 @@ Ask about paid roles, for-credit options, and when teams recruit. A methods cour
 
 ## Planning what comes next
 
+### If I’m considering a doctorate in psychology, when should I start preparing?
+
+You can start exploring in your first year, even if you’re still deciding among clinical practice, research, and other career paths. Early in your degree, look into the paths that interest you and check their entry requirements. As you progress, find out which courses and experiences are relevant, and note application and scholarship deadlines. UQAR’s career guidance service can help you compare your options.
+
+[Preparing for psychology graduate applications]({{< relref "preparing-graduate-applications.md" >}}) · [UQAR services directory](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+
 ### Can I apply for a doctorate after my bachelor’s? What is the difference between a PsyD and a PhD?
 
 Some Québec clinical doctorates, including UQAR’s PsyD in Rimouski, accept applications from students coming from a bachelor’s degree. A PsyD is a professional doctorate. In Québec, some PhD programs combine research and clinical training and also lead to eligibility for psychologist licensure. Other PhDs focus on research and may require a master’s. Pathways vary across Canada. If you want to practise, confirm the specific degree with the regulator in the province where you intend to work.
@@ -124,15 +132,17 @@ Eligibility means meeting the published minimum requirements. Selection compares
 
 [Official UQAR PsyD requirements](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [Guide to requesting PsyD supervision with Professor Thériault]({{< relref "psyd-applicants.md" >}})
 
-### How do I get references, and when should I start?
+### Who should I ask for recommendation letters, and when?
 
-- **Early in your degree**, find out who can answer your questions. Explore methods, areas of practice, and topics you find interesting.
-- **Midway through your degree**, check prerequisites for programs you are considering. Look for opportunities that fit your schedule and resources, including research or helping experience where relevant to the program.
-- **Before your application year**, note deadlines, when to contact potential supervisors, and what documents you need. Give people who know your work several weeks to write a strong letter. Send them your CV, the instructions, and the deadline. Compare costs and funding as well.
+The number of letters and who can write them vary by program or scholarship. For example, McGill asks for three letters for its psychology PhD. UQAR’s PsyD asks for two letters, submitted directly by the referees using the official form. Proof that a supervisor has agreed to supervise you is a separate document. Your proposed doctoral essay supervisor or co-supervisor cannot write either letter.
 
-Research, clinical practice, and related careers are all paths you can explore during a psychology degree. UQAR’s career guidance service can help you compare options that fit your interests.
+[UQAR PsyD application documents](https://www.uqar.ca/programmes-domaines-detudes/doctorat-en-psychologie-cheminement-professionnel/) · [McGill psychology PhD admissions](https://www.mcgill.ca/psychology/graduate/prospective-students/admission-requirements-procedures)
 
-[Preparing for psychology graduate applications]({{< relref "preparing-graduate-applications.md" >}}) · [UQAR services directory](https://www.uqar.ca/services/services-a-la-communaute-universitaire/)
+- **Starting in your first year**, create opportunities for people to see your work. Talk through an assignment during office hours, ask for feedback, or take part in a supervised project. A course, relevant job, or community role may also give someone a chance to see your skills, depending on the application criteria.
+- **During your degree**, think of three or four people who can describe your work using specific examples, then check which of them meet the criteria. Keep a short record of your work and contributions so you can remind them what you did.
+- **Before each deadline**, ask whether the person would feel comfortable writing a strong letter. If possible, give them four to six weeks. Send your CV, the program or scholarship name, the deadline, the form or submission link, and a brief reminder of the work you did together. Check scholarship deadlines too, since they may come before admissions deadlines.
+
+> Hello Professor [Last Name], I took your [course name] class and completed [assignment or project]. I’m applying to [program or scholarship], with a deadline of [date]. Would you feel comfortable writing a strong letter of recommendation? I can send my CV, the instructions, and a brief reminder of my work.
 
 ## About this FAQ
 
