@@ -8,61 +8,48 @@ reading_time: false
 share: false
 ---
 
-The SAGE Lab encourages thoughtful use of AI for research and learning. Use it to improve the work and develop your understanding. You remain responsible for what you submit, share, or publish.
+I find the pace of AI progress exciting and unsettling. Tools that recently struggled with basic reasoning can now contribute to work that takes years of training. As a researcher and teacher, I keep coming back to the same question. What should a university degree give students if AI agents can do more and more of the work we train them for, faster than we can and sometimes better?
+
+- The Clay Mathematics Institute put up **US$1 million** for solving a question about the equations that describe fluid flow. Can smooth motion develop a singularity, a point where the mathematical description breaks down? In 2026, OpenAI reported that an internal model found a proof that it can under certain conditions, and formalized the proof in Lean. Clay described the problem as apparently settled and outlined its formal review process. [OpenAI’s report](https://openai.com/index/navier-stokes-solution/) · [Clay’s statement on the Navier–Stokes Millennium Prize problem](https://www.claymath.org/news/navier-stokes-announcement/)
+- In a study by King and Worthington, three former journal editors preferred AI reviews in 26 of 30 comparisons with highly regarded human reviews. AI judges also gave the AI reviews higher ratings across all seven review areas studied. These results concern the reviews and criteria tested in that study. [King and Worthington](https://gking.harvard.edu/peerless/)
+
+Part of my answer is that universities should give students room to discover what they’re curious about and learn to direct an inquiry. That means deciding which questions deserve attention, whose concerns to take seriously, and what values should guide the work. It also means knowing enough about a field to ask a precise question, judge whether the evidence answers it, and change your mind when it doesn’t. Learning to use AI effectively and responsibly belongs in that education. We’re still early in this transition, and I’m still working out what it should mean for teaching and supervision.
+
+For research, I like Dashun Wang’s image of the researcher as **pilot in command**. We can rely on AI agents for parts of the work while choosing the direction, checking the results, and taking responsibility for what we share or publish. Michael Frank’s account of how his lab is adapting helped shape these policies. [Frank’s lab policies and norms](https://babieslearninglanguage.blogspot.com/2026/10/my-labs-ai-policies-and-norms.html)
 
 ## Raise the standard
 
-**Our aim is higher standards at the same level of effort, rather than the same standards with less effort.** Reinvest time saved in learning, checking sources, testing analyses, and considering alternative explanations. Verification is part of the research effort. This means making better use of a sustainable workload, not extending working hours.
+At the SAGE Lab, I want us to **do more rigorous work with the same effort**. Put time saved into learning a method, checking sources, testing analyses, or considering another explanation. Keep the workload sustainable.
 
-## Use AI with purpose
+AI can help you explore ideas, write and debug code, revise prose, and critique a study or manuscript. Choose a tool that fits the task. Discuss substantial uses with your supervisor or collaborators and agree on access and costs before anyone pays for a subscription.
 
-AI can help explain methods, explore ideas, write and debug code, improve prose, and critique a study or manuscript. Choose tools that fit the task and discuss substantial uses with your supervisor or collaborators. Agree on access and costs before committing to paid tools; do not assume a personal subscription is required.
+## Learn enough to check the work
 
-## Build understanding you can use
+Use AI to tackle statistics and research design that would otherwise take too long to learn or feel out of reach. Ask it for worked examples, alternative explanations, practice problems, or feedback on your reasoning. The **virtuous cycle** I want to see is simple. You learn more, so you can catch more mistakes, and investigating those mistakes deepens your understanding.
 
-Use AI to learn concepts and methods that would otherwise be too difficult or time-consuming to approach. Ask for worked examples, competing explanations, practice problems, and feedback on your reasoning. Develop your foundations in **statistics, research design, and critical thinking** so you can judge whether an AI’s choices and conclusions are justified.
-
-The goal is a **virtuous cycle**: AI supports deeper learning; deeper understanding improves your ability to question and check AI; better checks strengthen both your research and your understanding.
-
-Can you explain why a method fits the question, identify its assumptions, recognize a misleading result, and check it against data or original sources? If not, use that gap to guide further learning and supervision. For training tasks, agree on what to attempt independently and what assistance is appropriate. Read the original papers you rely on, and bring uncertainties and errors to supervision early.
+Can you explain why the method fits the question, name its assumptions, and spot a misleading result? Try checking it against the data or an original source. Bring gaps, uncertainties, and errors to supervision early. For training tasks, agree on what to try independently and when to ask AI for help.
 
 ## Verify before sharing
 
-- **Sources:** open the original reference and check that it supports the claim. Never cite a source solely because an AI supplied it.
-- **Analyses:** run the code, inspect the data transformations, and check assumptions and results against the research question.
-- **Writing:** check facts, numbers, quotations, and the strength of conclusions. You should be able to explain and defend the work.
-- **AI critiques:** assess each suggestion against the evidence. A confident review—or agreement among several models—is not independent confirmation.
+- **Sources.** Read the original papers and check that each citation supports the claim.
+- **Analyses.** Rerun the code on the appropriate data, inspect transformations and assumptions, and compare the results with what you report. Use version control, test reusable functions, and document the code.
+- **Writing.** Check facts, numbers, quotations, and whether the evidence warrants the conclusions. Be ready to explain and defend the work.
+- **Critiques.** Consider an AI-assisted manuscript critique or reproducibility check when permissions allow. Evaluate suggestions against the evidence and discuss them with coauthors. Agreement among models still calls for independent verification.
 
-Before circulating a manuscript, consider an AI-assisted critique or reproducibility check when permissions and confidentiality allow. Use the findings to guide checks and discussion with coauthors.
+For manuscript feedback, Stanford’s tool draws on arXiv and currently handles English papers. Expect thinner coverage in fields with fewer arXiv papers. For reporting checks, statcheck recalculates p-values for supported APA-style tests. You still need to assess the design and analysis yourself. The File Drawer is an archive of AI-generated research reports with provenance you can inspect. Follow the reports back to the underlying work before drawing conclusions. [PaperReview.ai](https://paperreview.ai/tech-overview) · [statcheck](https://statcheck.io/) · [The File Drawer](https://filedrawer.org/)
 
-Tools to explore at this step:
+## Protect confidential work
 
-- [Stanford Agentic Reviewer (PaperReview.ai)](https://paperreview.ai/tech-overview): manuscript feedback informed by related work on arXiv. Its documentation notes that coverage may be weaker outside arXiv-heavy fields; it currently supports English papers.
-- [statcheck](https://statcheck.io/): a complementary **non-AI** tool that recalculates p-values from supported statistical tests reported in APA style. It checks reporting consistency, not whether the analysis or design is appropriate.
+Get explicit authorization and check safeguards before sharing identifiable participant data, confidential records, credentials, or peer-review materials with an AI service. Removing names alone may leave people identifiable. Check institutional and ethics requirements, consent, agreements, and how the service handles data before uploading. Use public or synthetic examples while you resolve any uncertainty. Check costs as well.
 
-A manuscript review does not establish computational reproducibility: rerun the analysis code against the appropriate data and compare outputs with the reported results. Check permissions, data handling, and costs before uploading material to any service; these links are options to evaluate, not required purchases or guarantees of accuracy.
+## Document substantial use
 
-For examples of AI-assisted research reports, explore [The File Drawer](https://filedrawer.org/), an archive of studies and explorations with provenance shown per paper. Treat its reports as starting points for examining the underlying work, rather than established findings or a manuscript-review service.
+Record the tool, model, date or version, relevant prompts and settings, code, outputs, human checks, and decisions that affected the work. If AI is part of the research method, describe the procedure in the methods section and preserve the materials needed to reproduce it.
 
-Keep code under version control, test reusable functions, and maintain clear documentation. AI-generated code needs the same review as other research code.
-
-## Protect data and confidential work
-
-Do not put identifiable participant data, confidential records, credentials, or material received under peer-review confidentiality into an AI service without explicit authorization and suitable safeguards. Removing names alone may not make data anonymous. Check institutional requirements, ethics approvals, consent, agreements, and the tool’s data handling before uploading research material. When uncertain, ask before sharing; use public or synthetic examples while resolving the question.
-
-## Make substantial use traceable
-
-Keep enough information to understand and reproduce AI-assisted research: the tool and model, date or version, relevant prompts and settings, code, outputs, and human checks. Record consequential decisions. For AI used as a research method, document the procedure in the methods and preserve appropriate materials.
-
-Discuss substantial assistance with coauthors and disclose it as required by the journal, funder, institution, or course. Human authors retain responsibility; AI tools do not receive authorship. Course and peer-review rules may differ from everyday lab practice.
+Discuss substantial assistance with coauthors and follow the disclosure rules of the journal, funder, institution, or course. Check the rules for any course or peer review separately. Authorship and responsibility belong to people.
 
 ## Respect readers’ time
 
-When sharing AI-generated suggestions or critiques, label them clearly. Read and edit material before circulating it; send colleagues a concise account of what matters and what you need from them.
+Label AI-generated suggestions or critiques when you share them. Read and edit the material first. Tell your colleagues what matters and what you need from them.
 
-## Resources for discussion
-
-- [King & Worthington (2026): AI Article Reviews Dominate Human Peer Reviews at Their Best: Evidence and Policy Choices](https://gking.harvard.edu/peerless/). Research on AI-generated reviews and journal policy; its findings should be interpreted within the study’s scope.
-- [Michael Frank: My lab’s AI policies and norms](https://babieslearninglanguage.blogspot.com/2026/10/my-labs-ai-policies-and-norms.html). Practical guidance on AI review, disclosure, data protection, code quality, and learning. Its manuscript-writing restrictions are specific to that lab.
-
-These practices will evolve as tools, evidence, and institutional requirements change.
+We’ll revisit this policy as the evidence, tools, and institutional requirements change.
