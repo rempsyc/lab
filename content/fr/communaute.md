@@ -13,6 +13,8 @@ share: false
 
 Consultez le **[calendrier officiel des rencontres](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** pour connaître les sujets et les activités à venir.
 
+Vous aimeriez présenter vos travaux, donner une courte conférence ou animer une discussion? **[Proposez une présentation ou une activité](https://docs.google.com/forms/d/e/1FAIpQLScUpGfVS9eVw-0zl9aRcRC_oc5fnF1Ht_N5Ekfdcgq74q_CLw/viewform)** en français ou en anglais. Indiquez votre sujet et vos disponibilités. Nous vous écrirons si nous pouvons vous proposer un créneau.
+
 L’objectif est de réunir des personnes aux intérêts communs, d’apprendre les unes des autres et de faire circuler les idées et l’information. Les liens sociaux et l’apprentissage entre pairs ont une valeur en soi. Aucune expérience en recherche n’est nécessaire : vous pouvez venir selon vos intérêts, écouter ou contribuer sans occuper de rôle en recherche.
 
 La communauté vise également à créer un espace d’entraide où les personnes étudiantes et collaboratrices peuvent se soutenir, partager des possibilités et des compétences, et créer des situations avantageuses pour tout le monde. Cela est particulièrement important lorsque la capacité d’encadrement du laboratoire est limitée : il reste possible de tisser des liens, d’apprendre, de contribuer et de s’entraider sans attendre une place dans un projet supervisé. Je crois que le simple fait d’appartenir à un groupe réfléchi et bienveillant comme celui-ci peut être extrêmement utile au développement personnel et professionnel.
