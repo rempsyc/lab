@@ -13,6 +13,8 @@ share: false
 
 See the **[official meeting schedule](https://docs.google.com/document/d/1J2JvREqPlUjYzLAIBxFV16S8GP3jlezXFQ67zFA2FQI/edit?usp=sharing)** for upcoming topics and activities.
 
+Want to share your research, give a short talk, or lead a discussion? **[Propose a talk or activity](https://docs.google.com/forms/d/e/1FAIpQLScUpGfVS9eVw-0zl9aRcRC_oc5fnF1Ht_N5Ekfdcgq74q_CLw/viewform)** in French or English. Tell us what you’d like to present and when you’re available. We’ll email you if we can offer you a slot.
+
 The aim is to connect like-minded people, learn from one another, and help ideas and information circulate. Social connection and peer learning are worthwhile outcomes in themselves. No research experience is required, and you can attend selectively, listen, or contribute without taking on a research role.
 
 The community is also meant to be a mutual-help space where students and collaborators can support one another, share opportunities and skills, and create situations in which everyone benefits. This matters especially when formal lab capacity is limited: people can still build relationships, learn, contribute, and help one another move forward without waiting for a supervised research placement. I believe that simply belonging to a thoughtful, supportive group like this can be immensely helpful for personal and career development.
