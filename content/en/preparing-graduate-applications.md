@@ -50,7 +50,7 @@ A book review is not an empirical study; its value in selection depends on the p
 2. **Protect academic results:** plan a sustainable workload and ask for support early when needed.
 3. **Choose one or two useful experiences:** prioritize continuity, learning and a realistic role rather than accumulating commitments.
 4. **Look for funding:** consult the [UQAR scholarship directory](https://etudes.uqar.ca/bourses), check eligibility and plan for deadlines.
-5. **Prepare evidence and references:** keep records of your contributions and request letters early with the program’s instructions.
+5. **Prepare evidence and references:** keep records of your contributions and request letters early with the program’s instructions. See [how to ask for a strong recommendation]({{< relref "recommendation-letters.md" >}}).
 6. **Write a targeted inquiry:** demonstrate fit with a supervisor and project through examples rather than promises of perfect autonomy.
 
 Considering supervision with Prof. Thériault? Read [what to know before applying with me for the PsyD]({{< relref "psyd-applicants.md" >}}). If you are already starting an agreed role, our [research-assistant onboarding guide]({{< relref "ra-onboarding.md" >}}) explains how we work. The [SAGE Community]({{< relref "community.md" >}}) can support conversation and peer feedback without guaranteeing a placement or admission.

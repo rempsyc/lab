@@ -50,7 +50,7 @@ Un compte rendu de livre n’est pas une étude empirique; sa valeur dans la sé
 2. **Protéger les résultats scolaires :** établir une charge soutenable et demander de l’aide tôt si nécessaire.
 3. **Choisir une ou deux expériences utiles :** privilégier la continuité, le développement de compétences et un rôle réaliste plutôt que l’accumulation d’engagements.
 4. **Chercher du financement :** consulter le [répertoire des bourses de l’UQAR](https://etudes.uqar.ca/bourses), vérifier chaque admissibilité et anticiper les échéances.
-5. **Préparer les exemples et références :** conserver une trace de vos contributions et demander les lettres suffisamment tôt, avec les consignes du programme.
+5. **Préparer les exemples et références :** conserver une trace de vos contributions et demander les lettres suffisamment tôt, avec les consignes du programme. Consultez nos [conseils pour demander une lettre de recommandation]({{< relref "lettres-recommandation.md" >}}).
 6. **Rédiger une demande ciblée :** montrer la compatibilité avec une direction et un projet; fournir des exemples plutôt que de promettre une autonomie parfaite.
 
 Vous envisagez une direction d’essai avec le Prof. Thériault ? Consultez [Avant de candidater au D.Psy. avec moi]({{< relref "candidatures-dpsy.md" >}}). Pour les personnes qui commencent déjà un rôle convenu, le [guide d’accueil des auxiliaires]({{< relref "accueil-auxiliaires.md" >}}) précise notre fonctionnement. La [Communauté SAGE]({{< relref "communaute.md" >}}) peut offrir un espace d’échange et de rétroaction entre pairs, sans garantie de place ni d’admission.
