@@ -47,7 +47,7 @@ A **power user** knows their tools well enough to work more efficiently. That mi
 | **Ctrl + ←** / **Ctrl + →** | Move left or right one word at a time while editing text. |
 | **Ctrl + Home** / **Ctrl + End** | Jump to the beginning or end of a document. |
 | **Ctrl + ↑** / **Ctrl + ↓** | Move up or down by paragraph in editors that support it. |
-| **Ctrl + Shift + ←** / **Ctrl + Shift + →** | Extend the selection by a word. The same idea works with ↑ and ↓ in supported editors. |
+| **Ctrl + Shift + ←** / **Ctrl + Shift + →** / **Ctrl + Shift + ↑** / **Ctrl + Shift + ↓** | Extend the selection by words with **←** or **→**, or by paragraphs with **↑** or **↓** in supported editors. |
 
 See the [Chrome shortcut reference](https://support.google.com/chrome/answer/157179) and the [Windows shortcut reference](https://support.microsoft.com/en-us/accessibility/windows/keyboard-shortcuts-in-windows). Microsoft also explains how to [copy text with Snipping Tool](https://support.microsoft.com/en-gb/windows/apps/use-snipping-tool-to-capture-screenshots). [Snipping Tool’s text extraction shortcut](https://blogs.windows.com/windows-insider/2025/05/19/announcing-windows-11-insider-preview-build-26120-4151-beta-channel/).
 

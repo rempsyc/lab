@@ -47,7 +47,7 @@ Un **power user** connaît assez bien ses outils pour s’en servir plus efficac
 | **Ctrl + ←** / **Ctrl + →** | Se déplacer d’un mot à la fois vers la gauche ou la droite en révisant un texte. |
 | **Ctrl + Début** (*Home*) / **Ctrl + Fin** (*End*) | Aller au début ou à la fin d’un document. |
 | **Ctrl + ↑** / **Ctrl + ↓** | Se déplacer d’un paragraphe à la fois dans les éditeurs compatibles. |
-| **Ctrl + Maj + ←** / **Ctrl + Maj + →** | Étendre la sélection d’un mot. Le même principe s’applique aux flèches ↑ et ↓ dans les éditeurs compatibles. |
+| **Ctrl + Maj + ←** / **Ctrl + Maj + →** / **Ctrl + Maj + ↑** / **Ctrl + Maj + ↓** | Étendre la sélection par mots avec **←** ou **→**, ou par paragraphes avec **↑** ou **↓** dans les éditeurs compatibles. |
 
 Consultez les [raccourcis de Chrome](https://support.google.com/chrome/answer/157179?hl=fr) et les [raccourcis de Windows](https://support.microsoft.com/fr-fr/accessibility/windows/keyboard-shortcuts-in-windows). Microsoft explique aussi comment [copier du texte avec l’Outil Capture d’écran](https://support.microsoft.com/en-gb/windows/apps/use-snipping-tool-to-capture-screenshots). [Le raccourci de l’extracteur de texte](https://blogs.windows.com/windows-insider/2025/05/19/announcing-windows-11-insider-preview-build-26120-4151-beta-channel/).
 
