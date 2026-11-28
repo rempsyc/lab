@@ -72,7 +72,7 @@ Upholding high standards of excellence and integrity requires cultivating the ha
 
 High performance in science is not about working until burnout; it is about deliberate self-management, continuous optimization, and personal development. Maintaining a healthy work-life balance is essential for sustaining exceptional long-term performance.
 
-We encourage lab members to look for ways to constantly improve their personal effectiveness. The following books have been particularly influential in shaping our approach to personal management and productivity:
+We encourage lab members to look for ways to constantly improve their personal effectiveness. For shortcuts you can practise during everyday work, see [Become a Power User]({{< relref "power-user.md" >}}). The following books have been particularly influential in shaping our approach to personal management and productivity:
 
 * **High Performance Habits: How Extraordinary People Become That Way** (Burchard, 2017).
   Focuses on deliberate habits—such as generating energy, raising necessity, and demonstrating courage—that sustain long-term success without compromising well-being.

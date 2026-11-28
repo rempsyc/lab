@@ -72,7 +72,7 @@ Maintenir des standards élevés d'excellence et d'intégrité exige de cultiver
 
 La haute performance en recherche ne consiste pas à travailler jusqu'à l'épuisement, mais bien à gérer judicieusement ses ressources, à chercher une optimisation constante et à favoriser son développement personnel afin de maintenir un équilibre sain entre vie professionnelle et vie personnelle tout en offrant un rendement exceptionnel.
 
-Nous invitons les membres du laboratoire à chercher constamment à s'améliorer. Les ouvrages suivants ont particulièrement influencé notre approche de la gestion personnelle et de la productivité :
+Nous invitons les membres du laboratoire à chercher constamment à s'améliorer. Pour des raccourcis à mettre en pratique au quotidien, consultez [Devenir un Power User]({{< relref "devenir-un-power-user.md" >}}). Les ouvrages suivants ont particulièrement influencé notre approche de la gestion personnelle et de la productivité :
 
 * **High Performance Habits: How Extraordinary People Become That Way** (Burchard, 2017).
   Met l'accent sur des habitudes délibérées — comme générer de l'énergie, susciter la nécessité et faire preuve de courage — qui soutiennent le succès à long terme sans compromettre le bien-être.
