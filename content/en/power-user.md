@@ -23,9 +23,9 @@ A **power user** knows their tools well enough to work more efficiently. That mi
 | **Tab** / **Shift + Tab** | Move to the next or previous link, button, or form field within a window. Press **Enter** to activate a focused link or button. |
 | **Ctrl + T** / **Ctrl + W** | Open a new browser tab or close the current one. |
 | **Ctrl + Shift + T** | Reopen the most recently closed tab. Repeat to bring back earlier tabs. |
+| **Alt + D** / **Ctrl + L** | Press **Alt + D** with one hand to jump to the browser’s address bar. If Google Docs intercepts it, try **Ctrl + L**. |
 | **F2** | Rename the selected file or folder in Windows File Explorer. |
 | **Ctrl + Shift + Esc** | Open Task Manager directly to check what is running or close an unresponsive app. |
-| **Alt + D** / **Ctrl + L** | Press **Alt + D** with one hand to jump to the browser’s address bar. If Google Docs intercepts it, try **Ctrl + L**. |
 
 ## Tier 2 · Windows tools
 

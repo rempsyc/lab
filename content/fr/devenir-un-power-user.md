@@ -23,9 +23,9 @@ Un **power user** connaît assez bien ses outils pour s’en servir plus efficac
 | **Tab** / **Maj + Tab** | Passer au lien, au bouton ou au champ suivant ou précédent dans une fenêtre. Appuyez sur **Entrée** pour activer un lien ou un bouton sélectionné. |
 | **Ctrl + T** / **Ctrl + W** | Ouvrir un nouvel onglet ou fermer l’onglet actif. |
 | **Ctrl + Maj + T** | Rouvrir le dernier onglet fermé. Répétez le raccourci pour retrouver les précédents. |
+| **Alt + D** / **Ctrl + L** | Utilisez **Alt + D** d’une seule main pour aller à la barre d’adresse du navigateur. Si Google Docs intercepte le raccourci, essayez **Ctrl + L**. |
 | **F2** | Renommer le fichier ou le dossier sélectionné dans l’Explorateur de fichiers Windows. |
 | **Ctrl + Maj + Échap** | Ouvrir le Gestionnaire des tâches pour voir les applications en cours ou fermer une application qui ne répond plus. |
-| **Alt + D** / **Ctrl + L** | Utilisez **Alt + D** d’une seule main pour aller à la barre d’adresse du navigateur. Si Google Docs intercepte le raccourci, essayez **Ctrl + L**. |
 
 ## Tier 2 · Les outils Windows
 
