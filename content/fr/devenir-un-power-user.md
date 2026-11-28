@@ -9,7 +9,9 @@ reading_time: false
 share: false
 ---
 
-Commencez par les gestes que vous répétez chaque jour. Le classement tient compte de la fréquence d’utilisation, du nombre de situations où le raccourci fonctionne et du temps qu’il peut faire gagner. Choisissez deux raccourcis du Tier 1 à essayer cette semaine. **Maj** désigne la touche **Shift**.
+Un **power user** connaît assez bien ses outils pour s’en servir plus efficacement. Ça peut vouloir dire adapter les réglages d’une application à sa façon de travailler, découvrir une fonction qui évite plusieurs étapes ou automatiser une tâche qu’on fait souvent.
+
+**Les raccourcis clavier sont un bon point de départ.** Quand on peut changer de fenêtre, retrouver un passage dans un article ou modifier une phrase sans prendre la souris ni ouvrir un menu, il est plus facile de garder le fil. Choisissez deux raccourcis du Tier 1 à essayer dans votre travail cette semaine. **Maj** désigne la touche **Shift**.
 
 ## Tier 1 · Les raccourcis du quotidien
 
@@ -21,8 +23,7 @@ Commencez par les gestes que vous répétez chaque jour. Le classement tient com
 | **Ctrl + T** / **Ctrl + W** | Ouvrir un nouvel onglet ou fermer l’onglet actif. |
 | **Ctrl + Maj + T** | Rouvrir le dernier onglet fermé. Répétez le raccourci pour retrouver les précédents. |
 | **F2** | Renommer le fichier ou le dossier sélectionné dans l’Explorateur de fichiers Windows. |
-
-**Astuce navigateur.** Utilisez **Alt + D** d’une seule main pour aller à la barre d’adresse. Si Google Docs intercepte le raccourci, essayez **Ctrl + L**.
+| **Alt + D** / **Ctrl + L** | Utilisez **Alt + D** d’une seule main pour aller à la barre d’adresse du navigateur. Si Google Docs intercepte le raccourci, essayez **Ctrl + L**. |
 
 ## Tier 2 · Les outils Windows
 
@@ -56,4 +57,6 @@ Cette technique s’appelle la **frappe à dix doigts**. Sur un clavier QWERTY, 
 
 Les touches de ponctuation peuvent varier selon la disposition du clavier.
 
-Tapez quelques lignes lentement en gardant les yeux sur l’écran. Après avoir atteint une touche avec le doigt correspondant, revenez à la rangée de référence. Privilégiez d’abord la précision. [Entraînez-vous avec Typing Study sur un clavier français du Canada](https://www.typingstudy.com/fr-canadian_french-2/lesson/1).
+J’ai appris à taper à dix doigts pendant mon baccalauréat en psychologie à l’Université McGill. Au début, c’était péniblement lent, mais j’ai persévéré. À force de pratiquer, j’arrivais à taper les yeux fermés ou en gardant les yeux sur mes notes ou sur la personne qui donnait le cours, sans regarder mon écran. Je faisais très peu de fautes. À chaque frappe, je voyais la lettre dans ma tête, simplement en sentant où mon doigt avait atterri. Si je me trompais de touche, je m’en rendais généralement compte tout de suite. Je corrigeais la faute avec **Retour arrière** ou **Ctrl + Retour arrière**, puis je continuais.
+
+C’est l’une des compétences les plus utiles que j’ai acquises. Essayez de fermer les yeux le temps de quelques frappes pour sentir quel doigt atteint quelle touche. Tapez ensuite quelques lignes lentement, les yeux sur l’écran, en ramenant vos doigts sur la rangée de référence après chaque frappe. Privilégiez d’abord la précision. [Entraînez-vous avec Typing Study sur un clavier français du Canada](https://www.typingstudy.com/fr-canadian_french-2/lesson/1).

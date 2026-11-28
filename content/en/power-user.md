@@ -9,7 +9,9 @@ reading_time: false
 share: false
 ---
 
-Start with the actions you repeat every day. The tiers reflect how often a shortcut comes up, how widely it works, and how much effort it saves. Pick two from Tier 1 to practise this week.
+A **power user** knows their tools well enough to work more efficiently. That might mean adjusting an app’s settings to fit the way you work, learning a feature that saves several steps, or automating a task you do often.
+
+**Keyboard shortcuts are a good place to start.** When you can switch windows, find a passage in an article, or edit a sentence without reaching for the mouse or opening a menu, it’s easier to stay focused on what you’re doing. Pick two shortcuts from Tier 1 that you can practise in your own work this week.
 
 ## Tier 1 · Everyday shortcuts
 
@@ -21,8 +23,7 @@ Start with the actions you repeat every day. The tiers reflect how often a short
 | **Ctrl + T** / **Ctrl + W** | Open a new browser tab or close the current one. |
 | **Ctrl + Shift + T** | Reopen the most recently closed tab. Repeat to bring back earlier tabs. |
 | **F2** | Rename the selected file or folder in Windows File Explorer. |
-
-**Browser tip.** Press **Alt + D** with one hand to jump to the address bar. If Google Docs intercepts it, try **Ctrl + L**.
+| **Alt + D** / **Ctrl + L** | Press **Alt + D** with one hand to jump to the browser’s address bar. If Google Docs intercepts it, try **Ctrl + L**. |
 
 ## Tier 2 · Windows tools
 
@@ -56,4 +57,6 @@ This technique is called **touch typing**. On a QWERTY keyboard, rest your left 
 
 Punctuation keys can vary by keyboard layout.
 
-Try a few lines slowly with your eyes on the screen. Reach for each key with its assigned finger, then return to the home row. Focus on accuracy first. [Practise with TypingClub’s interactive lessons](https://www.typingclub.com/).
+I learned to touch-type during my undergraduate studies in psychology at McGill University. It was painfully slow at first, but I stuck with it. Eventually, I could type with my eyes closed or keep my eyes on my notes or the instructor without glancing back at the screen. I made very few mistakes. With each keystroke, I could picture the letter in my mind just from where my finger landed. If I hit the wrong key, I usually knew right away. I’d press **Backspace** or **Ctrl + Backspace** to fix it and keep going.
+
+It’s one of the most useful skills I’ve developed. Try closing your eyes for a few keystrokes to feel which finger reaches each key. Then practise a few lines slowly with your eyes on the screen, returning your fingers to the home row after each reach. Focus on accuracy first. [Practise with TypingClub’s interactive lessons](https://www.typingclub.com/).
