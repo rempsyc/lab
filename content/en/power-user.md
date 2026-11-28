@@ -20,9 +20,11 @@ A **power user** knows their tools well enough to work more efficiently. That mi
 | **Ctrl + F** | Find a word or phrase on a web page, in a PDF, or in a document. |
 | **Alt + Tab** | Switch between open Windows apps or windows, for example between an article and your notes. |
 | **Ctrl + Tab** / **Ctrl + Shift + Tab** | Go to the next or previous browser tab. |
+| **Tab** / **Shift + Tab** | Move to the next or previous link, button, or form field within a window. Press **Enter** to activate a focused link or button. |
 | **Ctrl + T** / **Ctrl + W** | Open a new browser tab or close the current one. |
 | **Ctrl + Shift + T** | Reopen the most recently closed tab. Repeat to bring back earlier tabs. |
 | **F2** | Rename the selected file or folder in Windows File Explorer. |
+| **Ctrl + Shift + Esc** | Open Task Manager directly to check what is running or close an unresponsive app. |
 | **Alt + D** / **Ctrl + L** | Press **Alt + D** with one hand to jump to the browser’s address bar. If Google Docs intercepts it, try **Ctrl + L**. |
 
 ## Tier 2 · Windows tools
