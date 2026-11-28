@@ -60,7 +60,28 @@ try {
             a.setAttribute('href', id ? '#' + id + (url.hash ? '-' + decodeURIComponent(url.hash.slice(1)) : '') : new URL(url.pathname + url.search + url.hash, site).href);
           }
         });
-        copy.querySelectorAll('img').forEach(img => { img.src=new URL(img.getAttribute('src'), location.href).href; img.removeAttribute('loading'); img.removeAttribute('srcset'); });
+        copy.querySelectorAll('img').forEach(img => {
+          const url = new URL(img.getAttribute('src'), location.href);
+          if (url.origin === new URL(site).origin) {
+            img.src = new URL(url.pathname + url.search + url.hash, origin).href;
+          } else if (url.origin === origin || url.protocol === 'data:') {
+            img.src = url.href;
+          } else {
+            // The PDF browser blocks external requests. Preserve a readable link instead.
+            const label = img.alt.trim() || url.href;
+            if (img.closest('a[href]')) {
+              img.replaceWith(document.createTextNode(label));
+            } else {
+              const link = document.createElement('a');
+              link.href = url.href;
+              link.textContent = label;
+              img.replaceWith(link);
+            }
+            return;
+          }
+          img.removeAttribute('loading');
+          img.removeAttribute('srcset');
+        });
         return copy.innerHTML;
       }, {origin, site:site.href, ids, chapter:ids[entry.path]});
       chapters += `<section class="chapter" id="${ids[entry.path]}"><p class="eyebrow">${i+1} / ${entries.length}</p><h1>${escape(entry.title)}</h1><p class="online"><a href="${new URL(entry.path, site).href}">${fr ? 'Lire en ligne' : 'Read online'}</a></p>${body}</section>`;
